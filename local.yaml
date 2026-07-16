@@ -11,6 +11,8 @@ services:
       - "8069:8069"
   db:
     image: postgres:15
+    volumes:
+      - odoo-db-data:/var/lib/postgresql/data/pgdata
     environment:
       - POSTGRES_DB=postgres
       - POSTGRES_PASSWORD=odoo360
