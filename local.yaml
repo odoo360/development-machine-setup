@@ -1,6 +1,10 @@
 services:
   web:
-    image: odoo:17.0
+    image: odoo:19
+    volumes:
+      - odoo-web-data:/var/lib/odoo
+      - ./config:/etc/odoo
+      - ./addons:/mnt/extra-addons
     depends_on:
       - db
     ports:
@@ -11,3 +15,6 @@ services:
       - POSTGRES_DB=postgres
       - POSTGRES_PASSWORD=odoo360
       - POSTGRES_USER=odoo360
+volumes:
+  odoo-web-data:
+  odoo-db-data:
