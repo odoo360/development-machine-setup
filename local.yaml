@@ -10,7 +10,7 @@ services:
     ports:
       - "8069:8069"
   db:
-    image: postgres:15
+    image: postgres:18
     volumes:
       - odoo-db-data:/var/lib/postgresql/data/pgdata
     environment:
