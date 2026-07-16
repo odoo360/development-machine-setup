@@ -7,8 +7,8 @@
 اگر روی ویندوز هستید، این ابزارها را با `winget` نصب کنید:
 
 ```powershell
-winget install --id Git.Git -e
-winget install --id Docker.DockerDesktop -e
+winget install Git.Git 
+winget install Docker.DockerDesktop 
 ```
 
 بعد از نصب Docker Desktop، آن را اجرا کنید و مطمئن شوید Docker روشن است.
@@ -17,7 +17,7 @@ winget install --id Docker.DockerDesktop -e
 
 ```powershell
 git clone https://github.com/odoo360/development-machine-setup.git
-cd runapp
+cd development-machine-setup
 ```
 
 ## اجرای پروژه
