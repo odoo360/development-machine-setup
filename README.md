@@ -38,6 +38,29 @@ docker compose up -d
 http://localhost:8069
 ```
 
+## تنظیم اولیه دیتابیس (Database Selector)
+
+در اجرای اول، به صفحه‌ی زیر هدایت می‌شوید:
+
+```text
+http://localhost:8069/web/database/selector
+```
+
+اگر پیام هشدار مربوط به Database Manager را دیدید، مقدار `Master Password` را از همان پیام کپی کنید.
+
+
+مقادیر پیشنهادی برای ساخت دیتابیس:
+
+- Master Password: همان مقداری که بالای فرم نمایش داده می‌شود (مثلا `8v6h-w59j-6zuj`)
+- Database Name: یک نام ساده و بدون فاصله، مثلا `odoo360_dev`
+- Email: ایمیل ادمین، مثلا `admin@example.com`
+- Password: رمز عبور کاربر ادمین Odoo
+- Phone Number: اختیاری
+- Language: مثلا `Farsi` یا زبان دلخواه
+- Country: کشور دلخواه
+- Demo Data: برای محیط توسعه روشن باشد، برای محیط واقعی خاموش باشد
+
+
 ## توقف سرویس‌ها
 
 برای متوقف کردن پروژه از این دستور استفاده کنید:
