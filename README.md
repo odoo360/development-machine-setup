@@ -16,7 +16,7 @@ winget install --id Docker.DockerDesktop -e
 ## کلون کردن مخزن
 
 ```powershell
-git clone https://github.com/odoo360/runapp.git
+git clone https://github.com/odoo360/development-machine-setup.git
 cd runapp
 ```
 
