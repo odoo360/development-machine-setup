@@ -36,7 +36,7 @@ msgstr "کاربر پروکسی EDI حساب"
 #. module: account_peppol_response
 #: model:ir.model.fields.selection,name:account_peppol_response.selection__account_peppol_response__response_code__ab
 msgid "Acknowledgement"
-msgstr ""
+msgstr "تأیید دریافت"
 
 #. module: account_peppol_response
 #: model_terms:ir.ui.view,arch_db:account_peppol_response.account_peppol_rejection_wizard_view_form
@@ -192,7 +192,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/account_peppol_response/models/account_edi_proxy_user.py:0
 msgid "Miscellaneous:"
-msgstr ""
+msgstr "متفرقه:"
 
 #. module: account_peppol_response
 #: model:ir.model.fields,field_description:account_peppol_response.field_account_peppol_rejection_wizard__move_ids
@@ -257,7 +257,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:account_peppol_response.field_account_move__peppol_response_ids
 #: model_terms:ir.ui.view,arch_db:account_peppol_response.account_peppol_response_view_form
 msgid "Peppol Response"
-msgstr ""
+msgstr "پاسخ Peppol"
 
 #. module: account_peppol_response
 #: model:ir.model.fields,field_description:account_peppol_response.field_res_partner__peppol_response_support
@@ -329,7 +329,7 @@ msgstr "رد شده"
 #. module: account_peppol_response
 #: model:ir.model.fields.selection,name:account_peppol_response.selection__account_peppol_response__response_code__re
 msgid "Rejection"
-msgstr ""
+msgstr "رد"
 
 #. module: account_peppol_response
 #: model:ir.model.fields,field_description:account_peppol_response.field_account_peppol_rejection_wizard__action_ids
@@ -344,7 +344,7 @@ msgstr ""
 #. module: account_peppol_response
 #: model:ir.model.fields,field_description:account_peppol_response.field_account_peppol_response__response_code
 msgid "Response Code"
-msgstr ""
+msgstr "کد پاسخ"
 
 #. module: account_peppol_response
 #: model_terms:ir.ui.view,arch_db:account_peppol_response.account_peppol_rejection_wizard_view_form
@@ -355,7 +355,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/account_peppol_response/models/account_edi_proxy_user.py:0
 msgid "Suggested actions:"
-msgstr ""
+msgstr "اقدامات پیشنهادی:"
 
 #. module: account_peppol_response
 #: model:ir.model.fields,field_description:account_peppol_response.field_res_partner__peppol_supported_documents
@@ -406,7 +406,7 @@ msgstr ""
 #. module: account_peppol_response
 #: model:ir.model.fields.selection,name:account_peppol_response.selection__account_peppol_response__response_code__uq
 msgid "Under query"
-msgstr ""
+msgstr "در دست بررسی"
 
 #. module: account_peppol_response
 #. odoo-python

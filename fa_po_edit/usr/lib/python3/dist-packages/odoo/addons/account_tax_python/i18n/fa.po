@@ -85,7 +85,7 @@ msgstr "فرمول"
 #. module: account_tax_python
 #: model:ir.model.fields,field_description:account_tax_python.field_account_tax__formula_decoded_info
 msgid "Formula Decoded Info"
-msgstr ""
+msgstr "اطلاعات رمزگشایی فرمول"
 
 #. module: account_tax_python
 #: model:ir.model.fields,field_description:account_tax_python.field_account_tax__id
@@ -96,7 +96,7 @@ msgstr "شناسه"
 #. odoo-python
 #: code:addons/account_tax_python/tools/formula_utils.py:0
 msgid "Invalid AST node: %s"
-msgstr ""
+msgstr "گره AST نامعتبر: %s"
 
 #. module: account_tax_python
 #. odoo-python
@@ -148,13 +148,13 @@ msgstr "محاسبه مالیات"
 #. odoo-python
 #: code:addons/account_tax_python/tools/formula_utils.py:0
 msgid "Unknown function call"
-msgstr ""
+msgstr "فراخوانی تابع ناشناخته"
 
 #. module: account_tax_python
 #. odoo-python
 #: code:addons/account_tax_python/tools/formula_utils.py:0
 msgid "Unknown identifier: %s"
-msgstr ""
+msgstr "شناسه نامعتبر: %s"
 
 #~ msgid ""
 #~ "\n"

@@ -208,7 +208,7 @@ msgstr "شماره"
 #. module: pos_safaricom
 #: model:ir.model.fields,field_description:pos_safaricom.field_pos_payment_method__passkey
 msgid "Passkey"
-msgstr ""
+msgstr "کلید عبور"
 
 #. module: pos_safaricom
 #. odoo-javascript

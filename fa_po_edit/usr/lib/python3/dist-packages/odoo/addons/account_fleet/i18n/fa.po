@@ -37,7 +37,7 @@ msgstr "سند حسابداری"
 #. module: account_fleet
 #: model:ir.model.fields,field_description:account_fleet.field_fleet_vehicle_log_services__account_move_line_id
 msgid "Account Move Line"
-msgstr ""
+msgstr "سطر سند حسابداری"
 
 #. module: account_fleet
 #. odoo-python

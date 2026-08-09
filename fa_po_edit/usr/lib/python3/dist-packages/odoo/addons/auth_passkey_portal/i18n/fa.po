@@ -71,7 +71,7 @@ msgstr "نام‌ کلید خود را مشخص کنید"
 #: code:addons/auth_passkey_portal/static/src/js/passkeys_portal.js:0
 #: model_terms:ir.ui.view,arch_db:auth_passkey_portal.passkeys_portal_hook
 msgid "Passkeys"
-msgstr ""
+msgstr "کلیدهای عبور"
 
 #. module: auth_passkey_portal
 #. odoo-javascript

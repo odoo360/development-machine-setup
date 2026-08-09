@@ -33004,7 +33004,7 @@ msgstr ""
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_auth_passkey
 msgid "Passkeys"
-msgstr ""
+msgstr "کلیدهای عبور"
 
 #. module: base
 #: model:ir.module.module,shortdesc:base.module_auth_passkey_portal

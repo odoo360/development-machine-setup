@@ -460,7 +460,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/account_edi_ubl_cii/models/account_move.py:0
 msgid "Export XML"
-msgstr ""
+msgstr "خروجی XML"
 
 #. module: account_edi_ubl_cii
 #. odoo-python
@@ -859,7 +859,7 @@ msgstr "اودو"
 #. module: account_edi_ubl_cii
 #: model_terms:ir.ui.view,arch_db:account_edi_ubl_cii.view_partner_property_form
 msgid "Peppol Address"
-msgstr ""
+msgstr "نشانی Peppol"
 
 #. module: account_edi_ubl_cii
 #: model:ir.model.fields,field_description:account_edi_ubl_cii.field_res_partner__peppol_endpoint
@@ -870,7 +870,7 @@ msgstr "مقصد Peppol"
 #. module: account_edi_ubl_cii
 #: model_terms:ir.ui.view,arch_db:account_edi_ubl_cii.view_partner_property_form
 msgid "Peppol ID"
-msgstr ""
+msgstr "شناسه Peppol"
 
 #. module: account_edi_ubl_cii
 #: model:ir.model.fields,field_description:account_edi_ubl_cii.field_res_partner__peppol_eas
@@ -1030,12 +1030,12 @@ msgstr "مالیات %(tax_name)s نامعتبر است: %(error_message)s"
 #. module: account_edi_ubl_cii
 #: model:ir.model.fields,field_description:account_edi_ubl_cii.field_account_tax__ubl_cii_tax_category_code
 msgid "Tax Category Code"
-msgstr ""
+msgstr "کد دسته‌بندی مالیات"
 
 #. module: account_edi_ubl_cii
 #: model:ir.model.fields,field_description:account_edi_ubl_cii.field_account_tax__ubl_cii_tax_exemption_reason_code
 msgid "Tax Exemption Reason Code"
-msgstr ""
+msgstr "کد دلیل معافیت مالیاتی"
 
 #. module: account_edi_ubl_cii
 #: model_terms:ir.ui.view,arch_db:account_edi_ubl_cii.layout_invoices_generated_by_odoo
@@ -1287,7 +1287,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/account_edi_ubl_cii/models/account_move.py:0
 msgid "Unknown partner"
-msgstr ""
+msgstr "شریک ناشناس"
 
 #. module: account_edi_ubl_cii
 #. odoo-python

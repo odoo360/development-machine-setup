@@ -34,7 +34,7 @@ msgstr "حساب های بانکی"
 #: model:ir.model.fields,field_description:account_qr_code_emv.field_account_setup_bank_manual_config__country_proxy_keys
 #: model:ir.model.fields,field_description:account_qr_code_emv.field_res_partner_bank__country_proxy_keys
 msgid "Country Proxy Keys"
-msgstr ""
+msgstr "کلیدهای پروکسی کشور"
 
 #. module: account_qr_code_emv
 #: model:ir.model.fields,field_description:account_qr_code_emv.field_res_partner_bank__display_name
@@ -56,7 +56,7 @@ msgstr "کد QR ارائه شده بوسیله‌ی EVM بازرگان"
 #. module: account_qr_code_emv
 #: model_terms:ir.ui.view,arch_db:account_qr_code_emv.view_partner_bank_form_inherit_account
 msgid "EMV QR Settings"
-msgstr ""
+msgstr "تنظیمات QR ‏EMV"
 
 #. module: account_qr_code_emv
 #: model:ir.model.fields,field_description:account_qr_code_emv.field_res_partner_bank__id
