@@ -81,7 +81,7 @@ msgstr ""
 #. module: pos_adyen
 #: model:ir.model,name:pos_adyen.model_res_config_settings
 msgid "Config Settings"
-msgstr ""
+msgstr "تنظیمات پیکربندی"
 
 #. module: pos_adyen
 #. odoo-javascript
@@ -96,7 +96,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:pos_adyen.field_pos_payment_method__display_name
 #: model:ir.model.fields,field_description:pos_adyen.field_res_config_settings__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: pos_adyen
 #: model:ir.model.fields,field_description:pos_adyen.field_pos_payment_method__adyen_event_url
@@ -108,7 +108,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:pos_adyen.field_pos_payment_method__id
 #: model:ir.model.fields,field_description:pos_adyen.field_res_config_settings__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: pos_adyen
 #. odoo-python
@@ -132,12 +132,12 @@ msgstr ""
 #. module: pos_adyen
 #: model:ir.model,name:pos_adyen.model_pos_config
 msgid "Point of Sale Configuration"
-msgstr ""
+msgstr "پیکربندی پایانه فروش"
 
 #. module: pos_adyen
 #: model:ir.model,name:pos_adyen.model_pos_payment_method
 msgid "Point of Sale Payment Methods"
-msgstr ""
+msgstr "روش های پرداخت پایانه فروش"
 
 #. module: pos_adyen
 #: model:ir.model.fields,field_description:pos_adyen.field_res_config_settings__pos_adyen_ask_customer_for_tip
@@ -180,3 +180,4 @@ msgstr ""
 #: model:ir.model.fields,help:pos_adyen.field_pos_payment_method__adyen_terminal_identifier
 msgid "[Terminal model]-[Serial number], for example: P400Plus-123456789"
 msgstr ""
+

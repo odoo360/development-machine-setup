@@ -81,7 +81,7 @@ msgstr "مقایسه محصولات"
 #. odoo-javascript
 #: code:addons/website_sale_comparison/static/src/js/product_comparison_bottom_bar/product_comparison_bottom_bar.xml:0
 msgid "Compare products"
-msgstr ""
+msgstr "مقایسه محصولات"
 
 #. module: website_sale_comparison
 #: model_terms:ir.ui.view,arch_db:website_sale_comparison.product_compare
@@ -111,12 +111,12 @@ msgstr "ایجادشده در"
 #. module: website_sale_comparison
 #: model:product.attribute.category,name:website_sale_comparison.product_attribute_category_design
 msgid "Design"
-msgstr ""
+msgstr "طراحی"
 
 #. module: website_sale_comparison
 #: model:product.attribute.category,name:website_sale_comparison.product_attribute_category_dimensions
 msgid "Dimensions"
-msgstr ""
+msgstr "ابعاد"
 
 #. module: website_sale_comparison
 #: model:ir.model.fields,field_description:website_sale_comparison.field_product_attribute__display_name
@@ -176,13 +176,13 @@ msgstr "هیچکدام"
 #. module: website_sale_comparison
 #: model:product.attribute.category,name:website_sale_comparison.product_attribute_category_options
 msgid "Options"
-msgstr ""
+msgstr "گزینه‌ها"
 
 #. module: website_sale_comparison
 #: model_terms:ir.ui.view,arch_db:website_sale_comparison.accordion_specs_item
 #: model_terms:ir.ui.view,arch_db:website_sale_comparison.specifications_table
 msgid "Others"
-msgstr ""
+msgstr "دیگران"
 
 #. module: website_sale_comparison
 #: model:ir.model,name:website_sale_comparison.model_product_attribute
@@ -199,7 +199,7 @@ msgstr "دسته ویژگی محصول"
 #. odoo-javascript
 #: code:addons/website_sale_comparison/static/src/js/product_row/product_row.xml:0
 msgid "Product Image"
-msgstr ""
+msgstr "تصویر محصول"
 
 #. module: website_sale_comparison
 #: model:ir.model,name:website_sale_comparison.model_product_template_attribute_line
@@ -225,12 +225,12 @@ msgstr "ویژگی های مرتبط"
 #. odoo-javascript
 #: code:addons/website_sale_comparison/static/src/js/product_comparison_bottom_bar/product_comparison_bottom_bar.xml:0
 msgid "Remove All"
-msgstr ""
+msgstr "حذف همه"
 
 #. module: website_sale_comparison
 #: model_terms:ir.ui.view,arch_db:website_sale_comparison.product_compare
 msgid "Remove all"
-msgstr ""
+msgstr "حذف همه"
 
 #. module: website_sale_comparison
 #. odoo-javascript
@@ -284,7 +284,7 @@ msgstr "مشخصات"
 #. module: website_sale_comparison
 #: model_terms:ir.ui.view,arch_db:website_sale_comparison.product_compare
 msgid "Tags"
-msgstr ""
+msgstr "برچسب‌ها"
 
 #. module: website_sale_comparison
 #. odoo-javascript
@@ -312,7 +312,7 @@ msgstr ""
 #. module: website_sale_comparison
 #: model:ir.model.fields,field_description:website_sale_comparison.field_product_attribute__category_id
 msgid "eCommerce Category"
-msgstr ""
+msgstr "دسته‌بندی‌های فروشگاه آنلاین"
 
 #~ msgid "134.7 x 200 x 7.2 mm"
 #~ msgstr "134.7 x 200 x 7.2 میلی‌متر"
@@ -356,3 +356,4 @@ msgstr ""
 
 #~ msgid "or"
 #~ msgstr "یا"
+

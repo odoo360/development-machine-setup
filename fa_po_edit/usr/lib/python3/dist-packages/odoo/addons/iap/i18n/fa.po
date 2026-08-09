@@ -58,12 +58,12 @@ msgstr ""
 #. module: iap
 #: model:ir.model.fields,field_description:iap.field_iap_account__balance
 msgid "Balance"
-msgstr ""
+msgstr "تعادل"
 
 #. module: iap
 #: model:ir.model.fields.selection,name:iap.selection__iap_account__state__banned
 msgid "Banned"
-msgstr ""
+msgstr "ممنوع"
 
 #. module: iap
 #: model:ir.model.fields,field_description:iap.field_iap_account__company_ids
@@ -91,7 +91,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:iap.field_iap_account__description
 #: model:ir.model.fields,field_description:iap.field_iap_service__description
 msgid "Description"
-msgstr ""
+msgstr "توصیف"
 
 #. module: iap
 #: model:ir.model.fields,field_description:iap.field_iap_account__display_name
@@ -180,7 +180,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:iap.field_iap_account__name
 #: model:ir.model.fields,field_description:iap.field_iap_service__name
 msgid "Name"
-msgstr ""
+msgstr "نام"
 
 #. module: iap
 #. odoo-python
@@ -215,12 +215,12 @@ msgstr ""
 #. module: iap
 #: model:ir.model.fields.selection,name:iap.selection__iap_account__state__registered
 msgid "Registered"
-msgstr ""
+msgstr "ثبت‌شده"
 
 #. module: iap
 #: model:ir.model.fields,field_description:iap.field_iap_account__service_id
 msgid "Service"
-msgstr ""
+msgstr "سرویس"
 
 #. module: iap
 #: model:ir.model.fields,field_description:iap.field_iap_account__service_locked
@@ -230,13 +230,13 @@ msgstr ""
 #. module: iap
 #: model:ir.model.fields,field_description:iap.field_iap_account__state
 msgid "State"
-msgstr ""
+msgstr "استان"
 
 #. module: iap
 #: model:ir.model.fields,field_description:iap.field_iap_account__service_name
 #: model:ir.model.fields,field_description:iap.field_iap_service__technical_name
 msgid "Technical Name"
-msgstr ""
+msgstr "نام فنی"
 
 #. module: iap
 #. odoo-python
@@ -255,12 +255,12 @@ msgstr ""
 #. module: iap
 #: model:ir.model.fields,field_description:iap.field_iap_service__unit_name
 msgid "Unit Name"
-msgstr ""
+msgstr "نام واحد"
 
 #. module: iap
 #: model:ir.model.fields.selection,name:iap.selection__iap_account__state__unregistered
 msgid "Unregistered"
-msgstr ""
+msgstr "غیر ثبت شده"
 
 #. module: iap
 #. odoo-javascript
@@ -286,3 +286,4 @@ msgstr ""
 
 #~ msgid "Service Name"
 #~ msgstr "نام سرویس"
+

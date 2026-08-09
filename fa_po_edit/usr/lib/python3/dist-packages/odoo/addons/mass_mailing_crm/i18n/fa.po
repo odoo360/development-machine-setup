@@ -28,36 +28,40 @@ msgid ""
 "                        <span class=\"o_stat_text\" "
 "invisible=\"use_leads\">Opportunities</span>"
 msgstr ""
+""
+"<span class=\"o_stat_text\" invisible=\"not use_leads\">سرنخ ها</span>\n"
+"                        <span class=\"o_stat_text\" "
+"invisible=\"use_leads\">فرصت ها</span>"
 
 #. module: mass_mailing_crm
 #: model:ir.model,website_form_label:mass_mailing_crm.model_crm_lead
 msgid "Create an Opportunity"
-msgstr ""
+msgstr "ایجاد یک فرصت"
 
 #. module: mass_mailing_crm
 #: model:ir.model.fields,field_description:mass_mailing_crm.field_crm_lead__display_name
 #: model:ir.model.fields,field_description:mass_mailing_crm.field_mailing_mailing__display_name
 #: model:ir.model.fields,field_description:mass_mailing_crm.field_utm_campaign__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: mass_mailing_crm
 #: model:ir.model.fields,field_description:mass_mailing_crm.field_crm_lead__id
 #: model:ir.model.fields,field_description:mass_mailing_crm.field_mailing_mailing__id
 #: model:ir.model.fields,field_description:mass_mailing_crm.field_utm_campaign__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: mass_mailing_crm
 #. odoo-python
 #: code:addons/mass_mailing_crm/models/mailing_mailing.py:0
 msgid "LEADS"
-msgstr ""
+msgstr "سرنخ ها"
 
 #. module: mass_mailing_crm
 #: model:ir.model,name:mass_mailing_crm.model_crm_lead
 msgid "Lead"
-msgstr ""
+msgstr "سرنخ"
 
 #. module: mass_mailing_crm
 #. odoo-python
@@ -75,7 +79,7 @@ msgstr "تحلیل سرنخ"
 #. module: mass_mailing_crm
 #: model:ir.model.fields,field_description:mass_mailing_crm.field_mailing_mailing__crm_lead_count
 msgid "Leads/Opportunities Count"
-msgstr ""
+msgstr "تعداد سرنخ‌ها /فرصت‌ها"
 
 #. module: mass_mailing_crm
 #: model:ir.model,name:mass_mailing_crm.model_mailing_mailing
@@ -124,3 +128,4 @@ msgstr ""
 
 #~ msgid "Lead/Opportunity"
 #~ msgstr "سرنخ / فرصت"
+

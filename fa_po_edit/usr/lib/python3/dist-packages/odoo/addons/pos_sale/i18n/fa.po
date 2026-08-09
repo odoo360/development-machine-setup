@@ -85,12 +85,12 @@ msgstr "تنظیمات پیکربندی"
 #. module: pos_sale
 #: model:ir.model,name:pos_sale.model_res_partner
 msgid "Contact"
-msgstr ""
+msgstr "مخاطب"
 
 #. module: pos_sale
 #: model:ir.model,website_form_label:pos_sale.model_res_partner
 msgid "Create a Customer"
-msgstr ""
+msgstr "ایجاد مشتری"
 
 #. module: pos_sale
 #: model:ir.model.fields,field_description:pos_sale.field_pos_order__currency_rate
@@ -105,7 +105,7 @@ msgstr ""
 #. module: pos_sale
 #: model:ir.model.fields,field_description:pos_sale.field_pos_order_line__qty_delivered
 msgid "Delivery Quantity"
-msgstr ""
+msgstr "تعداد تحویل‌داده‌شده"
 
 #. module: pos_sale
 #: model:ir.model.fields,field_description:pos_sale.field_account_move__display_name
@@ -123,7 +123,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:pos_sale.field_sale_report__display_name
 #: model:ir.model.fields,field_description:pos_sale.field_stock_picking__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: pos_sale
 #. odoo-javascript
@@ -135,7 +135,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/pos_sale/static/src/app/services/pos_store.js:0
 msgid "Down Payment"
-msgstr ""
+msgstr "پیش پرداخت"
 
 #. module: pos_sale
 #: model:product.template,name:pos_sale.default_downpayment_product_product_template
@@ -189,7 +189,7 @@ msgstr "از"
 #: model:ir.model.fields,field_description:pos_sale.field_sale_report__id
 #: model:ir.model.fields,field_description:pos_sale.field_stock_picking__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: pos_sale
 #: model:ir.model.fields.selection,name:pos_sale.selection__sale_report__state__invoiced
@@ -207,12 +207,12 @@ msgstr ""
 #. module: pos_sale
 #: model:ir.model,name:pos_sale.model_account_move
 msgid "Journal Entry"
-msgstr ""
+msgstr "داده روزنامه"
 
 #. module: pos_sale
 #: model:ir.model,name:pos_sale.model_account_move_line
 msgid "Journal Item"
-msgstr ""
+msgstr "آیتم روزنامه"
 
 #. module: pos_sale
 #. odoo-python
@@ -256,7 +256,7 @@ msgstr ""
 #. module: pos_sale
 #: model:ir.model.fields.selection,name:pos_sale.selection__sale_report__order_reference__pos_order
 msgid "POS Order"
-msgstr ""
+msgstr "سفارش فروش نقطه فروش"
 
 #. module: pos_sale
 #: model:ir.model.fields.selection,name:pos_sale.selection__sale_report__state__paid
@@ -301,7 +301,7 @@ msgstr "سند ثبت شد"
 #. module: pos_sale
 #: model:ir.model,name:pos_sale.model_product_template
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 #. module: pos_sale
 #. odoo-javascript
@@ -415,7 +415,7 @@ msgstr ""
 #. module: pos_sale
 #: model:ir.model,name:pos_sale.model_stock_picking
 msgid "Transfer"
-msgstr ""
+msgstr "انتقال"
 
 #. module: pos_sale
 #: model_terms:ir.ui.view,arch_db:pos_sale.view_pos_order_form_inherit_pos_sale
@@ -435,7 +435,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/pos_sale/static/src/app/services/pos_store.js:0
 msgid "Warning for %s"
-msgstr ""
+msgstr "هشدار برای %s"
 
 #. module: pos_sale
 #. odoo-javascript
@@ -448,7 +448,7 @@ msgstr "چه کاری می‌خواهید انجام دهید؟"
 #: code:addons/pos_sale/models/pos_order.py:0
 #: code:addons/pos_sale/models/sale_order.py:0
 msgid "id"
-msgstr ""
+msgstr "شناسه"
 
 #. module: pos_sale
 #. odoo-javascript
@@ -516,3 +516,4 @@ msgstr ""
 
 #~ msgid "Yes"
 #~ msgstr "بله"
+

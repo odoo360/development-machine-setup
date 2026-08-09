@@ -35,7 +35,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website_sale_stock_wishlist/static/src/xml/product_availability.xml:0
 msgid "Add to wishlist"
-msgstr ""
+msgstr "افزودن به لیست علاقه‌مندی‌ها"
 
 #. module: website_sale_stock_wishlist
 #. odoo-javascript
@@ -47,25 +47,26 @@ msgstr ""
 #: model:ir.model.fields,field_description:website_sale_stock_wishlist.field_product_template__display_name
 #: model:ir.model.fields,field_description:website_sale_stock_wishlist.field_product_wishlist__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: website_sale_stock_wishlist
 #: model:ir.model.fields,field_description:website_sale_stock_wishlist.field_product_template__id
 #: model:ir.model.fields,field_description:website_sale_stock_wishlist.field_product_wishlist__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: website_sale_stock_wishlist
 #: model:ir.model,name:website_sale_stock_wishlist.model_product_template
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 #. module: website_sale_stock_wishlist
 #: model:ir.model,name:website_sale_stock_wishlist.model_product_wishlist
 msgid "Product Wishlist"
-msgstr ""
+msgstr "علاقه‌مندی‌های محصول"
 
 #. module: website_sale_stock_wishlist
 #: model:ir.model.fields,field_description:website_sale_stock_wishlist.field_product_wishlist__stock_notification
 msgid "Stock Notification"
 msgstr ""
+

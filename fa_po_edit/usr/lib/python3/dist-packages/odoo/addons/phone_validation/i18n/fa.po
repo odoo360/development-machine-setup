@@ -63,7 +63,7 @@ msgstr "آیا مطمئن هستید که می‌خواهید این شماره 
 #. odoo-python
 #: code:addons/phone_validation/models/phone_blacklist.py:0
 msgid "Are you sure you want to unblacklist this phone number?"
-msgstr ""
+msgstr "آیا مطمئن هستید که می‌خواهید این شماره تلفن را از لیست سیاه خارج کنید؟"
 
 #. module: phone_validation
 #: model:ir.model.fields,field_description:phone_validation.field_mail_thread_phone__message_attachment_count
@@ -469,3 +469,4 @@ msgstr "حذف_لیست_سیاه_تلفن"
 
 #~ msgid "Phone/Mobile"
 #~ msgstr "تلفن/موبایل"
+

@@ -134,12 +134,12 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_intro_pill
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_product_list
 msgid "About us"
-msgstr ""
+msgstr "درباره ما"
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_image_text
 msgid "Activities"
-msgstr ""
+msgstr "فعالیت ها"
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_three_columns
@@ -156,7 +156,7 @@ msgstr ""
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_pricelist_boxed
 msgid "Backpack"
-msgstr ""
+msgstr "کوله‌پشتی"
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_cards_grid
@@ -180,7 +180,7 @@ msgstr ""
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_call_to_action
 msgid "Contact us"
-msgstr ""
+msgstr "تماس با ما"
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_pricelist_boxed
@@ -231,7 +231,7 @@ msgstr ""
 #. module: theme_kiddo
 #: model:ir.model.fields,field_description:theme_kiddo.field_theme_utils__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_striped_center_top
@@ -307,7 +307,7 @@ msgstr ""
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_product_list
 msgid "Events"
-msgstr ""
+msgstr "رویدادها"
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_carousel_intro
@@ -373,7 +373,7 @@ msgstr ""
 #. module: theme_kiddo
 #: model:ir.model.fields,field_description:theme_kiddo.field_theme_utils__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_quadrant
@@ -425,7 +425,7 @@ msgstr ""
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_text_cover
 msgid "Learn more"
-msgstr ""
+msgstr "اطلاعات بیشتر"
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_picture
@@ -440,7 +440,7 @@ msgstr ""
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_pricelist_boxed
 msgid "Notebook"
-msgstr ""
+msgstr "نوت بوک"
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_cards_grid
@@ -517,7 +517,7 @@ msgstr ""
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_product_list
 msgid "Our team"
-msgstr ""
+msgstr "تیم ما"
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_image_text
@@ -628,7 +628,7 @@ msgstr ""
 #. module: theme_kiddo
 #: model:ir.model,name:theme_kiddo.model_theme_utils
 msgid "Theme Utils"
-msgstr ""
+msgstr "ابزارهای تم"
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_image_text
@@ -643,6 +643,9 @@ msgid ""
 "This is a simple hero unit, a simple jumbotron-style component for calling "
 "extra attention to featured content or information."
 msgstr ""
+""
+"این یک واحد قهرمان ساده است، یک مؤلفه به سبک جومبترون ساده برای جلب توجه "
+"بیشتر به محتوای ویژه یا اطلاعات."
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_picture
@@ -775,7 +778,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/theme_kiddo/static/src/js/tour.js:0
 msgid "width"
-msgstr ""
+msgstr "عرض"
 
 #. module: theme_kiddo
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_pricelist_boxed
@@ -786,3 +789,4 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_kiddo.s_pricelist_boxed
 msgid "✽  School Supplies"
 msgstr ""
+

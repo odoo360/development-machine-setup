@@ -27,19 +27,19 @@ msgstr ""
 #: model:ir.model.fields,field_description:sale_edi_ubl.field_sale_edi_xml_ubl_bis3__display_name
 #: model:ir.model.fields,field_description:sale_edi_ubl.field_sale_order__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: sale_edi_ubl
 #: model:ir.model.fields,field_description:sale_edi_ubl.field_product_product__id
 #: model:ir.model.fields,field_description:sale_edi_ubl.field_sale_edi_xml_ubl_bis3__id
 #: model:ir.model.fields,field_description:sale_edi_ubl.field_sale_order__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: sale_edi_ubl
 #: model:ir.model,name:sale_edi_ubl.model_product_product
 msgid "Product Variant"
-msgstr ""
+msgstr "گونه محصول"
 
 #. module: sale_edi_ubl
 #: model:ir.model,name:sale_edi_ubl.model_sale_edi_xml_ubl_bis3
@@ -49,10 +49,11 @@ msgstr ""
 #. module: sale_edi_ubl
 #: model:ir.model,name:sale_edi_ubl.model_sale_order
 msgid "Sales Order"
-msgstr ""
+msgstr "سفارش فروش"
 
 #. module: sale_edi_ubl
 #. odoo-python
 #: code:addons/sale_edi_ubl/models/sale_order.py:0
 msgid "Some information could not be imported:"
 msgstr ""
+

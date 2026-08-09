@@ -48,7 +48,7 @@ msgstr "مشتری برای صدورفاکتور مجدد"
 #: model:ir.model.fields,field_description:sale_expense.field_sale_order__display_name
 #: model:ir.model.fields,field_description:sale_expense.field_sale_order_line__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: sale_expense
 #: model:ir.model,name:sale_expense.model_hr_expense
@@ -64,7 +64,7 @@ msgstr ""
 #. module: sale_expense
 #: model:ir.model,name:sale_expense.model_hr_expense_split
 msgid "Expense Split"
-msgstr ""
+msgstr "تقسیم هزینه"
 
 #. module: sale_expense
 #: model:ir.actions.act_window,name:sale_expense.hr_expense_action_from_sale_order
@@ -104,7 +104,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:sale_expense.field_sale_order__id
 #: model:ir.model.fields,field_description:sale_expense.field_sale_order_line__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: sale_expense
 #: model:ir.model.fields,help:sale_expense.field_hr_expense__sale_order_id
@@ -121,7 +121,7 @@ msgstr "صدور فاکتور"
 #. module: sale_expense
 #: model:ir.model,name:sale_expense.model_account_move
 msgid "Journal Entry"
-msgstr ""
+msgstr "داده روزنامه"
 
 #. module: sale_expense
 #: model:ir.model,name:sale_expense.model_account_move_line
@@ -136,7 +136,7 @@ msgstr "محصول"
 #. module: sale_expense
 #: model:ir.model.fields,field_description:sale_expense.field_hr_expense__sale_order_line_id
 msgid "Sale Order Line"
-msgstr ""
+msgstr "سطر سفارش‌فروش"
 
 #. module: sale_expense
 #: model:ir.model,name:sale_expense.model_sale_order
@@ -147,7 +147,7 @@ msgstr "سفارش فروش"
 #. module: sale_expense
 #: model:ir.model,name:sale_expense.model_sale_order_line
 msgid "Sales Order Line"
-msgstr ""
+msgstr "سطر سفارش‌فروش"
 
 #~ msgid "Expense Report"
 #~ msgstr "گزارش هزینه"
@@ -157,3 +157,4 @@ msgstr ""
 
 #~ msgid "Sales Orders"
 #~ msgstr "سفارشات فروش"
+

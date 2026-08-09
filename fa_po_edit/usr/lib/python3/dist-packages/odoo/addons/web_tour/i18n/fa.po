@@ -350,7 +350,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/web_tour/static/src/js/tour_recorder/tour_recorder.xml:0
 msgid "trigger"
-msgstr ""
+msgstr "راه اندازی"
 
 #~ msgid ""
 #~ "<strong><b>Good job!</b> You went through all steps of this tour.</strong>"
@@ -376,3 +376,4 @@ msgstr ""
 
 #~ msgid "Tour name"
 #~ msgstr "نام تور"
+

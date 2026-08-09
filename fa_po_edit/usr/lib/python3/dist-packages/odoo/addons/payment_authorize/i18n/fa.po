@@ -60,7 +60,7 @@ msgstr ""
 #. module: payment_authorize
 #: model_terms:ir.ui.view,arch_db:payment_authorize.inline_form
 msgid "Account Number"
-msgstr ""
+msgstr "شماره حساب"
 
 #. module: payment_authorize
 #: model:ir.model.fields.selection,name:payment_authorize.selection__payment_provider__code__authorize
@@ -80,7 +80,7 @@ msgstr ""
 #. module: payment_authorize
 #: model_terms:ir.ui.view,arch_db:payment_authorize.inline_form
 msgid "Bank Name"
-msgstr ""
+msgstr "نام بانک"
 
 #. module: payment_authorize
 #: model_terms:ir.ui.view,arch_db:payment_authorize.inline_form
@@ -90,12 +90,12 @@ msgstr ""
 #. module: payment_authorize
 #: model_terms:ir.ui.view,arch_db:payment_authorize.inline_form
 msgid "Card Number"
-msgstr ""
+msgstr "شماره کارت"
 
 #. module: payment_authorize
 #: model:ir.model.fields,field_description:payment_authorize.field_payment_provider__code
 msgid "Code"
-msgstr ""
+msgstr "کد"
 
 #. module: payment_authorize
 #. odoo-python
@@ -118,12 +118,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:payment_authorize.field_payment_token__display_name
 #: model:ir.model.fields,field_description:payment_authorize.field_payment_transaction__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: payment_authorize
 #: model_terms:ir.ui.view,arch_db:payment_authorize.inline_form
 msgid "Expiration"
-msgstr ""
+msgstr "انقضا"
 
 #. module: payment_authorize
 #. odoo-python
@@ -148,12 +148,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:payment_authorize.field_payment_token__id
 #: model:ir.model.fields,field_description:payment_authorize.field_payment_transaction__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: payment_authorize
 #: model_terms:ir.ui.view,arch_db:payment_authorize.inline_form
 msgid "MM"
-msgstr ""
+msgstr "میلیمتر"
 
 #. module: payment_authorize
 #: model_terms:ir.ui.view,arch_db:payment_authorize.inline_form
@@ -169,12 +169,12 @@ msgstr ""
 #. module: payment_authorize
 #: model:ir.model,name:payment_authorize.model_payment_provider
 msgid "Payment Provider"
-msgstr ""
+msgstr "سرویس دهنده پرداخت"
 
 #. module: payment_authorize
 #: model:ir.model,name:payment_authorize.model_payment_token
 msgid "Payment Token"
-msgstr ""
+msgstr "توکن پرداخت"
 
 #. module: payment_authorize
 #: model:ir.model,name:payment_authorize.model_payment_transaction
@@ -185,7 +185,7 @@ msgstr "تراکنش پرداخت"
 #. odoo-javascript
 #: code:addons/payment_authorize/static/src/interactions/payment_form.js:0
 msgid "Payment processing failed"
-msgstr ""
+msgstr "پردازش پرداخت انجام نشد"
 
 #. module: payment_authorize
 #. odoo-python
@@ -220,7 +220,7 @@ msgstr ""
 #. module: payment_authorize
 #: model:ir.model.fields,help:payment_authorize.field_payment_provider__code
 msgid "The technical code of this payment provider."
-msgstr ""
+msgstr "کد فنی این ارائه دهنده پرداخت."
 
 #. module: payment_authorize
 #. odoo-python
@@ -253,3 +253,4 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:payment_authorize.inline_form
 msgid "YY"
 msgstr ""
+

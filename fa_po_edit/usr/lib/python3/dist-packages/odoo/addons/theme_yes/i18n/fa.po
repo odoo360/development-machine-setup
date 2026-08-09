@@ -712,7 +712,7 @@ msgstr ""
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_image_text_overlap
 msgid "OUR MISSION"
-msgstr ""
+msgstr "ماموریت ما"
 
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_company_team_detail
@@ -755,7 +755,7 @@ msgstr ""
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_empowerment
 msgid "Our services"
-msgstr ""
+msgstr "خدمات ما"
 
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_key_benefits
@@ -767,7 +767,7 @@ msgstr ""
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_freegrid
 msgid "PORTFOLIO"
-msgstr ""
+msgstr "پورتفولیو"
 
 #. module: theme_yes
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_pricelist_boxed
@@ -1028,3 +1028,4 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_yes.s_pricelist_boxed
 msgid "✽  Wedding Planning"
 msgstr ""
+

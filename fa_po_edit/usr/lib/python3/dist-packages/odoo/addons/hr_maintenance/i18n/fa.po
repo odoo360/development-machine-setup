@@ -61,7 +61,7 @@ msgstr "دپارتمان"
 #. module: hr_maintenance
 #: model:ir.model,name:hr_maintenance.model_hr_departure_wizard
 msgid "Departure Wizard"
-msgstr ""
+msgstr "ویزارد خروج"
 
 #. module: hr_maintenance
 #: model:ir.model.fields,field_description:hr_maintenance.field_hr_departure_wizard__display_name
@@ -70,7 +70,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:hr_maintenance.field_maintenance_equipment__display_name
 #: model:ir.model.fields,field_description:hr_maintenance.field_maintenance_request__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: hr_maintenance
 #: model:ir.model,name:hr_maintenance.model_hr_employee
@@ -95,7 +95,7 @@ msgstr "تجهیزات"
 #: model:ir.model.fields,field_description:hr_maintenance.field_hr_employee__equipment_count
 #: model:ir.model.fields,field_description:hr_maintenance.field_hr_employee_public__equipment_count
 msgid "Equipment Count"
-msgstr ""
+msgstr "تعداد تجهیزات"
 
 #. module: hr_maintenance
 #: model:ir.model.fields,field_description:hr_maintenance.field_hr_departure_wizard__unassign_equipment
@@ -109,7 +109,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:hr_maintenance.field_maintenance_equipment__id
 #: model:ir.model.fields,field_description:hr_maintenance.field_maintenance_request__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: hr_maintenance
 #: model:ir.model,name:hr_maintenance.model_maintenance_equipment
@@ -139,7 +139,7 @@ msgstr "مالک‌"
 #. module: hr_maintenance
 #: model:ir.model,name:hr_maintenance.model_hr_employee_public
 msgid "Public Employee"
-msgstr ""
+msgstr "کارمند عمومی"
 
 #. module: hr_maintenance
 #: model:ir.model.fields,help:hr_maintenance.field_hr_departure_wizard__unassign_equipment
@@ -158,3 +158,4 @@ msgstr "استفاده‌شده توسط"
 
 #~ msgid "User"
 #~ msgstr "کاربر"
+

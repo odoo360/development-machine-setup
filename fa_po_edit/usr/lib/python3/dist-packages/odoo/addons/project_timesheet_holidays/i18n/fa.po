@@ -47,7 +47,7 @@ msgstr "تنظیمات پیکربندی"
 #. module: project_timesheet_holidays
 #: model:ir.model,website_form_label:project_timesheet_holidays.model_project_task
 msgid "Create a Task"
-msgstr ""
+msgstr "یک وظیفه ایجاد کنید"
 
 #. module: project_timesheet_holidays
 #: model:ir.model.fields,field_description:project_timesheet_holidays.field_account_analytic_line__display_name
@@ -58,7 +58,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:project_timesheet_holidays.field_res_config_settings__display_name
 #: model:ir.model.fields,field_description:project_timesheet_holidays.field_resource_calendar_leaves__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: project_timesheet_holidays
 #: model:ir.model,name:project_timesheet_holidays.model_hr_employee
@@ -74,7 +74,7 @@ msgstr "کارمند"
 #: model:ir.model.fields,field_description:project_timesheet_holidays.field_res_config_settings__id
 #: model:ir.model.fields,field_description:project_timesheet_holidays.field_resource_calendar_leaves__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: project_timesheet_holidays
 #. odoo-python
@@ -234,3 +234,4 @@ msgstr ""
 
 #~ msgid "Time Off Type"
 #~ msgstr "نوع مرخصی"
+

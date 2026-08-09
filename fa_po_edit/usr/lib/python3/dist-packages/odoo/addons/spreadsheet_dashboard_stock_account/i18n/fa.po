@@ -57,7 +57,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_stock_account/data/files/warehouse_metrics_sample_dashboard.json:0
 msgid "Available Quantity"
-msgstr ""
+msgstr "مقدار در دسترس"
 
 #. module: spreadsheet_dashboard_stock_account
 #. odoo-javascript
@@ -111,7 +111,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_stock_account/data/files/warehouse_metrics_dashboard.json:0
 msgid "Creation Date"
-msgstr ""
+msgstr "تاریخ ایجاد"
 
 #. module: spreadsheet_dashboard_stock_account
 #. odoo-javascript
@@ -143,55 +143,55 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_stock_account/data/files/warehouse_metrics_dashboard.json:0
 msgid "Location"
-msgstr ""
+msgstr "مکان"
 
 #. module: spreadsheet_dashboard_stock_account
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_stock_account/data/files/warehouse_metrics_dashboard.json:0
 msgid "Lot/Serial"
-msgstr ""
+msgstr "سری/سریال"
 
 #. module: spreadsheet_dashboard_stock_account
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_stock_account/data/files/warehouse_metrics_sample_dashboard.json:0
 msgid "Post-production"
-msgstr ""
+msgstr "تولید پس از تولید"
 
 #. module: spreadsheet_dashboard_stock_account
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_stock_account/data/files/warehouse_metrics_sample_dashboard.json:0
 msgid "Pre-production"
-msgstr ""
+msgstr "پیش‌تولید"
 
 #. module: spreadsheet_dashboard_stock_account
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_stock_account/data/files/warehouse_metrics_dashboard.json:0
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 #. module: spreadsheet_dashboard_stock_account
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_stock_account/data/files/warehouse_metrics_dashboard.json:0
 msgid "Product Category"
-msgstr ""
+msgstr "دسته محصول"
 
 #. module: spreadsheet_dashboard_stock_account
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_stock_account/data/files/warehouse_metrics_sample_dashboard.json:0
 msgid "Products"
-msgstr ""
+msgstr "محصولات"
 
 #. module: spreadsheet_dashboard_stock_account
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_stock_account/data/files/warehouse_metrics_sample_dashboard.json:0
 msgid "Reserved"
-msgstr ""
+msgstr "رزرو شده"
 
 #. module: spreadsheet_dashboard_stock_account
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_stock_account/data/files/warehouse_metrics_sample_dashboard.json:0
 msgid "Reserved Quantity"
-msgstr ""
+msgstr "تعداد رزرو شده"
 
 #. module: spreadsheet_dashboard_stock_account
 #. odoo-javascript
@@ -259,7 +259,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_stock_account/data/files/warehouse_metrics_sample_dashboard.json:0
 msgid "Total"
-msgstr ""
+msgstr "جمع کل:"
 
 #. module: spreadsheet_dashboard_stock_account
 #. odoo-javascript
@@ -278,7 +278,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_stock_account/data/files/warehouse_metrics_sample_dashboard.json:0
 msgid "WH/Stock"
-msgstr ""
+msgstr "انبار/موجودی"
 
 #. module: spreadsheet_dashboard_stock_account
 #. odoo-javascript
@@ -290,7 +290,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_stock_account/data/files/warehouse_metrics_dashboard.json:0
 msgid "Warehouse"
-msgstr ""
+msgstr "انبار"
 
 #. module: spreadsheet_dashboard_stock_account
 #: model:spreadsheet.dashboard,name:spreadsheet_dashboard_stock_account.spreadsheet_dashboard_warehouse_metrics
@@ -302,3 +302,4 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_stock_account/data/files/warehouse_metrics_sample_dashboard.json:0
 msgid "Waterproof hiking backpack"
 msgstr ""
+

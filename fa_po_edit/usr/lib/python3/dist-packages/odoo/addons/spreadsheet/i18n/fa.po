@@ -632,7 +632,7 @@ msgstr "مقدار مطلق یک عدد."
 #. odoo-javascript
 #: code:addons/spreadsheet/static/src/actions/spreadsheet_download_action.js:0
 msgid "Access Error"
-msgstr ""
+msgstr "خطای دسترسی"
 
 #. module: spreadsheet
 #. odoo-javascript
@@ -2152,7 +2152,7 @@ msgstr "رنگ پایین"
 #. odoo-javascript
 #: code:addons/spreadsheet/static/src/o_spreadsheet/o_spreadsheet.xml:0
 msgid "Color Scale"
-msgstr ""
+msgstr "مقیاس رنگ"
 
 #. module: spreadsheet
 #. odoo-javascript
@@ -2842,7 +2842,7 @@ msgstr "برد داده‌ها"
 #. odoo-javascript
 #: code:addons/spreadsheet/static/src/o_spreadsheet/o_spreadsheet.js:0
 msgid "Data series"
-msgstr ""
+msgstr "سری داده‌ها"
 
 #. module: spreadsheet
 #. odoo-javascript
@@ -3726,7 +3726,7 @@ msgstr "خروج از حالت تمام صفحه"
 #. odoo-javascript
 #: code:addons/spreadsheet/static/src/o_spreadsheet/o_spreadsheet.xml:0
 msgid "Exit fullscreen"
-msgstr ""
+msgstr "خروج از حالت تمام صفحه"
 
 #. module: spreadsheet
 #. odoo-javascript
@@ -3838,7 +3838,7 @@ msgstr "رنگ پس‌زمینه"
 #. odoo-javascript
 #: code:addons/spreadsheet/static/src/o_spreadsheet/o_spreadsheet.xml:0
 msgid "Fill color"
-msgstr ""
+msgstr "رنگ پس‌زمینه"
 
 #. module: spreadsheet
 #. odoo-javascript
@@ -5840,7 +5840,7 @@ msgstr "مین‌پوینت"
 #. odoo-javascript
 #: code:addons/spreadsheet/static/src/o_spreadsheet/o_spreadsheet.js:0
 msgid "Minute"
-msgstr ""
+msgstr "دقیقه"
 
 #. module: spreadsheet
 #. odoo-javascript
@@ -6062,7 +6062,7 @@ msgstr "تاریخ کوپن بعدی پس از تاریخ تسویه."
 #. odoo-javascript
 #: code:addons/spreadsheet/static/src/hooks.js:0
 msgid "No"
-msgstr ""
+msgstr "خیر"
 
 #. module: spreadsheet
 #. odoo-javascript
@@ -8351,7 +8351,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet/static/src/o_spreadsheet/o_spreadsheet.xml:0
 msgid "Text color"
-msgstr ""
+msgstr "رنگ متن"
 
 #. module: spreadsheet
 #. odoo-javascript
@@ -12887,7 +12887,7 @@ msgstr "تراز عمودی"
 #. odoo-javascript
 #: code:addons/spreadsheet/static/src/o_spreadsheet/o_spreadsheet.js:0
 msgid "Vertical alignment"
-msgstr ""
+msgstr "تراز عمودی"
 
 #. module: spreadsheet
 #. odoo-javascript
@@ -13226,7 +13226,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet/static/src/helpers/geo_json_service.js:0
 msgid "World"
-msgstr ""
+msgstr "جهان"
 
 #. module: spreadsheet
 #. odoo-javascript
@@ -13325,7 +13325,7 @@ msgstr "سال"
 #. odoo-javascript
 #: code:addons/spreadsheet/static/src/hooks.js:0
 msgid "Yes"
-msgstr ""
+msgstr "بله"
 
 #. module: spreadsheet
 #. odoo-javascript
@@ -13358,7 +13358,7 @@ msgstr ""
 #: code:addons/spreadsheet/static/src/actions/spreadsheet_download_action.js:0
 msgid ""
 "You don't have the rights to export data. Please contact an Administrator."
-msgstr ""
+msgstr "شما حق خروج داده ها را ندارید. لطفا با یک مدیر تماس بگیرید."
 
 #. module: spreadsheet
 #. odoo-javascript
@@ -13434,7 +13434,7 @@ msgstr "[[FUNCTION_NAME]] هیچ داده ورودی معتبری ندارد."
 #. odoo-javascript
 #: code:addons/spreadsheet/static/src/o_spreadsheet/o_spreadsheet.js:0
 msgid "ascending"
-msgstr ""
+msgstr "صعودی"
 
 #. module: spreadsheet
 #. odoo-javascript
@@ -13464,7 +13464,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet/static/src/o_spreadsheet/o_spreadsheet.xml:0
 msgid "code"
-msgstr ""
+msgstr "کد"
 
 #. module: spreadsheet
 #. odoo-javascript
@@ -13482,7 +13482,7 @@ msgstr "پیش‌فرض:"
 #. odoo-javascript
 #: code:addons/spreadsheet/static/src/o_spreadsheet/o_spreadsheet.js:0
 msgid "descending"
-msgstr ""
+msgstr "نزولی"
 
 #. module: spreadsheet
 #. odoo-javascript
@@ -13710,7 +13710,7 @@ msgstr "تاریخ شروع (%s) باید در یا قبل از تاریخ پا�
 #. odoo-javascript
 #: code:addons/spreadsheet/static/src/o_spreadsheet/o_spreadsheet.xml:0
 msgid "symbol"
-msgstr ""
+msgstr "نماد"
 
 #. module: spreadsheet
 #. odoo-javascript
@@ -13783,3 +13783,4 @@ msgstr ""
 #~ "آیا پیام‌های متنی خالی از نتایج تفکیک حذف شوند یا خیر. رفتار پیش‌فرض این "
 #~ "است که جداکننده‌های متوالی به عنوان یکی در نظر گرفته شوند (اگر TRUE). اگر "
 #~ "FALSE باشد، مقادیر سلول‌های خالی بین جداکننده‌های متوالی اضافه می‌شوند."
+

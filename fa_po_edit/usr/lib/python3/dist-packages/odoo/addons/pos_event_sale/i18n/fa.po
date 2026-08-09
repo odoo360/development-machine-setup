@@ -19,14 +19,15 @@ msgstr ""
 #. module: pos_event_sale
 #: model:ir.model.fields,field_description:pos_event_sale.field_event_registration__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: pos_event_sale
 #: model:ir.model,name:pos_event_sale.model_event_registration
 msgid "Event Registration"
-msgstr ""
+msgstr "ثبت نام رویداد"
 
 #. module: pos_event_sale
 #: model:ir.model.fields,field_description:pos_event_sale.field_event_registration__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
+

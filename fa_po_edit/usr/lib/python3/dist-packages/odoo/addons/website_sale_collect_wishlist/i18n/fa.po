@@ -32,4 +32,5 @@ msgstr ""
 #. module: website_sale_collect_wishlist
 #: model_terms:ir.ui.view,arch_db:website_sale_collect_wishlist.unavailable_products_warning
 msgid "Add to Wishlist"
-msgstr ""
+msgstr "افزودن به لیست علاقه‌مندی‌ها"
+

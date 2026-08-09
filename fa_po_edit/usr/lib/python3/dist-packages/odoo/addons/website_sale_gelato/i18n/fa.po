@@ -21,14 +21,14 @@ msgstr ""
 #: model:ir.model.fields,field_description:website_sale_gelato.field_product_template__display_name
 #: model:ir.model.fields,field_description:website_sale_gelato.field_sale_order__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: website_sale_gelato
 #: model:ir.model.fields,field_description:website_sale_gelato.field_product_document__id
 #: model:ir.model.fields,field_description:website_sale_gelato.field_product_template__id
 #: model:ir.model.fields,field_description:website_sale_gelato.field_sale_order__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: website_sale_gelato
 #. odoo-python
@@ -39,12 +39,12 @@ msgstr ""
 #. module: website_sale_gelato
 #: model:ir.model,name:website_sale_gelato.model_product_template
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 #. module: website_sale_gelato
 #: model:ir.model,name:website_sale_gelato.model_product_document
 msgid "Product Document"
-msgstr ""
+msgstr "سند محصول"
 
 #. module: website_sale_gelato
 #. odoo-python
@@ -55,7 +55,7 @@ msgstr ""
 #. module: website_sale_gelato
 #: model:ir.model,name:website_sale_gelato.model_sale_order
 msgid "Sales Order"
-msgstr ""
+msgstr "سفارش فروش"
 
 #. module: website_sale_gelato
 #. odoo-python
@@ -64,3 +64,4 @@ msgid ""
 "The product %(product_name)s cannot be added to the cart as it requires "
 "separate shipping. Please place your order for the current cart first."
 msgstr ""
+

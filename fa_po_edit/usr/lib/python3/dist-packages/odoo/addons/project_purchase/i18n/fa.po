@@ -31,14 +31,14 @@ msgstr ""
 #: model:ir.model.fields,field_description:project_purchase.field_purchase_order__display_name
 #: model:ir.model.fields,field_description:project_purchase.field_purchase_order_line__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: project_purchase
 #: model:ir.model.fields,field_description:project_purchase.field_project_project__id
 #: model:ir.model.fields,field_description:project_purchase.field_purchase_order__id
 #: model:ir.model.fields,field_description:project_purchase.field_purchase_order_line__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: project_purchase
 #. odoo-python
@@ -58,17 +58,17 @@ msgstr ""
 #: model:ir.model,name:project_purchase.model_project_project
 #: model:ir.model.fields,field_description:project_purchase.field_purchase_order__project_id
 msgid "Project"
-msgstr ""
+msgstr "پروژه"
 
 #. module: project_purchase
 #: model:ir.model,name:project_purchase.model_purchase_order
 msgid "Purchase Order"
-msgstr ""
+msgstr "سفارش خرید"
 
 #. module: project_purchase
 #: model:ir.model,name:project_purchase.model_purchase_order_line
 msgid "Purchase Order Line"
-msgstr ""
+msgstr "سطر سفارش خرید"
 
 #. module: project_purchase
 #. odoo-python
@@ -76,9 +76,10 @@ msgstr ""
 #: model:ir.embedded.actions,name:project_purchase.project_embedded_action_purchase_orders
 #: model:ir.embedded.actions,name:project_purchase.project_embedded_action_purchase_orders_dashboard
 msgid "Purchase Orders"
-msgstr ""
+msgstr "سفارشات خرید"
 
 #. module: project_purchase
 #: model:product.template,name:project_purchase.product_product_sand_product_template
 msgid "Sand"
-msgstr ""
+msgstr "شن"
+

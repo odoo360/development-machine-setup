@@ -20,65 +20,65 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website_project/static/src/js/website_project_editor.js:0
 msgid "Ask Your Question"
-msgstr ""
+msgstr "سوال خود را بپرسید"
 
 #. module: website_project
 #. odoo-javascript
 #: code:addons/website_project/static/src/js/website_project_editor.js:0
 msgid "Attach File"
-msgstr ""
+msgstr "پیوست فایل"
 
 #. module: website_project
 #. odoo-javascript
 #: code:addons/website_project/static/src/js/website_project_editor.js:0
 #: model:ir.model.fields,field_description:website_project.field_project_task__partner_company_name
 msgid "Company Name"
-msgstr ""
+msgstr "نام شرکت"
 
 #. module: website_project
 #: model:ir.model,website_form_label:website_project.model_project_task
 msgid "Create a Task"
-msgstr ""
+msgstr "یک وظیفه ایجاد کنید"
 
 #. module: website_project
 #: model:ir.model.fields,field_description:website_project.field_project_task__partner_name
 msgid "Customer Name"
-msgstr ""
+msgstr "نام مشتری"
 
 #. module: website_project
 #: model:ir.model.fields,field_description:website_project.field_project_task__display_name
 #: model:ir.model.fields,field_description:website_project.field_website_page__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: website_project
 #. odoo-python
 #: code:addons/website_project/controllers/main.py:0
 msgid "Email"
-msgstr ""
+msgstr "پست الکترونیک"
 
 #. module: website_project
 #. odoo-javascript
 #: code:addons/website_project/static/src/js/website_project_editor.js:0
 msgid "Email Address"
-msgstr ""
+msgstr "نشانی ایمیل"
 
 #. module: website_project
 #. odoo-javascript
 #: code:addons/website_project/static/src/js/website_project_editor.js:0
 msgid "Full Name"
-msgstr ""
+msgstr "نام کامل"
 
 #. module: website_project
 #: model_terms:ir.ui.view,arch_db:website_project.task_submitted
 msgid "Go to Homepage"
-msgstr ""
+msgstr "برو به صفحه اصلی"
 
 #. module: website_project
 #: model:ir.model.fields,field_description:website_project.field_project_task__id
 #: model:ir.model.fields,field_description:website_project.field_website_page__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: website_project
 #. odoo-javascript
@@ -90,7 +90,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/website_project/controllers/main.py:0
 msgid "Other Information"
-msgstr ""
+msgstr "اطلاعات دیگر"
 
 #. module: website_project
 #: model_terms:ir.ui.view,arch_db:website_project.task_submitted
@@ -100,24 +100,24 @@ msgstr ""
 #. module: website_project
 #: model:ir.model,name:website_project.model_website_page
 msgid "Page"
-msgstr ""
+msgstr "صفحه"
 
 #. module: website_project
 #. odoo-javascript
 #: code:addons/website_project/static/src/js/website_project_editor.js:0
 msgid "Phone Number"
-msgstr ""
+msgstr "شماره تلفن"
 
 #. module: website_project
 #. odoo-javascript
 #: code:addons/website_project/static/src/js/website_project_editor.js:0
 msgid "Project"
-msgstr ""
+msgstr "پروژه"
 
 #. module: website_project
 #: model:ir.model,name:website_project.model_project_task
 msgid "Task"
-msgstr ""
+msgstr "وظیفه"
 
 #. module: website_project
 #: model_terms:ir.ui.view,arch_db:website_project.task_submitted
@@ -127,7 +127,7 @@ msgstr ""
 #. module: website_project
 #: model_terms:ir.ui.view,arch_db:website_project.task_submitted
 msgid "Thank you!"
-msgstr ""
+msgstr "سپاسگزاریم!"
 
 #. module: website_project
 #: model:ir.model.fields,help:website_project.field_project_task__display_name
@@ -149,3 +149,4 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:website_project.task_submitted
 msgid "Your task has been sent."
 msgstr ""
+

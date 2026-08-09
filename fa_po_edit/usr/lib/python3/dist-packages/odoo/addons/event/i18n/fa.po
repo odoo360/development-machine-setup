@@ -1988,7 +1988,7 @@ msgstr ""
 #. module: event
 #: model:event.event,name:event.event_4
 msgid "Business workshops"
-msgstr ""
+msgstr "کارگاه های کسب و کار"
 
 #. module: event
 #: model:ir.model.fields,field_description:event.field_event_registration__utm_campaign_id
@@ -2235,7 +2235,7 @@ msgstr "ایجادشده در"
 #. module: event
 #: model:event.tag,name:event.event_tag_category_2_tag_1
 msgid "Culture"
-msgstr ""
+msgstr "فرهنگ"
 
 #. module: event
 #: model:ir.model.fields,field_description:event.field_event_slot__date
@@ -2893,7 +2893,7 @@ msgstr "نقشه گوگل"
 #. module: event
 #: model:ir.model.fields,field_description:event.field_res_config_settings__google_maps_static_api_key
 msgid "Google Maps API key"
-msgstr ""
+msgstr "کلید API نقشه گوگل"
 
 #. module: event
 #: model:ir.model.fields,field_description:event.field_res_config_settings__google_maps_static_api_secret
@@ -3199,7 +3199,7 @@ msgstr ""
 #. module: event
 #: model_terms:event.event,description:event.event_2
 msgid "John DOE"
-msgstr ""
+msgstr "جان دو"
 
 #. module: event
 #: model_terms:ir.ui.view,arch_db:event.event_report_template_foldable_badge
@@ -3498,7 +3498,7 @@ msgstr ""
 #. module: event
 #: model:event.tag,name:event.event_tag_category_2_tag_2
 msgid "Music"
-msgstr ""
+msgstr "موسیقی"
 
 #. module: event
 #: model_terms:ir.ui.view,arch_db:event.view_event_search
@@ -3579,7 +3579,7 @@ msgstr ""
 #: model_terms:ir.actions.act_window,help:event.event_registration_action_kanban
 #: model_terms:ir.actions.act_window,help:event.event_registration_action_stats_from_event
 msgid "No Attendees yet!"
-msgstr ""
+msgstr "هنوز هیچ شرکت‌کننده‌ای وجود ندارد!"
 
 #. module: event
 #: model_terms:ir.actions.act_window,help:event.event_question_action
@@ -3786,7 +3786,7 @@ msgstr "تلفن"
 #. module: event
 #: model_terms:ir.ui.view,arch_db:event.attendee_list
 msgid "Phone number"
-msgstr ""
+msgstr "شماره تلفن"
 
 #. module: event
 #: model_terms:event.event,ticket_instructions:event.event_0
@@ -4208,7 +4208,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:event.view_event_search
 #: model_terms:ir.ui.view,arch_db:event.view_registration_search
 msgid "Show all records whose next activity date is past"
-msgstr ""
+msgstr "نمایش تمام رکوردهایی که تاریخ فعالیت بعدی آن‌ها گذشته است"
 
 #. module: event
 #. odoo-javascript
@@ -4660,7 +4660,7 @@ msgstr ""
 #. module: event
 #: model_terms:ir.ui.view,arch_db:event.attendee_list
 msgid "Ticket type"
-msgstr ""
+msgstr "نوع تیکت"
 
 #. module: event
 #. odoo-javascript
@@ -4905,7 +4905,7 @@ msgstr ""
 #. module: event
 #: model_terms:ir.ui.view,arch_db:event.view_event_form
 msgid "Visible to all"
-msgstr ""
+msgstr "قابل‌مشاهده برای همه"
 
 #. module: event
 #: model_terms:ir.actions.act_window,help:event.act_event_registration_from_event
@@ -5101,7 +5101,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/event/models/event_event.py:0
 msgid "next month"
-msgstr ""
+msgstr "ماه آینده"
 
 #. module: event
 #. odoo-python
@@ -5256,3 +5256,4 @@ msgstr ""
 #~ msgstr ""
 #~ "همچنین می توانید توضیحاتی اضافه کنید تا به همکاران خود در درک معنی و هدف "
 #~ "مرحله کمک کنید."
+

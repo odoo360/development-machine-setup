@@ -107,7 +107,7 @@ msgstr ""
 #. module: theme_clean
 #: model:ir.model.fields,field_description:theme_clean.field_theme_utils__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: theme_clean
 #: model_terms:theme.ir.ui.view,arch:theme_clean.s_key_images
@@ -181,7 +181,7 @@ msgstr ""
 #. module: theme_clean
 #: model:ir.model.fields,field_description:theme_clean.field_theme_utils__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: theme_clean
 #: model_terms:theme.ir.ui.view,arch:theme_clean.s_pricelist_boxed
@@ -197,7 +197,7 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_clean.s_freegrid
 #: model_terms:theme.ir.ui.view,arch:theme_clean.s_striped_center_top
 msgid "Learn More"
-msgstr ""
+msgstr "اطلاعات بیشتر"
 
 #. module: theme_clean
 #: model_terms:theme.ir.ui.view,arch:theme_clean.s_freegrid
@@ -264,17 +264,17 @@ msgstr ""
 #. module: theme_clean
 #: model_terms:theme.ir.ui.view,arch:theme_clean.s_three_columns
 msgid "Our mission"
-msgstr ""
+msgstr "ماموریت ما"
 
 #. module: theme_clean
 #: model_terms:theme.ir.ui.view,arch:theme_clean.s_empowerment
 msgid "Our services"
-msgstr ""
+msgstr "خدمات ما"
 
 #. module: theme_clean
 #: model_terms:theme.ir.ui.view,arch:theme_clean.s_three_columns
 msgid "Our team"
-msgstr ""
+msgstr "تیم ما"
 
 #. module: theme_clean
 #: model_terms:theme.ir.ui.view,arch:theme_clean.s_key_benefits
@@ -286,7 +286,7 @@ msgstr ""
 #. module: theme_clean
 #: model_terms:theme.ir.ui.view,arch:theme_clean.s_three_columns
 msgid "Our values"
-msgstr ""
+msgstr "ارزش‌های ما"
 
 #. module: theme_clean
 #: model_terms:theme.ir.ui.view,arch:theme_clean.s_key_images
@@ -333,7 +333,7 @@ msgstr ""
 #. module: theme_clean
 #: model_terms:theme.ir.ui.view,arch:theme_clean.s_features
 msgid "Secured"
-msgstr ""
+msgstr "ایمن شده"
 
 #. module: theme_clean
 #: model_terms:theme.ir.ui.view,arch:theme_clean.s_cover
@@ -388,7 +388,7 @@ msgstr ""
 #. module: theme_clean
 #: model:ir.model,name:theme_clean.model_theme_utils
 msgid "Theme Utils"
-msgstr ""
+msgstr "ابزارهای تم"
 
 #. module: theme_clean
 #: model_terms:theme.ir.ui.view,arch:theme_clean.s_text_image
@@ -470,3 +470,4 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_clean.s_pricelist_boxed
 msgid "✽  Technology Solutions"
 msgstr ""
+

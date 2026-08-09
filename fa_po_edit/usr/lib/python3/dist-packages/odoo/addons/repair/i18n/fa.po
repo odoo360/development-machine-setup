@@ -977,7 +977,7 @@ msgstr "آماده"
 #. module: repair
 #: model:ir.model.fields.selection,name:repair.selection__stock_move__repair_line_type__recycle
 msgid "Recycle"
-msgstr ""
+msgstr "بازیافت"
 
 #. module: repair
 #: model:ir.model.fields,field_description:repair.field_stock_picking_type__default_recycle_location_dest_id
@@ -1235,7 +1235,7 @@ msgstr "تبدیل به پیشنویس"
 #. module: repair
 #: model_terms:ir.ui.view,arch_db:repair.view_repair_order_form_filter
 msgid "Show all records whose next activity date is past"
-msgstr ""
+msgstr "نمایش تمام رکوردهایی که تاریخ فعالیت بعدی آن‌ها گذشته است"
 
 #. module: repair
 #: model_terms:ir.ui.view,arch_db:repair.view_repair_order_form
@@ -1531,7 +1531,7 @@ msgstr "از محل"
 #. odoo-python
 #: code:addons/repair/models/stock_picking.py:0
 msgid "id"
-msgstr ""
+msgstr "شناسه"
 
 #. module: repair
 #. odoo-python
@@ -1879,3 +1879,4 @@ msgstr ""
 
 #~ msgid "You have to select an invoice address in the repair form."
 #~ msgstr "شما باید آدرس فاکتور را در فرم تعمیر انتخاب کنید."
+

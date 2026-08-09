@@ -44,7 +44,7 @@ msgstr ""
 #. module: pos_pine_labs
 #: model:ir.model.fields.selection,name:pos_pine_labs.selection__pos_payment_method__pine_labs_allowed_payment_mode__all
 msgid "All"
-msgstr ""
+msgstr "همه"
 
 #. module: pos_pine_labs
 #. odoo-javascript
@@ -55,19 +55,19 @@ msgstr ""
 #. module: pos_pine_labs
 #: model:ir.model.fields.selection,name:pos_pine_labs.selection__pos_payment_method__pine_labs_allowed_payment_mode__card
 msgid "Card"
-msgstr ""
+msgstr "کارت"
 
 #. module: pos_pine_labs
 #: model:ir.model.fields,field_description:pos_pine_labs.field_pos_payment__display_name
 #: model:ir.model.fields,field_description:pos_pine_labs.field_pos_payment_method__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: pos_pine_labs
 #: model:ir.model.fields,field_description:pos_pine_labs.field_pos_payment__id
 #: model:ir.model.fields,field_description:pos_pine_labs.field_pos_payment_method__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: pos_pine_labs
 #: model:ir.model.fields,field_description:pos_pine_labs.field_pos_payment_method__pine_labs_allowed_payment_mode
@@ -138,12 +138,12 @@ msgstr ""
 #. module: pos_pine_labs
 #: model:ir.model,name:pos_pine_labs.model_pos_payment_method
 msgid "Point of Sale Payment Methods"
-msgstr ""
+msgstr "روش های پرداخت پایانه فروش"
 
 #. module: pos_pine_labs
 #: model:ir.model,name:pos_pine_labs.model_pos_payment
 msgid "Point of Sale Payments"
-msgstr ""
+msgstr "پرداخت های پایانه فروش"
 
 #. module: pos_pine_labs
 #. odoo-javascript
@@ -188,3 +188,4 @@ msgstr ""
 #: model:ir.model.fields.selection,name:pos_pine_labs.selection__pos_payment_method__pine_labs_allowed_payment_mode__upi
 msgid "Upi"
 msgstr ""
+

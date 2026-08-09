@@ -132,7 +132,7 @@ msgstr ""
 #. module: website_event_booth
 #: model_terms:ir.ui.view,arch_db:website_event_booth.event_booth_registration_details
 msgid "Contact Details"
-msgstr ""
+msgstr "جزییات تماس"
 
 #. module: website_event_booth
 #: model_terms:ir.ui.view,arch_db:website_event_booth.event_booth_order_progress
@@ -144,19 +144,19 @@ msgstr ""
 #. module: website_event_booth
 #: model_terms:ir.ui.view,arch_db:website_event_booth.event_booth_registration
 msgid "Contact Us"
-msgstr ""
+msgstr "تماس با ما"
 
 #. module: website_event_booth
 #: model:ir.model.fields,field_description:website_event_booth.field_event_event__display_name
 #: model:ir.model.fields,field_description:website_event_booth.field_event_type__display_name
 #: model:ir.model.fields,field_description:website_event_booth.field_website_event_menu__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: website_event_booth
 #: model:ir.model,name:website_event_booth.model_event_event
 msgid "Event"
-msgstr ""
+msgstr "رویداد"
 
 #. module: website_event_booth
 #: model:ir.model.fields.selection,name:website_event_booth.selection__website_event_menu__menu_type__booth
@@ -176,7 +176,7 @@ msgstr ""
 #. module: website_event_booth
 #: model:ir.model,name:website_event_booth.model_event_type
 msgid "Event Template"
-msgstr ""
+msgstr "الگوی رویداد"
 
 #. module: website_event_booth
 #: model:ir.model.fields,field_description:website_event_booth.field_event_event__exhibition_map
@@ -192,14 +192,14 @@ msgstr ""
 #. module: website_event_booth
 #: model_terms:ir.ui.view,arch_db:website_event_booth.event_booth_registration_details
 msgid "Go back"
-msgstr ""
+msgstr "بازگشت"
 
 #. module: website_event_booth
 #: model:ir.model.fields,field_description:website_event_booth.field_event_event__id
 #: model:ir.model.fields,field_description:website_event_booth.field_event_type__id
 #: model:ir.model.fields,field_description:website_event_booth.field_website_event_menu__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: website_event_booth
 #. odoo-javascript
@@ -215,17 +215,17 @@ msgstr ""
 #. module: website_event_booth
 #: model_terms:ir.ui.view,arch_db:website_event_booth.event_booth_registration
 msgid "Location"
-msgstr ""
+msgstr "مکان"
 
 #. module: website_event_booth
 #: model:ir.model.fields,field_description:website_event_booth.field_website_event_menu__menu_type
 msgid "Menu Type"
-msgstr ""
+msgstr "نوع منو"
 
 #. module: website_event_booth
 #: model_terms:ir.ui.view,arch_db:website_event_booth.event_booth_registration_details
 msgid "Phone"
-msgstr ""
+msgstr "تلفن"
 
 #. module: website_event_booth
 #: model_terms:ir.ui.view,arch_db:website_event_booth.event_booth_registration_details
@@ -262,9 +262,10 @@ msgstr ""
 #. module: website_event_booth
 #: model:ir.model,name:website_event_booth.model_website_event_menu
 msgid "Website Event Menu"
-msgstr ""
+msgstr "منوی رویداد وب سایت"
 
 #. module: website_event_booth
 #: model_terms:ir.ui.view,arch_db:website_event_booth.event_booth_registration
 msgid "if you have any question."
 msgstr ""
+

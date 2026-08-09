@@ -692,7 +692,7 @@ msgstr "کنش‌های زمان‌بندی‌شده"
 #. module: base_automation
 #: model_terms:ir.ui.view,arch_db:base_automation.view_base_automation_form
 msgid "Scheduled action"
-msgstr ""
+msgstr "اقدام برنامه ریزی شده"
 
 #. module: base_automation
 #: model_terms:ir.ui.view,arch_db:base_automation.view_base_automation_form
@@ -1028,7 +1028,7 @@ msgstr "هیچ اقدامی تعریف نشده است..."
 #. odoo-python
 #: code:addons/base_automation/models/base_automation.py:0
 msgid "path"
-msgstr ""
+msgstr "مسیر"
 
 #~ msgid "Action Name"
 #~ msgstr "نام کنش"
@@ -1038,3 +1038,4 @@ msgstr ""
 
 #~ msgid "Delay type"
 #~ msgstr "نوع تاخیر"
+

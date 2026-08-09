@@ -19,19 +19,19 @@ msgstr ""
 #. module: website_sale_mass_mailing
 #: model:ir.model,name:website_sale_mass_mailing.model_res_config_settings
 msgid "Config Settings"
-msgstr ""
+msgstr "تنظیمات پیکربندی"
 
 #. module: website_sale_mass_mailing
 #: model:ir.model.fields,field_description:website_sale_mass_mailing.field_res_config_settings__display_name
 #: model:ir.model.fields,field_description:website_sale_mass_mailing.field_website__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: website_sale_mass_mailing
 #: model:ir.model.fields,field_description:website_sale_mass_mailing.field_res_config_settings__id
 #: model:ir.model.fields,field_description:website_sale_mass_mailing.field_website__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: website_sale_mass_mailing
 #: model:ir.model.fields,field_description:website_sale_mass_mailing.field_res_config_settings__is_newsletter_enabled
@@ -41,7 +41,7 @@ msgstr ""
 #. module: website_sale_mass_mailing
 #: model_terms:ir.ui.view,arch_db:website_sale_mass_mailing.res_config_settings_view_form
 msgid "Newsletter"
-msgstr ""
+msgstr "خبرنامه"
 
 #. module: website_sale_mass_mailing
 #: model:ir.model.fields,field_description:website_sale_mass_mailing.field_res_config_settings__newsletter_id
@@ -62,4 +62,5 @@ msgstr ""
 #. module: website_sale_mass_mailing
 #: model:ir.model,name:website_sale_mass_mailing.model_website
 msgid "Website"
-msgstr ""
+msgstr "تارنما"
+

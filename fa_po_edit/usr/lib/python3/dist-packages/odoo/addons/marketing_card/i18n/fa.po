@@ -373,7 +373,7 @@ msgstr "آیکون فونت عالی به عبارتی fa-tasks"
 #. module: marketing_card
 #: model:card.template,name:marketing_card.card_template_geometric
 msgid "Geometric"
-msgstr ""
+msgstr "هندسی"
 
 #. module: marketing_card
 #: model:ir.model.fields,field_description:marketing_card.field_card_campaign__has_message
@@ -714,7 +714,7 @@ msgstr ""
 #. module: marketing_card
 #: model_terms:ir.ui.view,arch_db:marketing_card.card_campaign_preview
 msgid "Powered By"
-msgstr ""
+msgstr "راه اندازی شده به وسیله"
 
 #. module: marketing_card
 #: model_terms:ir.actions.act_window,help:marketing_card.card_campaign_action
@@ -1102,3 +1102,4 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:marketing_card.card_campaign_view_form
 msgid "e.g. Why people should share on their network?"
 msgstr ""
+

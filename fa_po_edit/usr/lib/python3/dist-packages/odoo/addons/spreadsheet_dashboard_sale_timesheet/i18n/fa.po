@@ -70,21 +70,21 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_sale_timesheet/data/files/timesheet_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale_timesheet/data/files/timesheet_sample_dashboard.json:0
 msgid "Current"
-msgstr ""
+msgstr "جاری"
 
 #. module: spreadsheet_dashboard_sale_timesheet
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_sale_timesheet/data/files/timesheet_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale_timesheet/data/files/timesheet_sample_dashboard.json:0
 msgid "Department"
-msgstr ""
+msgstr "دپارتمان"
 
 #. module: spreadsheet_dashboard_sale_timesheet
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_sale_timesheet/data/files/timesheet_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale_timesheet/data/files/timesheet_sample_dashboard.json:0
 msgid "Employee"
-msgstr ""
+msgstr "کارمند"
 
 #. module: spreadsheet_dashboard_sale_timesheet
 #. odoo-javascript
@@ -130,28 +130,28 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_sale_timesheet/data/files/timesheet_dashboard.json:0
 msgid "Period"
-msgstr ""
+msgstr "دوره"
 
 #. module: spreadsheet_dashboard_sale_timesheet
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_sale_timesheet/data/files/timesheet_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale_timesheet/data/files/timesheet_sample_dashboard.json:0
 msgid "Previous"
-msgstr ""
+msgstr "قبلی"
 
 #. module: spreadsheet_dashboard_sale_timesheet
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_sale_timesheet/data/files/timesheet_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale_timesheet/data/files/timesheet_sample_dashboard.json:0
 msgid "Project"
-msgstr ""
+msgstr "پروژه"
 
 #. module: spreadsheet_dashboard_sale_timesheet
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_sale_timesheet/data/files/timesheet_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale_timesheet/data/files/timesheet_sample_dashboard.json:0
 msgid "Task"
-msgstr ""
+msgstr "وظیفه"
 
 #. module: spreadsheet_dashboard_sale_timesheet
 #. odoo-javascript
@@ -163,7 +163,7 @@ msgstr ""
 #. module: spreadsheet_dashboard_sale_timesheet
 #: model:spreadsheet.dashboard,name:spreadsheet_dashboard_sale_timesheet.spreadsheet_dashboard_timesheet
 msgid "Timesheets"
-msgstr ""
+msgstr "برگه ساعت کارکرد"
 
 #. module: spreadsheet_dashboard_sale_timesheet
 #. odoo-javascript
@@ -205,3 +205,4 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_sale_timesheet/data/files/timesheet_sample_dashboard.json:0
 msgid "since last period"
 msgstr ""
+

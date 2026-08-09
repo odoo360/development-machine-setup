@@ -110,14 +110,14 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_sample_dashboard.json:0
 msgid "Category"
-msgstr ""
+msgstr "دسته بندی"
 
 #. module: spreadsheet_dashboard_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_sample_dashboard.json:0
 msgid "Country"
-msgstr ""
+msgstr "کشور"
 
 #. module: spreadsheet_dashboard_sale
 #. odoo-javascript
@@ -130,14 +130,14 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_sample_dashboard.json:0
 msgid "Current"
-msgstr ""
+msgstr "جاری"
 
 #. module: spreadsheet_dashboard_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_sample_dashboard.json:0
 msgid "Customer"
-msgstr ""
+msgstr "مشتری"
 
 #. module: spreadsheet_dashboard_sale
 #. odoo-javascript
@@ -196,7 +196,7 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_sample_dashboard.json:0
 msgid "Medium"
-msgstr ""
+msgstr "متوسط"
 
 #. module: spreadsheet_dashboard_sale
 #. odoo-javascript
@@ -210,7 +210,7 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_sale/data/files/product_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale/data/files/product_sample_dashboard.json:0
 msgid "Name"
-msgstr ""
+msgstr "نام"
 
 #. module: spreadsheet_dashboard_sale
 #. odoo-javascript
@@ -229,21 +229,21 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_sample_dashboard.json:0
 msgid "Orders"
-msgstr ""
+msgstr "سفارشات"
 
 #. module: spreadsheet_dashboard_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_sale/data/files/product_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_dashboard.json:0
 msgid "Period"
-msgstr ""
+msgstr "دوره"
 
 #. module: spreadsheet_dashboard_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_sample_dashboard.json:0
 msgid "Previous"
-msgstr ""
+msgstr "قبلی"
 
 #. module: spreadsheet_dashboard_sale
 #. odoo-javascript
@@ -253,7 +253,7 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_sample_dashboard.json:0
 #: model:spreadsheet.dashboard,name:spreadsheet_dashboard_sale.spreadsheet_dashboard_product
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 #. module: spreadsheet_dashboard_sale
 #. odoo-javascript
@@ -278,7 +278,7 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_sample_dashboard.json:0
 msgid "Quotations"
-msgstr ""
+msgstr "پیش‌فاکتور"
 
 #. module: spreadsheet_dashboard_sale
 #. odoo-javascript
@@ -294,26 +294,26 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_sample_dashboard.json:0
 msgid "Revenue"
-msgstr ""
+msgstr "درآمد"
 
 #. module: spreadsheet_dashboard_sale
 #: model:spreadsheet.dashboard,name:spreadsheet_dashboard_sale.spreadsheet_dashboard_sales
 msgid "Sales"
-msgstr ""
+msgstr "فروش ها"
 
 #. module: spreadsheet_dashboard_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_sample_dashboard.json:0
 msgid "Sales Team"
-msgstr ""
+msgstr "تیم فروش"
 
 #. module: spreadsheet_dashboard_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_sample_dashboard.json:0
 msgid "Salesperson"
-msgstr ""
+msgstr "فروشنده"
 
 #. module: spreadsheet_dashboard_sale
 #. odoo-javascript
@@ -332,7 +332,7 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_sample_dashboard.json:0
 msgid "Source"
-msgstr ""
+msgstr "مبدا"
 
 #. module: spreadsheet_dashboard_sale
 #. odoo-javascript
@@ -344,13 +344,13 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_sample_dashboard.json:0
 msgid "Top Categories"
-msgstr ""
+msgstr "دسته‌بندی‌های برتر"
 
 #. module: spreadsheet_dashboard_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_sample_dashboard.json:0
 msgid "Top Countries"
-msgstr ""
+msgstr "کشورهای برتر"
 
 #. module: spreadsheet_dashboard_sale
 #. odoo-javascript
@@ -371,7 +371,7 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_sample_dashboard.json:0
 msgid "Top Products"
-msgstr ""
+msgstr "برترین محصولات"
 
 #. module: spreadsheet_dashboard_sale
 #. odoo-javascript
@@ -399,7 +399,7 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale/data/files/sales_sample_dashboard.json:0
 msgid "Top Salespeople"
-msgstr ""
+msgstr "برترین مسئولان فروش"
 
 #. module: spreadsheet_dashboard_sale
 #. odoo-javascript
@@ -439,7 +439,7 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_sale/data/files/product_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale/data/files/product_sample_dashboard.json:0
 msgid "Units"
-msgstr ""
+msgstr "عدد"
 
 #. module: spreadsheet_dashboard_sale
 #. odoo-javascript
@@ -459,4 +459,5 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_sale/data/files/product_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_sale/data/files/product_sample_dashboard.json:0
 msgid "sold"
-msgstr ""
+msgstr "فروخته شده"
+

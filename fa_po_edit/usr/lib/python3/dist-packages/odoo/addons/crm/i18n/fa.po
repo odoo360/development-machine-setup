@@ -493,7 +493,7 @@ msgstr ""
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.view_crm_case_leads_filter
 msgid "Activities of"
-msgstr ""
+msgstr "فعالیت‌های"
 
 #. module: crm
 #: model:ir.model,name:crm.model_mail_activity
@@ -4239,7 +4239,7 @@ msgstr "خیلی زیاد"
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.crm_lead_view_form
 msgid "Visible to all"
-msgstr ""
+msgstr "قابل‌مشاهده برای همه"
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.res_config_settings_view_form
@@ -4415,7 +4415,7 @@ msgstr "نام مستعار"
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.crm_lead_view_form
 msgid "at"
-msgstr ""
+msgstr "در"
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.crm_lead_view_form
@@ -4452,7 +4452,7 @@ msgstr "برای مثال mycompany.com"
 #. odoo-javascript
 #: code:addons/crm/static/src/views/crm_form/crm_pls_tooltip_button.xml:0
 msgid "email address"
-msgstr ""
+msgstr "نشانی ایمیل"
 
 #. module: crm
 #: model_terms:ir.ui.view,arch_db:crm.res_config_settings_view_form
@@ -4474,7 +4474,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/crm/models/crm_lead.py:0
 msgid "incoming email"
-msgstr ""
+msgstr "ایمیل ورودی"
 
 #. module: crm
 #. odoo-python
@@ -4492,25 +4492,25 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/crm/static/src/views/crm_form/crm_pls_tooltip_button.xml:0
 msgid "phone number"
-msgstr ""
+msgstr "شماره تلفن"
 
 #. module: crm
 #. odoo-javascript
 #: code:addons/crm/static/src/views/crm_form/crm_pls_tooltip_button.xml:0
 msgid "sample data"
-msgstr ""
+msgstr "داده های نمونه"
 
 #. module: crm
 #. odoo-javascript
 #: code:addons/crm/static/src/views/crm_form/crm_pls_tooltip_button.xml:0
 msgid "stage"
-msgstr ""
+msgstr "مرحله"
 
 #. module: crm
 #. odoo-javascript
 #: code:addons/crm/static/src/views/crm_form/crm_pls_tooltip_button.xml:0
 msgid "team"
-msgstr ""
+msgstr "تیم"
 
 #. module: crm
 #: model:ir.model.fields,field_description:crm.field_crm_stage__team_count
@@ -4539,7 +4539,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/crm/models/crm_lead.py:0
 msgid "type"
-msgstr ""
+msgstr "نوع"
 
 #. module: crm
 #. odoo-python
@@ -4551,7 +4551,7 @@ msgstr "ناشناخته"
 #. odoo-javascript
 #: code:addons/crm/static/src/views/crm_form/crm_pls_tooltip_button.xml:0
 msgid "valid email address"
-msgstr ""
+msgstr "آدرس ایمیل معتبر"
 
 #. module: crm
 #. odoo-javascript
@@ -4775,3 +4775,4 @@ msgstr ""
 
 #~ msgid "Yeah! Deal of the last 7 days for the team."
 #~ msgstr "آره! معامله 7 روز گذشته برای تیم."
+

@@ -38,7 +38,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:sale_product_matrix.field_sale_order__display_name
 #: model:ir.model.fields,field_description:sale_product_matrix.field_sale_order_line__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: sale_product_matrix
 #: model:ir.model.fields,field_description:sale_product_matrix.field_sale_order__grid_product_tmpl_id
@@ -55,7 +55,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:sale_product_matrix.field_sale_order__id
 #: model:ir.model.fields,field_description:sale_product_matrix.field_sale_order_line__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: sale_product_matrix
 #: model:ir.model.fields,field_description:sale_product_matrix.field_sale_order__grid
@@ -75,7 +75,7 @@ msgstr ""
 #. module: sale_product_matrix
 #: model:ir.model,name:sale_product_matrix.model_product_template
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 #. module: sale_product_matrix
 #: model:ir.model.fields.selection,name:sale_product_matrix.selection__product_template__product_add_mode__configurator
@@ -85,12 +85,12 @@ msgstr ""
 #. module: sale_product_matrix
 #: model:ir.model,name:sale_product_matrix.model_sale_order
 msgid "Sales Order"
-msgstr ""
+msgstr "سفارش فروش"
 
 #. module: sale_product_matrix
 #: model:ir.model,name:sale_product_matrix.model_sale_order_line
 msgid "Sales Order Line"
-msgstr ""
+msgstr "سطر سفارش‌فروش"
 
 #. module: sale_product_matrix
 #: model_terms:ir.ui.view,arch_db:sale_product_matrix.product_template_grid_view_form
@@ -111,3 +111,4 @@ msgstr ""
 msgid ""
 "You cannot change the quantity of a product present in multiple sale lines."
 msgstr ""
+

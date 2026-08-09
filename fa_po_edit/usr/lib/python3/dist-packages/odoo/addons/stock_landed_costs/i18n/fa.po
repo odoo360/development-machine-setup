@@ -620,7 +620,7 @@ msgstr "خطای تحویل پیامک"
 #. module: stock_landed_costs
 #: model_terms:ir.ui.view,arch_db:stock_landed_costs.view_stock_landed_cost_search
 msgid "Show all records whose next activity date is past"
-msgstr ""
+msgstr "نمایش تمام رکوردهایی که تاریخ فعالیت بعدی آن‌ها گذشته است"
 
 #. module: stock_landed_costs
 #: model:ir.model.fields,field_description:stock_landed_costs.field_stock_landed_cost_lines__split_method
@@ -783,3 +783,4 @@ msgstr ""
 
 #~ msgid "Stock Valuation Layer"
 #~ msgstr "لایه ارزش گذاری موجودی"
+

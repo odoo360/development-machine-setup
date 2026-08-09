@@ -20,33 +20,33 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_sample_dashboard.json:0
 msgid "Attended"
-msgstr ""
+msgstr "حاضر شده"
 
 #. module: spreadsheet_dashboard_event_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_sample_dashboard.json:0
 msgid "Attendees"
-msgstr ""
+msgstr "شرکت‌کنندگان"
 
 #. module: spreadsheet_dashboard_event_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_sample_dashboard.json:0
 msgid "Booked"
-msgstr ""
+msgstr "رزرو شده"
 
 #. module: spreadsheet_dashboard_event_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_sample_dashboard.json:0
 msgid "Current"
-msgstr ""
+msgstr "جاری"
 
 #. module: spreadsheet_dashboard_event_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_dashboard.json:0
 msgid "Date"
-msgstr ""
+msgstr "تاریخ"
 
 #. module: spreadsheet_dashboard_event_sale
 #. odoo-javascript
@@ -60,7 +60,7 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_sample_dashboard.json:0
 #: model:spreadsheet.dashboard,name:spreadsheet_dashboard_event_sale.spreadsheet_dashboard_events
 msgid "Events"
-msgstr ""
+msgstr "رویدادها"
 
 #. module: spreadsheet_dashboard_event_sale
 #. odoo-javascript
@@ -81,54 +81,54 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_sample_dashboard.json:0
 msgid "Organizer"
-msgstr ""
+msgstr "سازمان‌دهنده"
 
 #. module: spreadsheet_dashboard_event_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_sample_dashboard.json:0
 msgid "Previous"
-msgstr ""
+msgstr "قبلی"
 
 #. module: spreadsheet_dashboard_event_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_sample_dashboard.json:0
 msgid "Registered"
-msgstr ""
+msgstr "ثبت‌شده"
 
 #. module: spreadsheet_dashboard_event_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_sample_dashboard.json:0
 msgid "Registration Status"
-msgstr ""
+msgstr "وضعیت ثبت"
 
 #. module: spreadsheet_dashboard_event_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_sample_dashboard.json:0
 msgid "Revenue"
-msgstr ""
+msgstr "درآمد"
 
 #. module: spreadsheet_dashboard_event_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_sample_dashboard.json:0
 msgid "Tag"
-msgstr ""
+msgstr "برچسب"
 
 #. module: spreadsheet_dashboard_event_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_dashboard.json:0
 msgid "Tags"
-msgstr ""
+msgstr "برچسب‌ها"
 
 #. module: spreadsheet_dashboard_event_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_sample_dashboard.json:0
 msgid "Template"
-msgstr ""
+msgstr "پوسته"
 
 #. module: spreadsheet_dashboard_event_sale
 #. odoo-javascript
@@ -163,7 +163,7 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_sample_dashboard.json:0
 msgid "Venue"
-msgstr ""
+msgstr "مکان"
 
 #. module: spreadsheet_dashboard_event_sale
 #. odoo-javascript
@@ -171,3 +171,4 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_event_sale/data/files/events_sample_dashboard.json:0
 msgid "since last period"
 msgstr ""
+

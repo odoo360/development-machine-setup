@@ -188,12 +188,12 @@ msgstr "فیلتر بر اساس برچسب‌ها"
 #. module: website_customer
 #: model_terms:ir.ui.view,arch_db:website_customer.opt_country_list
 msgid "Filter by country"
-msgstr ""
+msgstr "فیلتر با کشور"
 
 #. module: website_customer
 #: model_terms:ir.ui.view,arch_db:website_customer.opt_industry_list
 msgid "Filter by industry"
-msgstr ""
+msgstr "فیلتر بر اساس صنعت"
 
 #. module: website_customer
 #: model:ir.model.fields,help:website_customer.field_res_partner__website_tag_ids
@@ -397,3 +397,4 @@ msgstr "نقشه جهان"
 
 #~ msgid "Trusted by millions worldwide"
 #~ msgstr "مورد اعتماد میلیون ها نفر در سطح دنیا"
+

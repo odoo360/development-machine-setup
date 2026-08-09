@@ -42,7 +42,7 @@ msgstr ""
 #. module: website_event_track_quiz
 #: model_terms:ir.ui.view,arch_db:website_event_track_quiz.event_track_view_form
 msgid "Add Quiz"
-msgstr ""
+msgstr "افزودن آزمون"
 
 #. module: website_event_track_quiz
 #: model_terms:ir.ui.view,arch_db:website_event_track_quiz.event_quiz_view_form
@@ -198,7 +198,7 @@ msgstr ""
 #. module: website_event_track_quiz
 #: model:event.quiz.answer,text_value:website_event_track_quiz.event_7_track_5_question_1_0
 msgid "Hammer"
-msgstr ""
+msgstr "چکش"
 
 #. module: website_event_track_quiz
 #: model:event.quiz.answer,comment:website_event_track_quiz.event_7_track_5_question_1_0
@@ -270,7 +270,7 @@ msgstr ""
 #. module: website_event_track_quiz
 #: model:event.quiz.answer,text_value:website_event_track_quiz.event_7_track_1_question_0_1
 msgid "Music"
-msgstr ""
+msgstr "موسیقی"
 
 #. module: website_event_track_quiz
 #: model:ir.model.fields,field_description:website_event_track_quiz.field_event_quiz__name
@@ -322,7 +322,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website_event_track_quiz/static/src/xml/quiz_templates.xml:0
 msgid "Point"
-msgstr ""
+msgstr "امتیاز"
 
 #. module: website_event_track_quiz
 #. odoo-javascript
@@ -560,7 +560,7 @@ msgstr ""
 #. module: website_event_track_quiz
 #: model:event.quiz.answer,text_value:website_event_track_quiz.event_7_track_1_question_0_0
 msgid "Wood"
-msgstr ""
+msgstr "چوب"
 
 #. module: website_event_track_quiz
 #: model:event.quiz.answer,text_value:website_event_track_quiz.event_7_track_5_question_0_0
@@ -599,3 +599,4 @@ msgstr ""
 #: code:addons/website_event_track_quiz/static/src/xml/quiz_templates.xml:0
 msgid "points!"
 msgstr ""
+

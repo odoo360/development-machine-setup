@@ -169,7 +169,7 @@ msgstr ""
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_three_columns
 msgid "Design"
-msgstr ""
+msgstr "طراحی"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_numbers
@@ -187,7 +187,7 @@ msgstr ""
 #. module: theme_kea
 #: model:ir.model.fields,field_description:theme_kea.field_theme_utils__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_striped_center_top
@@ -363,7 +363,7 @@ msgstr ""
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_three_columns
 msgid "Gaming"
-msgstr ""
+msgstr "بازی کردن"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
@@ -375,7 +375,7 @@ msgstr ""
 #. module: theme_kea
 #: model:ir.model.fields,field_description:theme_kea.field_theme_utils__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_key_images
@@ -591,12 +591,12 @@ msgstr ""
 #. module: theme_kea
 #: model:ir.model,name:theme_kea.model_theme_utils
 msgid "Theme Utils"
-msgstr ""
+msgstr "ابزارهای تم"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_three_columns
 msgid "Training"
-msgstr ""
+msgstr "آموزش"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_image_title
@@ -641,6 +641,10 @@ msgid ""
 "or right-aligned image alongside textual content. Duplicate the element to "
 "create a list that fits your needs."
 msgstr ""
+""
+"از این قطعه برای ساخت انواع مختلف مؤلفه‌ها که شامل تصویری در سمت چپ یا راست "
+"در کنار محتوای متنی هستند استفاده کنید. عنصر را تکرار کنید تا لیستی که "
+"نیازهای شما را برآورده کند ایجاد کنید."
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
@@ -750,6 +754,9 @@ msgid ""
 "Write one or two paragraphs describing your product or services. To be "
 "successful your content needs to be useful to your readers."
 msgstr ""
+""
+"<p>یک یا دو پاراگراف درباره محصول یا خدمات خود بنویسید. برای موفقیت، محتوای "
+"شما باید برای خوانندگان شما مفید باشد.</p>"
 
 #. module: theme_kea
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_features
@@ -777,3 +784,4 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_kea.s_pricelist_boxed
 msgid "✽  VR Development"
 msgstr ""
+

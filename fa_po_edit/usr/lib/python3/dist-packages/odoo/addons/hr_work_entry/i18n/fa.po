@@ -309,7 +309,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:hr_work_entry.field_hr_work_entry__display_code
 #: model:ir.model.fields,field_description:hr_work_entry.field_hr_work_entry_type__display_code
 msgid "Display Code"
-msgstr ""
+msgstr "کد نمایش"
 
 #. module: hr_work_entry
 #: model:ir.model.fields,field_description:hr_work_entry.field_hr_employee__display_name
@@ -1001,7 +1001,7 @@ msgstr "تنظیم کنید"
 #. module: hr_work_entry
 #: model:ir.actions.server,name:hr_work_entry.action_hr_work_entry_set_to_draft
 msgid "Set to Draft"
-msgstr ""
+msgstr "تبدیل به پیشنویس"
 
 #. module: hr_work_entry
 #: model:hr.work.entry.type,name:hr_work_entry.l10n_sa_work_entry_type_sick_leave_100
@@ -1407,3 +1407,4 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:hr_work_entry.hr_work_entry_view_calendar_multi_create_form
 msgid "hours"
 msgstr "ساعت"
+

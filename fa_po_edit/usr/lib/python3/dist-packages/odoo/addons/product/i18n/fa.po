@@ -596,7 +596,7 @@ msgstr "آلومینیوم"
 #. module: product
 #: model:product.attribute.value,name:product.pav_brand_apple
 msgid "Apple"
-msgstr ""
+msgstr "سیب"
 
 #. module: product
 #: model_terms:ir.ui.view,arch_db:product.product_pricelist_item_tree_view
@@ -1019,7 +1019,7 @@ msgstr "محاسبه قیمت"
 #. module: product
 #: model:product.template,name:product.product_product_11_product_template
 msgid "Conference Chair"
-msgstr ""
+msgstr "صندلی کنفرانس"
 
 #. module: product
 #: model:ir.model,name:product.model_res_config_settings
@@ -1420,7 +1420,7 @@ msgstr ""
 #. module: product
 #: model:product.attribute.value,name:product.pav_brand_dove
 msgid "Dove"
-msgstr ""
+msgstr "کبوتر"
 
 #. module: product
 #: model_terms:ir.ui.view,arch_db:product.product_document_kanban
@@ -1661,7 +1661,7 @@ msgstr "میز چهار نفره"
 #: model:ir.model.fields,field_description:product.field_product_attribute_value__is_custom
 #: model:ir.model.fields,field_description:product.field_product_template_attribute_value__is_custom
 msgid "Free text"
-msgstr ""
+msgstr "متن آزاد"
 
 #. module: product
 #: model:product.template,name:product.product_product_furniture_product_template
@@ -1692,7 +1692,7 @@ msgstr ""
 #. module: product
 #: model:product.attribute.value,name:product.pav_fabric_glass
 msgid "Glass"
-msgstr ""
+msgstr "لیوان"
 
 #. module: product
 #: model:product.attribute.value,name:product.pav_color_gold
@@ -3497,7 +3497,7 @@ msgstr ""
 #. module: product
 #: model_terms:ir.ui.view,arch_db:product.product_template_search_view
 msgid "Show all records whose next activity date is past"
-msgstr ""
+msgstr "نمایش تمام رکوردهایی که تاریخ فعالیت بعدی آن‌ها گذشته است"
 
 #. module: product
 #: model:product.attribute.value,name:product.pav_color_silver
@@ -4252,7 +4252,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:product.product_pricelist_view
 #: model_terms:ir.ui.view,arch_db:product.product_template_form_view
 msgid "Visible to all"
-msgstr ""
+msgstr "قابل‌مشاهده برای همه"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_tag__visible_to_customers
@@ -4339,7 +4339,7 @@ msgstr "سفید"
 #: model:product.attribute.value,name:product.pav_fabric_wood
 #: model:product.attribute.value,name:product.pav_legs_wood
 msgid "Wood"
-msgstr ""
+msgstr "چوب"
 
 #. module: product
 #: model:ir.model.fields,field_description:product.field_product_product__write_date
@@ -4649,13 +4649,13 @@ msgstr ""
 #. odoo-python
 #: code:addons/product/models/product_template_attribute_line.py:0
 msgid "id"
-msgstr ""
+msgstr "شناسه"
 
 #. module: product
 #. odoo-python
 #: code:addons/product/models/product_pricelist_item.py:0
 msgid "markup"
-msgstr ""
+msgstr "حاشیه سود"
 
 #. module: product
 #: model_terms:ir.ui.view,arch_db:product.product_document_form
@@ -4943,3 +4943,4 @@ msgstr ""
 
 #~ msgid "the parent company"
 #~ msgstr "شرکت مادر"
+

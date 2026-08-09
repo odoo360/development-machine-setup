@@ -532,7 +532,7 @@ msgstr ""
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_cta_box
 msgid "Our services"
-msgstr ""
+msgstr "خدمات ما"
 
 #. module: theme_aviato
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_text_image
@@ -885,3 +885,4 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_aviato.s_big_number
 msgid "destinations available"
 msgstr ""
+

@@ -26,17 +26,17 @@ msgstr ""
 #. module: website_event_sale
 #: model_terms:ir.ui.view,arch_db:website_event_sale.event_confirmation
 msgid "<b>End</b>"
-msgstr ""
+msgstr "<b>پایان</b>"
 
 #. module: website_event_sale
 #: model_terms:ir.ui.view,arch_db:website_event_sale.event_confirmation
 msgid "<b>Start</b>"
-msgstr ""
+msgstr "<b>شروع</b>"
 
 #. module: website_event_sale
 #: model_terms:ir.ui.view,arch_db:website_event_sale.event_confirmation
 msgid "<i class=\"fa fa-check me-2\" role=\"img\"/>Registered"
-msgstr ""
+msgstr "<i class=\"fa fa-check me-2\" role=\"img\"/>ثبت نام شده"
 
 #. module: website_event_sale
 #: model_terms:ir.ui.view,arch_db:website_event_sale.registration_attendee_details
@@ -64,7 +64,7 @@ msgstr ""
 #. module: website_event_sale
 #: model_terms:ir.ui.view,arch_db:website_event_sale.registration_attendee_details
 msgid "Confirm Registration"
-msgstr ""
+msgstr "تایید ثبت نام"
 
 #. module: website_event_sale
 #: model:ir.model.fields,field_description:website_event_sale.field_event_event_ticket__display_name
@@ -75,7 +75,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:website_event_sale.field_sale_order__display_name
 #: model:ir.model.fields,field_description:website_event_sale.field_sale_order_line__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: website_event_sale
 #: model:ir.model,name:website_event_sale.model_event_sale_report
@@ -85,22 +85,22 @@ msgstr "رویداد گزارش فروش‌ها"
 #. module: website_event_sale
 #: model_terms:ir.ui.view,arch_db:website_event_sale.event_confirmation
 msgid "Event Subtitle"
-msgstr ""
+msgstr "زیرعنوان رویداد"
 
 #. module: website_event_sale
 #: model:ir.model,name:website_event_sale.model_event_event_ticket
 msgid "Event Ticket"
-msgstr ""
+msgstr "بلیط رویداد"
 
 #. module: website_event_sale
 #: model:ir.model.fields,field_description:website_event_sale.field_product_product__event_ticket_ids
 msgid "Event Tickets"
-msgstr ""
+msgstr "بلیط‌های رویداد"
 
 #. module: website_event_sale
 #: model_terms:ir.ui.view,arch_db:website_event_sale.event_confirmation
 msgid "Event Title"
-msgstr ""
+msgstr "عنوان رویداد"
 
 #. module: website_event_sale
 #: model_terms:ir.ui.view,arch_db:website_event_sale.modal_ticket_registration
@@ -126,7 +126,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:website_event_sale.field_sale_order__id
 #: model:ir.model.fields,field_description:website_event_sale.field_sale_order_line__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: website_event_sale
 #: model:ir.model,name:website_event_sale.model_product_pricelist_item
@@ -136,7 +136,7 @@ msgstr "قانون لیست قیمت"
 #. module: website_event_sale
 #: model:ir.model,name:website_event_sale.model_product_template
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 #. module: website_event_sale
 #: model:ir.model,name:website_event_sale.model_product_product
@@ -210,3 +210,4 @@ msgstr "به"
 
 #~ msgid "Website"
 #~ msgstr "تارنما"
+

@@ -32,14 +32,14 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/pos_safaricom/static/src/app/components/popups/mpesa_transaction_popup.xml:0
 msgid "Accept"
-msgstr ""
+msgstr "پذیرفتن"
 
 #. module: pos_safaricom
 #. odoo-javascript
 #: code:addons/pos_safaricom/static/src/app/components/popups/mpesa_transaction_popup.xml:0
 #: model:ir.model.fields,field_description:pos_safaricom.field_transaction_lipa_na_mpesa__amount
 msgid "Amount"
-msgstr ""
+msgstr "مقدار"
 
 #. module: pos_safaricom
 #. odoo-javascript
@@ -65,7 +65,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/pos_safaricom/static/src/app/components/popups/mpesa_transaction_popup.xml:0
 msgid "Cancel"
-msgstr ""
+msgstr "لغو"
 
 #. module: pos_safaricom
 #. odoo-javascript
@@ -105,18 +105,18 @@ msgstr ""
 #. module: pos_safaricom
 #: model:ir.model.fields,field_description:pos_safaricom.field_transaction_lipa_na_mpesa__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "ایجاد شده توسط"
 
 #. module: pos_safaricom
 #: model:ir.model.fields,field_description:pos_safaricom.field_transaction_lipa_na_mpesa__create_date
 msgid "Created on"
-msgstr ""
+msgstr "ایجادشده در"
 
 #. module: pos_safaricom
 #: model:ir.model.fields,field_description:pos_safaricom.field_pos_payment_method__display_name
 #: model:ir.model.fields,field_description:pos_safaricom.field_transaction_lipa_na_mpesa__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: pos_safaricom
 #. odoo-javascript
@@ -148,7 +148,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:pos_safaricom.field_pos_payment_method__id
 #: model:ir.model.fields,field_description:pos_safaricom.field_transaction_lipa_na_mpesa__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: pos_safaricom
 #. odoo-python
@@ -159,12 +159,12 @@ msgstr ""
 #. module: pos_safaricom
 #: model:ir.model.fields,field_description:pos_safaricom.field_transaction_lipa_na_mpesa__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "آخرین تغییر توسط"
 
 #. module: pos_safaricom
 #: model:ir.model.fields,field_description:pos_safaricom.field_transaction_lipa_na_mpesa__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "آخرین به روز رسانی در"
 
 #. module: pos_safaricom
 #: model:ir.model.fields.selection,name:pos_safaricom.selection__pos_payment_method__safaricom_payment_type__lipa_na_mpesa
@@ -198,12 +198,12 @@ msgstr ""
 #: code:addons/pos_safaricom/static/src/app/components/popups/mpesa_transaction_popup.xml:0
 #: model:ir.model.fields,field_description:pos_safaricom.field_transaction_lipa_na_mpesa__name
 msgid "Name"
-msgstr ""
+msgstr "نام"
 
 #. module: pos_safaricom
 #: model:ir.model.fields,field_description:pos_safaricom.field_transaction_lipa_na_mpesa__number
 msgid "Number"
-msgstr ""
+msgstr "شماره"
 
 #. module: pos_safaricom
 #: model:ir.model.fields,field_description:pos_safaricom.field_pos_payment_method__passkey
@@ -219,7 +219,7 @@ msgstr ""
 #. module: pos_safaricom
 #: model:ir.model.fields,field_description:pos_safaricom.field_pos_payment_method__safaricom_payment_type
 msgid "Payment Type"
-msgstr ""
+msgstr "نوع پرداخت"
 
 #. module: pos_safaricom
 #. odoo-javascript
@@ -237,7 +237,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/pos_safaricom/static/src/app/components/popups/mpesa_transaction_popup.xml:0
 msgid "Phone"
-msgstr ""
+msgstr "تلفن"
 
 #. module: pos_safaricom
 #. odoo-javascript
@@ -248,7 +248,7 @@ msgstr ""
 #. module: pos_safaricom
 #: model:ir.model,name:pos_safaricom.model_pos_payment_method
 msgid "Point of Sale Payment Methods"
-msgstr ""
+msgstr "روش های پرداخت پایانه فروش"
 
 #. module: pos_safaricom
 #: model:ir.model.fields,field_description:pos_safaricom.field_transaction_lipa_na_mpesa__received_at
@@ -259,7 +259,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/pos_safaricom/static/src/app/components/popups/mpesa_transaction_popup.xml:0
 msgid "Refresh"
-msgstr ""
+msgstr "تازه سازی"
 
 #. module: pos_safaricom
 #: model_terms:ir.ui.view,arch_db:pos_safaricom.pos_payment_method_view_form_inherit_pos_safaricom
@@ -286,7 +286,7 @@ msgstr ""
 #. module: pos_safaricom
 #: model:ir.model.fields,field_description:pos_safaricom.field_pos_payment_method__safaricom_test_mode
 msgid "Test Mode"
-msgstr ""
+msgstr "روش تست"
 
 #. module: pos_safaricom
 #: model:ir.model.fields,help:pos_safaricom.field_pos_payment_method__business_short_code
@@ -314,3 +314,4 @@ msgstr ""
 #: model:ir.model.fields,help:pos_safaricom.field_pos_payment_method__safaricom_test_mode
 msgid "Use sandbox environment"
 msgstr ""
+

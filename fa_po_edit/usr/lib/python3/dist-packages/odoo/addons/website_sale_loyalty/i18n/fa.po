@@ -34,7 +34,7 @@ msgstr ""
 #. module: website_sale_loyalty
 #: model_terms:ir.ui.view,arch_db:website_sale_loyalty.loyalty_program_view_form_inherit_website_sale_loyalty
 msgid "All websites"
-msgstr ""
+msgstr "همه سایت ها"
 
 #. module: website_sale_loyalty
 #: model:ir.model.fields,field_description:website_sale_loyalty.field_loyalty_program__ecommerce_ok
@@ -54,12 +54,12 @@ msgstr ""
 #: code:addons/website_sale_loyalty/static/src/js/portal_loyalty_card.xml:0
 #: model_terms:ir.ui.view,arch_db:website_sale_loyalty.modify_code_form
 msgid "Claim"
-msgstr ""
+msgstr "ادعا"
 
 #. module: website_sale_loyalty
 #: model_terms:ir.ui.view,arch_db:website_sale_loyalty.modify_code_form
 msgid "Code:"
-msgstr ""
+msgstr "کد:"
 
 #. module: website_sale_loyalty
 #: model_terms:ir.ui.view,arch_db:website_sale_loyalty.layout
@@ -90,12 +90,12 @@ msgstr ""
 #. module: website_sale_loyalty
 #: model:ir.model.fields,field_description:website_sale_loyalty.field_coupon_share__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "ایجاد شده توسط"
 
 #. module: website_sale_loyalty
 #: model:ir.model.fields,field_description:website_sale_loyalty.field_coupon_share__create_date
 msgid "Created on"
-msgstr ""
+msgstr "ایجادشده در"
 
 #. module: website_sale_loyalty
 #: model:ir.model.fields,field_description:website_sale_loyalty.field_sale_order__disabled_auto_rewards
@@ -105,7 +105,7 @@ msgstr ""
 #. module: website_sale_loyalty
 #: model:ir.ui.menu,name:website_sale_loyalty.menu_discount_loyalty_type_config
 msgid "Discount & Loyalty"
-msgstr ""
+msgstr "تخفیف و وفاداری"
 
 #. module: website_sale_loyalty
 #: model_terms:ir.ui.view,arch_db:website_sale_loyalty.reduction_coupon_code
@@ -115,7 +115,7 @@ msgstr ""
 #. module: website_sale_loyalty
 #: model_terms:ir.ui.view,arch_db:website_sale_loyalty.cart_discount
 msgid "Discount:"
-msgstr ""
+msgstr "تخفیف:"
 
 #. module: website_sale_loyalty
 #: model_terms:ir.ui.view,arch_db:website_sale_loyalty.cart_discount
@@ -131,12 +131,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:website_sale_loyalty.field_sale_order__display_name
 #: model:ir.model.fields,field_description:website_sale_loyalty.field_sale_order_line__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: website_sale_loyalty
 #: model_terms:ir.ui.view,arch_db:website_sale_loyalty.coupon_share_view_form
 msgid "Done"
-msgstr ""
+msgstr "انجام شده"
 
 #. module: website_sale_loyalty
 #: model_terms:ir.ui.view,arch_db:website_sale_loyalty.modify_code_form
@@ -167,7 +167,7 @@ msgstr "کارت‌های هدیه و کیف پول الکترونیک"
 #: model:ir.model.fields,field_description:website_sale_loyalty.field_sale_order__id
 #: model:ir.model.fields,field_description:website_sale_loyalty.field_sale_order_line__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: website_sale_loyalty
 #: model_terms:ir.ui.view,arch_db:website_sale_loyalty.modify_code_form
@@ -177,12 +177,12 @@ msgstr ""
 #. module: website_sale_loyalty
 #: model:ir.model.fields,field_description:website_sale_loyalty.field_coupon_share__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "آخرین تغییر توسط"
 
 #. module: website_sale_loyalty
 #: model:ir.model.fields,field_description:website_sale_loyalty.field_coupon_share__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "آخرین به روز رسانی در"
 
 #. module: website_sale_loyalty
 #: model:ir.ui.menu,name:website_sale_loyalty.menu_loyalty
@@ -212,12 +212,12 @@ msgstr ""
 #. module: website_sale_loyalty
 #: model:ir.model,name:website_sale_loyalty.model_product_product
 msgid "Product Variant"
-msgstr ""
+msgstr "گونه محصول"
 
 #. module: website_sale_loyalty
 #: model:ir.model.fields,field_description:website_sale_loyalty.field_coupon_share__program_id
 msgid "Program"
-msgstr ""
+msgstr "برنامه"
 
 #. module: website_sale_loyalty
 #: model:ir.model.fields,field_description:website_sale_loyalty.field_coupon_share__program_website_id
@@ -227,7 +227,7 @@ msgstr ""
 #. module: website_sale_loyalty
 #: model:ir.model.fields,field_description:website_sale_loyalty.field_coupon_share__promo_code
 msgid "Promo Code"
-msgstr ""
+msgstr "کد تخفیف"
 
 #. module: website_sale_loyalty
 #. odoo-python
@@ -238,24 +238,24 @@ msgstr ""
 #. module: website_sale_loyalty
 #: model:ir.model.fields,field_description:website_sale_loyalty.field_coupon_share__redirect
 msgid "Redirect"
-msgstr ""
+msgstr "تغییر مسیر"
 
 #. module: website_sale_loyalty
 #: model:ir.model.fields,help:website_sale_loyalty.field_coupon_share__program_website_id
 #: model:ir.model.fields,help:website_sale_loyalty.field_loyalty_program__website_id
 #: model:ir.model.fields,help:website_sale_loyalty.field_loyalty_rule__website_id
 msgid "Restrict to a specific website."
-msgstr ""
+msgstr "محدود به یک وب سایت خاص."
 
 #. module: website_sale_loyalty
 #: model:ir.model,name:website_sale_loyalty.model_sale_order
 msgid "Sales Order"
-msgstr ""
+msgstr "سفارش فروش"
 
 #. module: website_sale_loyalty
 #: model:ir.model,name:website_sale_loyalty.model_sale_order_line
 msgid "Sales Order Line"
-msgstr ""
+msgstr "سطر سفارش‌فروش"
 
 #. module: website_sale_loyalty
 #. odoo-python
@@ -263,7 +263,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:website_sale_loyalty.loyalty_card_view_tree_inherit_website_sale_loyalty
 #: model_terms:ir.ui.view,arch_db:website_sale_loyalty.loyalty_program_view_tree_inherit_website_sale_loyalty
 msgid "Share"
-msgstr ""
+msgstr "اشتراک‌گذاری"
 
 #. module: website_sale_loyalty
 #. odoo-python
@@ -274,7 +274,7 @@ msgstr ""
 #. module: website_sale_loyalty
 #: model:ir.model.fields,field_description:website_sale_loyalty.field_coupon_share__share_link
 msgid "Share Link"
-msgstr ""
+msgstr "اشتراک لینک"
 
 #. module: website_sale_loyalty
 #: model_terms:ir.ui.view,arch_db:website_sale_loyalty.coupon_share_view_form
@@ -340,7 +340,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:website_sale_loyalty.field_loyalty_rule__website_id
 #: model_terms:ir.ui.view,arch_db:website_sale_loyalty.loyalty_program_view_form_inherit_website_sale_loyalty
 msgid "Website"
-msgstr ""
+msgstr "تارنما"
 
 #. module: website_sale_loyalty
 #: model_terms:ir.ui.view,arch_db:website_sale_loyalty.coupon_share_view_form
@@ -354,3 +354,4 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:website_sale_loyalty.modify_code_form
 msgid "You have successfully applied the following code:"
 msgstr ""
+

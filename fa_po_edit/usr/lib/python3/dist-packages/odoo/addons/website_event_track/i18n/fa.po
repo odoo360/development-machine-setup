@@ -141,7 +141,7 @@ msgstr ""
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.track_card
 msgid "<i class=\"fa fa-ban me-2\"/>Unpublished"
-msgstr ""
+msgstr "<i class=\"fa fa-ban me-2\"/>منتشر نشده"
 
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.tracks_search
@@ -209,7 +209,7 @@ msgstr ""
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.event_track_content_partner_info
 msgid "<span> at </span>"
-msgstr ""
+msgstr "<span>در</span>"
 
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.event_track_template_new
@@ -726,7 +726,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:website_event_track.event_track_view_form_quick_create
 #: model_terms:ir.ui.view,arch_db:website_event_track.view_event_track_form
 msgid "All Events"
-msgstr ""
+msgstr "همه رویدادها"
 
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.event_track_main
@@ -761,7 +761,7 @@ msgstr ""
 #. module: website_event_track
 #: model:event.track.stage,name:website_event_track.event_track_stage2
 msgid "Announced"
-msgstr ""
+msgstr "اعلام شده"
 
 #. module: website_event_track
 #. odoo-javascript
@@ -919,7 +919,7 @@ msgstr ""
 #: code:addons/website_event_track/static/src/xml/website_event_track_email_reminder.xml:0
 #: model_terms:ir.ui.view,arch_db:website_event_track.session_topbar
 msgid "Close"
-msgstr ""
+msgstr "بستن"
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_track_stage__color
@@ -936,7 +936,7 @@ msgstr "رنگ پس زمینه"
 #. odoo-python
 #: code:addons/website_event_track/controllers/event_track.py:0
 msgid "Coming soon"
-msgstr ""
+msgstr "در دست ساخت"
 
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.tracks_display_cards
@@ -962,7 +962,7 @@ msgstr "تنظیمات پیکربندی"
 #. odoo-javascript
 #: code:addons/website_event_track/static/src/xml/website_event_track_email_reminder.xml:0
 msgid "Confirm"
-msgstr ""
+msgstr "تأیید"
 
 #. module: website_event_track
 #: model:mail.template,subject:website_event_track.mail_template_data_track_confirmation
@@ -1001,12 +1001,12 @@ msgstr "ایمیل مخاطب"
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.event_track_proposal_contact_details
 msgid "Contact Information"
-msgstr ""
+msgstr "اطلاعات تماس"
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_track__contact_phone
 msgid "Contact Phone"
-msgstr ""
+msgstr "تلفن تماس"
 
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.event_track_proposal_contact_details
@@ -1233,7 +1233,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website_event_track/static/src/website_builder/event_track_page_option_plugin.js:0
 msgid "Event Page"
-msgstr ""
+msgstr "صفحه رویداد"
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_event__track_proposal_menu_ids
@@ -1244,7 +1244,7 @@ msgstr ""
 #. module: website_event_track
 #: model:ir.model,name:website_event_track.model_event_type
 msgid "Event Template"
-msgstr ""
+msgstr "الگوی رویداد"
 
 #. module: website_event_track
 #: model:ir.model,name:website_event_track.model_event_track
@@ -1330,12 +1330,12 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website_event_track/static/src/website_builder/event_track_page_option.xml:0
 msgid "Filter by Tags"
-msgstr ""
+msgstr "فیلتر بر اساس برچسب‌ها"
 
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.session_topbar
 msgid "Filters"
-msgstr ""
+msgstr "فیلترها"
 
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.track_list_item
@@ -1370,7 +1370,7 @@ msgstr "آیکون فونت عالی به عبارتی fa-tasks"
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_track__footer_visible
 msgid "Footer Visible"
-msgstr ""
+msgstr "فوتر قابل مشاهده"
 
 #. module: website_event_track
 #: model:event.track.tag.category,name:website_event_track.event_track_tag_category_2
@@ -1431,7 +1431,7 @@ msgstr "آیا دارای پیام است"
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_track__header_visible
 msgid "Header Visible"
-msgstr ""
+msgstr "قابل رویت سرآیند"
 
 #. module: website_event_track
 #: model:ir.model.fields.selection,name:website_event_track.selection__event_track__priority__2
@@ -1566,7 +1566,7 @@ msgstr ""
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_track__website_image_url
 msgid "Image URL"
-msgstr ""
+msgstr "تصویر آدرس اینترنتی"
 
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.track_card
@@ -1621,7 +1621,7 @@ msgstr "مقدمه"
 #. odoo-javascript
 #: code:addons/website_event_track/static/src/interactions/event_track_reminder.js:0
 msgid "Invalid data"
-msgstr ""
+msgstr "داده نا معتبر"
 
 #. module: website_event_track
 #. odoo-python
@@ -1872,7 +1872,7 @@ msgstr "متوسط"
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_website_event_menu__menu_type
 msgid "Menu Type"
-msgstr ""
+msgstr "نوع منو"
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_track__message_has_error
@@ -1917,7 +1917,7 @@ msgstr ""
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.view_event_track_search
 msgid "My Activities"
-msgstr ""
+msgstr "فعالیت‌های من"
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_track__my_activity_date_deadline
@@ -2009,7 +2009,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/website_event_track/models/event_track.py:0
 msgid "Note"
-msgstr ""
+msgstr "یادداشت"
 
 #. module: website_event_track
 #: model:ir.model.fields,help:website_event_track.field_event_track_tag__color
@@ -2029,7 +2029,7 @@ msgstr "تعداد خطاها"
 #. module: website_event_track
 #: model:ir.model.fields,help:website_event_track.field_event_track__message_needaction_counter
 msgid "Number of messages requiring action"
-msgstr ""
+msgstr "تعداد پیام هایی که نیاز به اقدام دارند"
 
 #. module: website_event_track
 #: model:ir.model.fields,help:website_event_track.field_event_track__message_has_error_counter
@@ -2148,7 +2148,7 @@ msgstr ""
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_track__rating_ids
 msgid "Ratings"
-msgstr ""
+msgstr "رتبه‌ها"
 
 #. module: website_event_track
 #. odoo-python
@@ -2283,7 +2283,7 @@ msgstr ""
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.view_event_track_search
 msgid "Show all records whose next activity date is past"
-msgstr ""
+msgstr "نمایش تمام رکوردهایی که تاریخ فعالیت بعدی آن‌ها گذشته است"
 
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.event_event_view_form
@@ -2294,7 +2294,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:website_event_track.view_event_track_form
 #: model_terms:ir.ui.view,arch_db:website_event_track.view_event_track_search
 msgid "Speaker"
-msgstr ""
+msgstr "سخنران"
 
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.view_event_track_form
@@ -2384,7 +2384,7 @@ msgstr "نام تگ"
 #. module: website_event_track
 #: model:ir.model.constraint,message:website_event_track.constraint_event_track_tag_name_uniq
 msgid "Tag name already exists!"
-msgstr ""
+msgstr "نام برچسب از قبل وجود دارد!"
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_track__tag_ids
@@ -2602,7 +2602,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:website_event_track.event_track_visitor_view_search
 #: model_terms:ir.ui.view,arch_db:website_event_track.view_event_track_form
 msgid "Track"
-msgstr ""
+msgstr "ردیابی"
 
 #. module: website_event_track
 #: model:ir.model,name:website_event_track.model_event_track_visitor
@@ -2761,7 +2761,7 @@ msgstr "نوع فعالیت استثنایی برای رکورد."
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.agenda_main
 msgid "Unknown"
-msgstr ""
+msgstr "ناشناخته"
 
 #. module: website_event_track
 #: model_terms:ir.ui.view,arch_db:website_event_track.agenda_main_track
@@ -2907,7 +2907,7 @@ msgstr ""
 #. module: website_event_track
 #: model:ir.model,name:website_event_track.model_website_event_menu
 msgid "Website Event Menu"
-msgstr ""
+msgstr "منوی رویداد وب سایت"
 
 #. module: website_event_track
 #: model:ir.model.fields,field_description:website_event_track.field_event_track__website_image
@@ -3078,7 +3078,7 @@ msgstr "ساعت"
 #. odoo-python
 #: code:addons/website_event_track/models/event_track.py:0
 msgid "id"
-msgstr ""
+msgstr "شناسه"
 
 #. module: website_event_track
 #. odoo-javascript
@@ -3134,3 +3134,4 @@ msgstr ""
 
 #~ msgid "The full URL to access the document through the website."
 #~ msgstr "آدرس URL کامل برای دسترسی سند در وبسایت."
+

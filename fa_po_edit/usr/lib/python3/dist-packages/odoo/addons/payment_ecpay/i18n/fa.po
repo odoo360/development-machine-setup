@@ -26,13 +26,13 @@ msgstr ""
 #. module: payment_ecpay
 #: model:ir.model.fields,field_description:payment_ecpay.field_payment_provider__code
 msgid "Code"
-msgstr ""
+msgstr "کد"
 
 #. module: payment_ecpay
 #: model:ir.model.fields,field_description:payment_ecpay.field_payment_provider__display_name
 #: model:ir.model.fields,field_description:payment_ecpay.field_payment_transaction__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: payment_ecpay
 #: model:ir.model.fields.selection,name:payment_ecpay.selection__payment_provider__code__ecpay
@@ -64,22 +64,22 @@ msgstr ""
 #: model:ir.model.fields,field_description:payment_ecpay.field_payment_provider__id
 #: model:ir.model.fields,field_description:payment_ecpay.field_payment_transaction__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: payment_ecpay
 #: model_terms:ir.ui.view,arch_db:payment_ecpay.payment_provider_form
 msgid "Merchant ID"
-msgstr ""
+msgstr "شناسه فروشنده"
 
 #. module: payment_ecpay
 #: model:ir.model,name:payment_ecpay.model_payment_provider
 msgid "Payment Provider"
-msgstr ""
+msgstr "سرویس دهنده پرداخت"
 
 #. module: payment_ecpay
 #: model:ir.model,name:payment_ecpay.model_payment_transaction
 msgid "Payment Transaction"
-msgstr ""
+msgstr "تراکنش پرداخت"
 
 #. module: payment_ecpay
 #. odoo-python
@@ -105,4 +105,5 @@ msgstr ""
 #. module: payment_ecpay
 #: model:ir.model.fields,help:payment_ecpay.field_payment_provider__code
 msgid "The technical code of this payment provider."
-msgstr ""
+msgstr "کد فنی این ارائه دهنده پرداخت."
+

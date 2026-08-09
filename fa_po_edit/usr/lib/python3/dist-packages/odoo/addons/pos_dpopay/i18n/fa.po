@@ -25,7 +25,7 @@ msgstr ""
 #. module: pos_dpopay
 #: model:ir.model.fields.selection,name:pos_dpopay.selection__pos_payment_method__dpopay_payment_mode__card
 msgid "Card"
-msgstr ""
+msgstr "کارت"
 
 #. module: pos_dpopay
 #: model:ir.model.fields,help:pos_dpopay.field_pos_payment_method__dpopay_test_mode
@@ -85,7 +85,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:pos_dpopay.field_pos_payment__display_name
 #: model:ir.model.fields,field_description:pos_dpopay.field_pos_payment_method__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: pos_dpopay
 #. odoo-javascript
@@ -153,7 +153,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:pos_dpopay.field_pos_payment__id
 #: model:ir.model.fields,field_description:pos_dpopay.field_pos_payment_method__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: pos_dpopay
 #. odoo-python
@@ -200,12 +200,12 @@ msgstr ""
 #. module: pos_dpopay
 #: model:ir.model,name:pos_dpopay.model_pos_payment_method
 msgid "Point of Sale Payment Methods"
-msgstr ""
+msgstr "روش های پرداخت پایانه فروش"
 
 #. module: pos_dpopay
 #: model:ir.model,name:pos_dpopay.model_pos_payment
 msgid "Point of Sale Payments"
-msgstr ""
+msgstr "پرداخت های پایانه فروش"
 
 #. module: pos_dpopay
 #: model:ir.model.fields,field_description:pos_dpopay.field_pos_payment__dpopay_rrn
@@ -263,3 +263,4 @@ msgstr ""
 msgid ""
 "Unable to retrieve DPO Pay bearer token: check Client ID and Client Secret."
 msgstr ""
+

@@ -33,7 +33,7 @@ msgstr "دستگاه اعتبارسنجی"
 #. odoo-javascript
 #: code:addons/auth_timeout/static/src/services/check_identity/check_identity.xml:0
 msgid "Authentication code"
-msgstr ""
+msgstr "کد اعتبارسنجی"
 
 #. module: auth_timeout
 #. odoo-javascript
@@ -341,3 +341,4 @@ msgstr ""
 #: model:ir.model,name:auth_timeout.model_ir_websocket
 msgid "websocket message handling"
 msgstr "مدیریت پیام‌های وب‌سوکت"
+

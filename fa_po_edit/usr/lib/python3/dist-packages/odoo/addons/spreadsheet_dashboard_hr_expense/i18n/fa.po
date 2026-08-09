@@ -26,21 +26,21 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_expense/data/files/expense_sample_dashboard.json:0
 msgid "Category"
-msgstr ""
+msgstr "دسته بندی"
 
 #. module: spreadsheet_dashboard_hr_expense
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_expense/data/files/expense_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_hr_expense/data/files/expense_sample_dashboard.json:0
 msgid "Employee"
-msgstr ""
+msgstr "کارمند"
 
 #. module: spreadsheet_dashboard_hr_expense
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_expense/data/files/expense_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_hr_expense/data/files/expense_sample_dashboard.json:0
 msgid "Expense"
-msgstr ""
+msgstr "هزینه"
 
 #. module: spreadsheet_dashboard_hr_expense
 #. odoo-javascript
@@ -48,14 +48,14 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_hr_expense/data/files/expense_sample_dashboard.json:0
 #: model:spreadsheet.dashboard,name:spreadsheet_dashboard_hr_expense.spreadsheet_dashboard_expense
 msgid "Expenses"
-msgstr ""
+msgstr "هزینه ها"
 
 #. module: spreadsheet_dashboard_hr_expense
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_expense/data/files/expense_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_hr_expense/data/files/expense_sample_dashboard.json:0
 msgid "Expenses Analysis"
-msgstr ""
+msgstr "تجزیه و تحلیل هزینه"
 
 #. module: spreadsheet_dashboard_hr_expense
 #. odoo-javascript
@@ -89,32 +89,32 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_expense/data/files/expense_sample_dashboard.json:0
 msgid "Meals"
-msgstr ""
+msgstr "غذاها"
 
 #. module: spreadsheet_dashboard_hr_expense
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_expense/data/files/expense_sample_dashboard.json:0
 msgid "Mileage"
-msgstr ""
+msgstr "کبفیت مصرف سوخت"
 
 #. module: spreadsheet_dashboard_hr_expense
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_expense/data/files/expense_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_hr_expense/data/files/expense_sample_dashboard.json:0
 msgid "Order"
-msgstr ""
+msgstr "سفارش"
 
 #. module: spreadsheet_dashboard_hr_expense
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_expense/data/files/expense_dashboard.json:0
 msgid "Period"
-msgstr ""
+msgstr "دوره"
 
 #. module: spreadsheet_dashboard_hr_expense
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_expense/data/files/expense_dashboard.json:0
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 #. module: spreadsheet_dashboard_hr_expense
 #. odoo-javascript
@@ -135,14 +135,14 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_hr_expense/data/files/expense_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_hr_expense/data/files/expense_sample_dashboard.json:0
 msgid "To validate"
-msgstr ""
+msgstr "برای تایید"
 
 #. module: spreadsheet_dashboard_hr_expense
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_expense/data/files/expense_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_hr_expense/data/files/expense_sample_dashboard.json:0
 msgid "Top Categories"
-msgstr ""
+msgstr "دسته‌بندی‌های برتر"
 
 #. module: spreadsheet_dashboard_hr_expense
 #. odoo-javascript
@@ -169,10 +169,11 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_expense/data/files/expense_sample_dashboard.json:0
 msgid "Total"
-msgstr ""
+msgstr "جمع کل:"
 
 #. module: spreadsheet_dashboard_hr_expense
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_expense/data/files/expense_sample_dashboard.json:0
 msgid "Travel"
-msgstr ""
+msgstr "سفر"
+

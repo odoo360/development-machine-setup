@@ -413,10 +413,11 @@ msgstr ""
 #. odoo-python
 #: code:addons/survey_crm/models/survey_user_input.py:0
 msgid "live session"
-msgstr ""
+msgstr "جلسه زنده"
 
 #. module: survey_crm
 #. odoo-python
 #: code:addons/survey_crm/models/survey_user_input.py:0
 msgid "survey"
-msgstr ""
+msgstr "نظرسنجی"
+

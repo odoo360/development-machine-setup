@@ -131,13 +131,13 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website_sale/static/src/website_builder/products_list_page_option.xml:0
 msgid "1 Column"
-msgstr ""
+msgstr "1 ستون"
 
 #. module: website_sale
 #. odoo-javascript
 #: code:addons/website_sale/static/src/website_builder/products_list_page_option.xml:0
 msgid "2 Columns"
-msgstr ""
+msgstr "2 ستون"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.o_wsale_offcanvas
@@ -1071,7 +1071,7 @@ msgstr "بنلوکس"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.template_footer_website_sale
 msgid "Beauty"
-msgstr ""
+msgstr "زیبایی"
 
 #. module: website_sale
 #: model:product.public.category,name:website_sale.public_category_furnitures_beds
@@ -1385,7 +1385,7 @@ msgstr "طبقه بندی‌های فرزند"
 #. odoo-javascript
 #: code:addons/website_sale/static/src/website_builder/products_design_panel.xml:0
 msgid "Chips"
-msgstr ""
+msgstr "چیپس"
 
 #. module: website_sale
 #. odoo-python
@@ -1607,7 +1607,7 @@ msgstr ""
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.s_dynamic_snippet_products_preview_data
 msgid "Conference Chair"
-msgstr ""
+msgstr "صندلی کنفرانس"
 
 #. module: website_sale
 #: model:ir.model,name:website_sale.model_res_config_settings
@@ -1973,7 +1973,7 @@ msgstr "تحویل و نصب"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.delivery_form
 msgid "Delivery method"
-msgstr ""
+msgstr "روش تحویل"
 
 #. module: website_sale
 #. odoo-javascript
@@ -2574,7 +2574,7 @@ msgstr "کامل"
 #: model:ir.model.fields.selection,name:website_sale.selection__website__product_page_container__fluid
 #: model:ir.model.fields.selection,name:website_sale.selection__website__shop_page_container__fluid
 msgid "Full-width"
-msgstr ""
+msgstr "تمام عرض"
 
 #. module: website_sale
 #. odoo-python
@@ -2745,7 +2745,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website_sale/static/src/website_builder/products_design_panel.xml:0
 msgid "Hover Effect"
-msgstr ""
+msgstr "تأثیر شناور"
 
 #. module: website_sale
 #: model:ir.model.fields,field_description:website_sale.field_website_checkout_step__step_href
@@ -3397,7 +3397,7 @@ msgstr "جدید"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.product_ribbon_form_view
 msgid "New Collection"
-msgstr ""
+msgstr "مجموعه جدید"
 
 #. module: website_sale
 #: model:ir.model.fields,field_description:website_sale.field_product_ribbon__new_period
@@ -3772,7 +3772,7 @@ msgstr "سفارشات برای فاکتور"
 #: model_terms:ir.ui.view,arch_db:website_sale.price_dynamic_filter_template_product_product
 #: model_terms:ir.ui.view,arch_db:website_sale.products_item
 msgid "Original price"
-msgstr ""
+msgstr "قیمت اصلی"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.template_footer_website_sale
@@ -4518,7 +4518,7 @@ msgstr "حذف"
 #. odoo-javascript
 #: code:addons/website_sale/static/src/website_builder/product_page_option.xml:0
 msgid "Remove All"
-msgstr ""
+msgstr "حذف همه"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.cart_lines
@@ -4666,7 +4666,7 @@ msgstr "تجزیه و تحلیل فروش"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.products_item
 msgid "Sale price"
-msgstr ""
+msgstr "قیمت فروش"
 
 #. module: website_sale
 #: model:ir.actions.act_window,name:website_sale.sale_report_action_carts
@@ -4963,7 +4963,7 @@ msgstr "مشاهده فروشگاه، محصولات، سبد خرید و لیس
 #. odoo-javascript
 #: code:addons/website_sale/static/src/website_builder/website_sale_show_empty_option.xml:0
 msgid "Shopping Cart"
-msgstr ""
+msgstr "سبد خرید"
 
 #. module: website_sale
 #. odoo-javascript
@@ -5123,7 +5123,7 @@ msgstr "با عرض پوزش، ما نمی توانیم سفارش شما را �
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.sort
 msgid "Sort By"
-msgstr ""
+msgstr "مرتب‌سازی بر اساس"
 
 #. module: website_sale
 #. odoo-javascript
@@ -6324,7 +6324,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/website_sale/models/res_config_settings.py:0
 msgid "model"
-msgstr ""
+msgstr "مدل"
 
 #. module: website_sale
 #. odoo-python
@@ -6734,3 +6734,4 @@ msgstr ""
 
 #~ msgid "to follow your order."
 #~ msgstr "تا سفارش شما را دنبال کند"
+

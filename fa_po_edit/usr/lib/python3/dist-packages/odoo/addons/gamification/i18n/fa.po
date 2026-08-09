@@ -2298,7 +2298,7 @@ msgstr ""
 #. module: gamification
 #: model:gamification.goal.definition,name:gamification.definition_base_company_data
 msgid "Set your Company Data"
-msgstr ""
+msgstr "داده های شرکت خود را تنظیم کنید"
 
 #. module: gamification
 #: model:gamification.goal.definition,name:gamification.definition_base_company_logo
@@ -2932,3 +2932,4 @@ msgstr ""
 
 #~ msgid "the"
 #~ msgstr "این"
+

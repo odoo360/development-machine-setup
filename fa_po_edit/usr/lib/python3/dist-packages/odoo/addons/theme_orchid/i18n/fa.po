@@ -99,7 +99,7 @@ msgstr ""
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_framed_intro
 msgid "About Us"
-msgstr ""
+msgstr "درباره ما"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_company_team_basic
@@ -284,7 +284,7 @@ msgstr ""
 #. module: theme_orchid
 #: model:ir.model.fields,field_description:theme_orchid.field_theme_utils__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_three_columns
@@ -479,7 +479,7 @@ msgstr ""
 #. module: theme_orchid
 #: model:ir.model.fields,field_description:theme_orchid.field_theme_utils__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_wavy_grid
@@ -535,7 +535,7 @@ msgstr ""
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_company_team_basic
 msgid "Meet the Team"
-msgstr ""
+msgstr "تیم ما را ملاقات کنید"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_company_team_basic
@@ -566,7 +566,7 @@ msgstr ""
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_text_image
 msgid "Our Mission"
-msgstr ""
+msgstr "ماموریت ما"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_empowerment
@@ -683,7 +683,7 @@ msgstr ""
 #. module: theme_orchid
 #: model:ir.model,name:theme_orchid.model_theme_utils
 msgid "Theme Utils"
-msgstr ""
+msgstr "ابزارهای تم"
 
 #. module: theme_orchid
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_call_to_action
@@ -820,3 +820,4 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_orchid.s_pricelist_boxed
 msgid "✽  Floral Services"
 msgstr ""
+

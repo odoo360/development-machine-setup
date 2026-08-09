@@ -483,7 +483,7 @@ msgstr "فعالیت ها"
 #. module: hr_recruitment
 #: model_terms:ir.ui.view,arch_db:hr_recruitment.hr_applicant_view_search_bis
 msgid "Activities of"
-msgstr ""
+msgstr "فعالیت‌های"
 
 #. module: hr_recruitment
 #: model:ir.model.fields,field_description:hr_recruitment.field_hr_job__activity_count
@@ -1312,7 +1312,7 @@ msgstr "جزییات"
 #. module: hr_recruitment
 #: model:hr.talent.pool,name:hr_recruitment.talent_pool_0
 msgid "Developer"
-msgstr ""
+msgstr "توسعه دهنده"
 
 #. module: hr_recruitment
 #: model:ir.model,name:hr_recruitment.model_digest_digest
@@ -2169,7 +2169,7 @@ msgstr "بارگیری داده های نمایشی"
 #. odoo-javascript
 #: code:addons/hr_recruitment/static/src/views/recruitment_helper_view.xml:0
 msgid "Load sample data"
-msgstr ""
+msgstr "بارگذاری داده‌های نمونه"
 
 #. module: hr_recruitment
 #: model_terms:ir.ui.view,arch_db:hr_recruitment.applicant_send_mail_view_form
@@ -3090,7 +3090,7 @@ msgstr "تنظیمات"
 #. module: hr_recruitment
 #: model_terms:ir.ui.view,arch_db:hr_recruitment.hr_applicant_view_search_bis
 msgid "Show all records whose next activity date is past"
-msgstr ""
+msgstr "نمایش تمام رکوردهایی که تاریخ فعالیت بعدی آن‌ها گذشته است"
 
 #. module: hr_recruitment
 #: model:ir.model.fields,field_description:hr_recruitment.field_hr_applicant__source_id
@@ -3565,7 +3565,7 @@ msgstr "بسیار خوب"
 #. module: hr_recruitment
 #: model_terms:ir.ui.view,arch_db:hr_recruitment.hr_applicant_view_form
 msgid "Visible to all"
-msgstr ""
+msgstr "قابل‌مشاهده برای همه"
 
 #. module: hr_recruitment
 #. odoo-python
@@ -3718,7 +3718,7 @@ msgstr "به عنوان مثال: لینکدین"
 #. module: hr_recruitment
 #: model_terms:ir.ui.view,arch_db:hr_recruitment.hr_job_platform_form
 msgid "e.g. Linkedin"
-msgstr ""
+msgstr "به عنوان مثال: لینکدین"
 
 #. module: hr_recruitment
 #: model_terms:ir.ui.view,arch_db:hr_recruitment.hr_applicant_view_form
@@ -3779,7 +3779,7 @@ msgstr "به عنوان مثال، مدیر فروش"
 #. odoo-python
 #: code:addons/hr_recruitment/models/hr_applicant.py:0
 msgid "id"
-msgstr ""
+msgstr "شناسه"
 
 #. module: hr_recruitment
 #: model_terms:ir.ui.view,arch_db:hr_recruitment.view_hr_job_kanban
@@ -3889,3 +3889,4 @@ msgstr ""
 
 #~ msgid "This is the method of delivery, e.g. Postcard, Email, or Banner Ad"
 #~ msgstr "این روش تحویل است، مانند کارت پستال، ایمیل، یا آگهی بنر"
+

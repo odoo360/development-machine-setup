@@ -43,7 +43,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/google_address_autocomplete/static/src/address_autocomplete/google_address_autocomplete.js:0
 msgid "Address AutoComplete"
-msgstr ""
+msgstr "تکمیل خودکار آدرس"
 
 #. module: google_address_autocomplete
 #. odoo-javascript
@@ -65,7 +65,7 @@ msgstr "تنظیمات پیکربندی"
 #. module: google_address_autocomplete
 #: model:ir.model,name:google_address_autocomplete.model_res_partner
 msgid "Contact"
-msgstr ""
+msgstr "مخاطب"
 
 #. module: google_address_autocomplete
 #. odoo-javascript
@@ -76,7 +76,7 @@ msgstr ""
 #. module: google_address_autocomplete
 #: model:ir.model,website_form_label:google_address_autocomplete.model_res_partner
 msgid "Create a Customer"
-msgstr ""
+msgstr "ایجاد مشتری"
 
 #. module: google_address_autocomplete
 #: model:ir.model.fields,field_description:google_address_autocomplete.field_res_config_settings__display_name
@@ -129,3 +129,4 @@ msgstr ""
 #: code:addons/google_address_autocomplete/static/src/address_autocomplete/google_address_autocomplete.js:0
 msgid "Zip field"
 msgstr ""
+

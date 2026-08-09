@@ -221,10 +221,11 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/crm_livechat/static/src/core/thread_actions.js:0
 msgid "e.g. Product pricing"
-msgstr ""
+msgstr "مثلا قیمت گذاری محصول"
 
 #. module: crm_livechat
 #. odoo-python
 #: code:addons/crm_livechat/models/chatbot_script_step.py:0
 msgid "livechat discussion"
 msgstr ""
+

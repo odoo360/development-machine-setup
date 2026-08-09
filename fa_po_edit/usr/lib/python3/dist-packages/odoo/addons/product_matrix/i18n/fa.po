@@ -42,31 +42,31 @@ msgstr ""
 #. module: product_matrix
 #: model_terms:ir.ui.view,arch_db:product_matrix.matrix
 msgid "Column name"
-msgstr ""
+msgstr "نام ستون"
 
 #. module: product_matrix
 #. odoo-javascript
 #: code:addons/product_matrix/static/src/xml/product_matrix_dialog.xml:0
 msgid "Confirm"
-msgstr ""
+msgstr "تأیید"
 
 #. module: product_matrix
 #. odoo-javascript
 #: code:addons/product_matrix/static/src/xml/product_matrix_dialog.xml:0
 msgid "Discard"
-msgstr ""
+msgstr "رها کردن"
 
 #. module: product_matrix
 #: model:ir.model.fields,field_description:product_matrix.field_product_template__display_name
 #: model:ir.model.fields,field_description:product_matrix.field_product_template_attribute_value__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: product_matrix
 #: model:ir.model.fields,field_description:product_matrix.field_product_template__id
 #: model:ir.model.fields,field_description:product_matrix.field_product_template_attribute_value__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: product_matrix
 #: model:product.template,name:product_matrix.matrix_product_template_shirt
@@ -77,17 +77,17 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/product_matrix/static/src/xml/product_matrix.xml:0
 msgid "Not available"
-msgstr ""
+msgstr "در دسترس نیست"
 
 #. module: product_matrix
 #: model:ir.model,name:product_matrix.model_product_template
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 #. module: product_matrix
 #: model:ir.model,name:product_matrix.model_product_template_attribute_value
 msgid "Product Template Attribute Value"
-msgstr ""
+msgstr "ارزش ویژگی الگوی محصول"
 
 #. module: product_matrix
 #: model:product.template,description_sale:product_matrix.matrix_product_template_shirt
@@ -105,3 +105,4 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:product_matrix.extra_price
 msgid "Variant price"
 msgstr ""
+

@@ -26,7 +26,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/mrp_subcontracting_purchase/models/stock_rule.py:0
 msgid "+ %d day(s)"
-msgstr ""
+msgstr "+ %d روز"
 
 #. module: mrp_subcontracting_purchase
 #: model_terms:ir.ui.view,arch_db:mrp_subcontracting_purchase.purchase_order_form_mrp_subcontracting_purchase
@@ -41,7 +41,7 @@ msgstr ""
 #. module: mrp_subcontracting_purchase
 #: model:ir.model,name:mrp_subcontracting_purchase.model_report_mrp_report_bom_structure
 msgid "BOM Overview Report"
-msgstr ""
+msgstr "گزارش نمای کلی فهرست مواد"
 
 #. module: mrp_subcontracting_purchase
 #: model:ir.model.fields,field_description:mrp_subcontracting_purchase.field_purchase_order__subcontracting_resupply_picking_count
@@ -57,7 +57,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/mrp_subcontracting_purchase/models/stock_rule.py:0
 msgid "Days to Supply Components"
-msgstr ""
+msgstr "روزهای تأمین قطعات"
 
 #. module: mrp_subcontracting_purchase
 #: model:ir.model.fields,field_description:mrp_subcontracting_purchase.field_account_move_line__display_name
@@ -68,7 +68,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:mrp_subcontracting_purchase.field_stock_picking__display_name
 #: model:ir.model.fields,field_description:mrp_subcontracting_purchase.field_stock_rule__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: mrp_subcontracting_purchase
 #: model:ir.model.fields,field_description:mrp_subcontracting_purchase.field_account_move_line__id
@@ -79,18 +79,18 @@ msgstr ""
 #: model:ir.model.fields,field_description:mrp_subcontracting_purchase.field_stock_picking__id
 #: model:ir.model.fields,field_description:mrp_subcontracting_purchase.field_stock_rule__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: mrp_subcontracting_purchase
 #: model:ir.model,name:mrp_subcontracting_purchase.model_account_move_line
 msgid "Journal Item"
-msgstr ""
+msgstr "آیتم روزنامه"
 
 #. module: mrp_subcontracting_purchase
 #. odoo-python
 #: code:addons/mrp_subcontracting_purchase/models/stock_rule.py:0
 msgid "Manufacturing Lead Time"
-msgstr ""
+msgstr "زمان تولید"
 
 #. module: mrp_subcontracting_purchase
 #: model:ir.model.fields,field_description:mrp_subcontracting_purchase.field_stock_picking__subcontracting_source_purchase_count
@@ -105,7 +105,7 @@ msgstr ""
 #. module: mrp_subcontracting_purchase
 #: model:ir.model,name:mrp_subcontracting_purchase.model_product_product
 msgid "Product Variant"
-msgstr ""
+msgstr "گونه محصول"
 
 #. module: mrp_subcontracting_purchase
 #. odoo-python
@@ -116,7 +116,7 @@ msgstr ""
 #. module: mrp_subcontracting_purchase
 #: model:ir.model,name:mrp_subcontracting_purchase.model_purchase_order
 msgid "Purchase Order"
-msgstr ""
+msgstr "سفارش خرید"
 
 #. module: mrp_subcontracting_purchase
 #. odoo-python
@@ -133,20 +133,21 @@ msgstr ""
 #. module: mrp_subcontracting_purchase
 #: model:ir.model,name:mrp_subcontracting_purchase.model_stock_move
 msgid "Stock Move"
-msgstr ""
+msgstr "انتقال موجودی"
 
 #. module: mrp_subcontracting_purchase
 #: model:ir.model,name:mrp_subcontracting_purchase.model_stock_rule
 msgid "Stock Rule"
-msgstr ""
+msgstr "قانون موجودی انبار"
 
 #. module: mrp_subcontracting_purchase
 #: model:ir.model,name:mrp_subcontracting_purchase.model_stock_picking
 msgid "Transfer"
-msgstr ""
+msgstr "انتقال"
 
 #. module: mrp_subcontracting_purchase
 #. odoo-python
 #: code:addons/mrp_subcontracting_purchase/models/stock_rule.py:0
 msgid "Vendor Lead Time"
-msgstr ""
+msgstr "زمان تحویل فروشنده"
+

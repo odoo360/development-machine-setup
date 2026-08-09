@@ -19,7 +19,7 @@ msgstr ""
 #. module: hr_fleet
 #: model_terms:ir.ui.view,arch_db:hr_fleet.fleet_vehicle_log_contract_view_form_inherit_hr
 msgid "<span class=\"o_stat_text\">Employee</span>"
-msgstr ""
+msgstr "<span class=\"o_stat_text\">کارمند</span>"
 
 #. module: hr_fleet
 #: model_terms:ir.ui.view,arch_db:hr_fleet.fleet_vehicle_view_form_inherit_hr
@@ -31,23 +31,23 @@ msgstr ""
 #. module: hr_fleet
 #: model:ir.model,name:hr_fleet.model_mail_activity_plan_template
 msgid "Activity plan template"
-msgstr ""
+msgstr "الگوی برنامه فعالیت"
 
 #. module: hr_fleet
 #: model:ir.model.fields,field_description:hr_fleet.field_mail_activity_plan_template__responsible_type
 msgid "Assignment"
-msgstr ""
+msgstr "واگذاری"
 
 #. module: hr_fleet
 #: model:ir.model,name:hr_fleet.model_ir_attachment
 msgid "Attachment"
-msgstr ""
+msgstr "پیوست"
 
 #. module: hr_fleet
 #: model_terms:ir.ui.view,arch_db:hr_fleet.fleet_vehicle_assignation_log_employee_view_list
 #: model_terms:ir.ui.view,arch_db:hr_fleet.fleet_vehicle_assignation_log_view_list
 msgid "Attachments"
-msgstr ""
+msgstr "پیوست ها"
 
 #. module: hr_fleet
 #. odoo-python
@@ -58,7 +58,7 @@ msgstr ""
 #. module: hr_fleet
 #: model:ir.model.fields,field_description:hr_fleet.field_hr_employee__employee_cars_count
 msgid "Cars"
-msgstr ""
+msgstr "خودروها"
 
 #. module: hr_fleet
 #. odoo-python
@@ -75,17 +75,17 @@ msgstr ""
 #. module: hr_fleet
 #: model_terms:ir.ui.view,arch_db:hr_fleet.fleet_vehicle_assignation_log_employee_view_list
 msgid "Current Driver"
-msgstr ""
+msgstr "راننده هم‌اکنون"
 
 #. module: hr_fleet
 #: model_terms:ir.ui.view,arch_db:hr_fleet.view_attachment_kanban_inherit_hr
 msgid "Delete"
-msgstr ""
+msgstr "حذف"
 
 #. module: hr_fleet
 #: model:ir.model,name:hr_fleet.model_hr_departure_wizard
 msgid "Departure Wizard"
-msgstr ""
+msgstr "ویزارد خروج"
 
 #. module: hr_fleet
 #: model:ir.model.fields,field_description:hr_fleet.field_fleet_vehicle__display_name
@@ -99,12 +99,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:hr_fleet.field_ir_attachment__display_name
 #: model:ir.model.fields,field_description:hr_fleet.field_mail_activity_plan_template__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: hr_fleet
 #: model_terms:ir.ui.view,arch_db:hr_fleet.fleet_vehicle_log_contract_view_form_inherit_hr
 msgid "Driver"
-msgstr ""
+msgstr "راننده"
 
 #. module: hr_fleet
 #: model:ir.model.fields,field_description:hr_fleet.field_fleet_vehicle__driver_employee_id
@@ -119,13 +119,13 @@ msgstr ""
 #. module: hr_fleet
 #: model:ir.model,name:hr_fleet.model_fleet_vehicle_assignation_log
 msgid "Drivers history on a vehicle"
-msgstr ""
+msgstr "تاریخچه راننده‌های یک خودرو"
 
 #. module: hr_fleet
 #: model:ir.model,name:hr_fleet.model_hr_employee
 #: model_terms:ir.ui.view,arch_db:hr_fleet.fleet_vehicle_log_contract_view_search_inherit_hr
 msgid "Employee"
-msgstr ""
+msgstr "کارمند"
 
 #. module: hr_fleet
 #. odoo-python
@@ -136,12 +136,12 @@ msgstr ""
 #. module: hr_fleet
 #: model:ir.model.fields,field_description:hr_fleet.field_fleet_vehicle__driver_employee_name
 msgid "Employee Name"
-msgstr ""
+msgstr "نام کارمند"
 
 #. module: hr_fleet
 #: model:ir.model.fields.selection,name:hr_fleet.selection__mail_activity_plan_template__responsible_type__fleet_manager
 msgid "Fleet Manager"
-msgstr ""
+msgstr "مدیر ناوگان"
 
 #. module: hr_fleet
 #. odoo-python
@@ -171,12 +171,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:hr_fleet.field_ir_attachment__id
 #: model:ir.model.fields,field_description:hr_fleet.field_mail_activity_plan_template__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: hr_fleet
 #: model:ir.model.fields,field_description:hr_fleet.field_hr_employee__license_plate
 msgid "License Plate"
-msgstr ""
+msgstr "پلاک مجوز"
 
 #. module: hr_fleet
 #: model:ir.model.fields,field_description:hr_fleet.field_fleet_vehicle__mobility_card
@@ -188,24 +188,24 @@ msgstr ""
 #. module: hr_fleet
 #: model:ir.model.fields,field_description:hr_fleet.field_fleet_vehicle_assignation_log__attachment_number
 msgid "Number of Attachments"
-msgstr ""
+msgstr "تعداد پیوست‌ها"
 
 #. module: hr_fleet
 #: model:ir.model,name:hr_fleet.model_fleet_vehicle_odometer
 msgid "Odometer log for a vehicle"
-msgstr ""
+msgstr "گزارش کیلومترشمار برای یک خودرو"
 
 #. module: hr_fleet
 #: model:ir.model,name:hr_fleet.model_hr_employee_public
 msgid "Public Employee"
-msgstr ""
+msgstr "کارمند عمومی"
 
 #. module: hr_fleet
 #. odoo-python
 #: code:addons/hr_fleet/models/fleet_vehicle.py:0
 #: code:addons/hr_fleet/models/fleet_vehicle_log_contract.py:0
 msgid "Related Employee"
-msgstr ""
+msgstr "کارمند‌های مرتبط"
 
 #. module: hr_fleet
 #: model:ir.model.fields,field_description:hr_fleet.field_hr_departure_wizard__release_campany_car
@@ -215,7 +215,7 @@ msgstr ""
 #. module: hr_fleet
 #: model:ir.model,name:hr_fleet.model_fleet_vehicle_log_services
 msgid "Services for vehicles"
-msgstr ""
+msgstr "سرویسهای خودروها"
 
 #. module: hr_fleet
 #. odoo-python
@@ -229,19 +229,20 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/hr_fleet/static/src/views/hr_fleet_kanban/hr_fleet_kanban_controller.xml:0
 msgid "Upload"
-msgstr ""
+msgstr "آپلود"
 
 #. module: hr_fleet
 #: model:ir.model,name:hr_fleet.model_fleet_vehicle
 msgid "Vehicle"
-msgstr ""
+msgstr "وسیله نقلیه"
 
 #. module: hr_fleet
 #: model:ir.model,name:hr_fleet.model_fleet_vehicle_log_contract
 msgid "Vehicle Contract"
-msgstr ""
+msgstr "قرارداد خودرو"
 
 #. module: hr_fleet
 #: model:ir.model.fields,field_description:hr_fleet.field_hr_employee__car_ids
 msgid "Vehicles (private)"
 msgstr ""
+

@@ -24,7 +24,7 @@ msgstr ""
 #. module: project_mrp
 #: model:ir.model,name:project_mrp.model_mrp_bom
 msgid "Bill of Material"
-msgstr ""
+msgstr "صورت مواد اولیه"
 
 #. module: project_mrp
 #. odoo-python
@@ -32,7 +32,7 @@ msgstr ""
 #: model:ir.embedded.actions,name:project_mrp.project_embedded_action_bills_of_materials
 #: model:ir.embedded.actions,name:project_mrp.project_embedded_action_bills_of_materials_dashboard
 msgid "Bills of Materials"
-msgstr ""
+msgstr "صورت های مواد اولیه"
 
 #. module: project_mrp
 #. odoo-python
@@ -50,7 +50,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:project_mrp.field_stock_move__display_name
 #: model:ir.model.fields,field_description:project_mrp.field_stock_rule__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: project_mrp
 #: model:ir.model.fields,field_description:project_mrp.field_mrp_bom__id
@@ -59,12 +59,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:project_mrp.field_stock_move__id
 #: model:ir.model.fields,field_description:project_mrp.field_stock_rule__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: project_mrp
 #: model:ir.model,name:project_mrp.model_mrp_production
 msgid "Manufacturing Order"
-msgstr ""
+msgstr "سفارش تولید"
 
 #. module: project_mrp
 #. odoo-python
@@ -72,7 +72,7 @@ msgstr ""
 #: model:ir.embedded.actions,name:project_mrp.project_embedded_action_manufacturing_orders
 #: model:ir.embedded.actions,name:project_mrp.project_embedded_action_manufacturing_orders_dashboard
 msgid "Manufacturing Orders"
-msgstr ""
+msgstr "سفارشات تولید"
 
 #. module: project_mrp
 #. odoo-python
@@ -85,14 +85,15 @@ msgstr ""
 #: model:ir.model.fields,field_description:project_mrp.field_mrp_bom__project_id
 #: model:ir.model.fields,field_description:project_mrp.field_mrp_production__project_id
 msgid "Project"
-msgstr ""
+msgstr "پروژه"
 
 #. module: project_mrp
 #: model:ir.model,name:project_mrp.model_stock_move
 msgid "Stock Move"
-msgstr ""
+msgstr "انتقال موجودی"
 
 #. module: project_mrp
 #: model:ir.model,name:project_mrp.model_stock_rule
 msgid "Stock Rule"
-msgstr ""
+msgstr "قانون موجودی انبار"
+

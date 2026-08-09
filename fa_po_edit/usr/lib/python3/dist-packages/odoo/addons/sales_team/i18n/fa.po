@@ -708,7 +708,7 @@ msgstr "کاربران اختصاص داده شده به این تیم."
 #. module: sales_team
 #: model_terms:ir.ui.view,arch_db:sales_team.crm_team_view_form
 msgid "Visible to all"
-msgstr ""
+msgstr "قابل‌مشاهده برای همه"
 
 #. module: sales_team
 #: model:crm.team,name:sales_team.salesteam_website_sales
@@ -802,3 +802,4 @@ msgstr "کاربر به پیکربندی فروش و همچنین گزارشات
 
 #~ msgid "Undefined graph model for Sales Team: %s"
 #~ msgstr "مدل نمودار تعریف نشده برای تیم فروش: %s"
+

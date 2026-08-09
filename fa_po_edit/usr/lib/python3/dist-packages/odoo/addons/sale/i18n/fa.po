@@ -928,7 +928,7 @@ msgstr "فعالیت ها"
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.view_sales_order_filter
 msgid "Activities of"
-msgstr ""
+msgstr "فعالیت‌های"
 
 #. module: sale
 #: model:ir.model.fields,field_description:sale.field_sale_order__activity_exception_decoration
@@ -2683,7 +2683,7 @@ msgstr "سطرهای فاکتور"
 #. module: sale
 #: model:mail.message.subtype,name:sale.mt_salesteam_invoice_paid
 msgid "Invoice Paid"
-msgstr ""
+msgstr "فاکتور پرداخت شد"
 
 #. module: sale
 #: model:mail.message.subtype,name:sale.mt_salesteam_invoice_posted
@@ -3082,13 +3082,13 @@ msgstr "میچل ادمین"
 #. odoo-javascript
 #: code:addons/sale/static/src/js/sale_order_line_field/sale_order_line_field.xml:0
 msgid "Move Down"
-msgstr ""
+msgstr "به پایین حرکت کن"
 
 #. module: sale
 #. odoo-javascript
 #: code:addons/sale/static/src/js/sale_order_line_field/sale_order_line_field.xml:0
 msgid "Move Up"
-msgstr ""
+msgstr "حرکت به بالا"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.view_sales_order_filter
@@ -4540,7 +4540,7 @@ msgstr ""
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.view_sales_order_filter
 msgid "Show all records whose next activity date is past"
-msgstr ""
+msgstr "نمایش تمام رکوردهایی که تاریخ فعالیت بعدی آن‌ها گذشته است"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
@@ -5347,7 +5347,7 @@ msgstr "قیمت واحد:"
 #: model:ir.ui.menu,name:sale.menu_product_uom_form_action
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
 msgid "Units & Packagings"
-msgstr ""
+msgstr "واحدها و بسته‌بندی ها"
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.view_order_form
@@ -5465,7 +5465,7 @@ msgstr "اعتبار سفارش، پس از آن شما قادر به امضا �
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
 msgid "Values set here are company-specific."
-msgstr ""
+msgstr "مقادیر تنظیم شده در اینجا خاص شرکت هستند."
 
 #. module: sale
 #: model_terms:ir.ui.view,arch_db:sale.res_config_settings_view_form
@@ -6346,3 +6346,4 @@ msgstr ""
 
 #~ msgid "You can invoice them before they are delivered."
 #~ msgstr "شما می توانید آنها را قبل از تحویل فاکتور کنید."
+

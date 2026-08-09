@@ -113,7 +113,7 @@ msgstr "<span> روز</span>"
 #: model_terms:ir.ui.view,arch_db:purchase_stock.report_purchaseorder_document
 #: model_terms:ir.ui.view,arch_db:purchase_stock.report_purchasequotation_document
 msgid "<strong class=\"d-block mt-3\">Shipping address</strong>"
-msgstr ""
+msgstr "<strong class=\"d-block mt-3\">آدرس حمل و نقل</strong>"
 
 #. module: purchase_stock
 #: model_terms:ir.ui.view,arch_db:purchase_stock.report_purchaseorder_document
@@ -414,7 +414,7 @@ msgstr "گزارش پیش بینی"
 #. odoo-javascript
 #: code:addons/purchase_stock/static/src/product_catalog/search/search_panel.js:0
 msgid "Forecasted"
-msgstr ""
+msgstr "پیش بینی شده"
 
 #. module: purchase_stock
 #: model:ir.model.fields,field_description:purchase_stock.field_purchase_order_line__forecasted_issue
@@ -541,25 +541,25 @@ msgstr "آیتم روزنامه"
 #. odoo-javascript
 #: code:addons/purchase_stock/static/src/product_catalog/search/search_panel.js:0
 msgid "Last 12 months"
-msgstr ""
+msgstr "12 ماه گذشته"
 
 #. module: purchase_stock
 #. odoo-javascript
 #: code:addons/purchase_stock/static/src/product_catalog/search/search_panel.js:0
 msgid "Last 3 months"
-msgstr ""
+msgstr "3 ماه گذشته"
 
 #. module: purchase_stock
 #. odoo-javascript
 #: code:addons/purchase_stock/static/src/product_catalog/search/search_panel.js:0
 msgid "Last 30 days"
-msgstr ""
+msgstr "30 روز گذشته"
 
 #. module: purchase_stock
 #. odoo-javascript
 #: code:addons/purchase_stock/static/src/product_catalog/search/search_panel.js:0
 msgid "Last 7 days"
-msgstr ""
+msgstr "7 روز گذشته"
 
 #. module: purchase_stock
 #: model:ir.model.fields,field_description:purchase_stock.field_product_supplierinfo__last_purchase_date
@@ -1156,7 +1156,7 @@ msgstr "3‌شنبه"
 #. module: purchase_stock
 #: model_terms:ir.ui.view,arch_db:purchase_stock.product_view_kanban_catalog_purchase_only
 msgid "Units"
-msgstr ""
+msgstr "عدد"
 
 #. module: purchase_stock
 #. odoo-javascript
@@ -1380,3 +1380,4 @@ msgstr ""
 
 #~ msgid "days"
 #~ msgstr "روز"
+

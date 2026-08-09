@@ -25,7 +25,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:pos_mercado_pago.field_pos_payment_method__display_name
 #: model:ir.model.fields,field_description:pos_mercado_pago.field_pos_session__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: pos_mercado_pago
 #. odoo-python
@@ -49,7 +49,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:pos_mercado_pago.field_pos_payment_method__id
 #: model:ir.model.fields,field_description:pos_mercado_pago.field_pos_session__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: pos_mercado_pago
 #: model:ir.model.fields,help:pos_mercado_pago.field_pos_payment_method__mp_bearer_token
@@ -115,12 +115,12 @@ msgstr ""
 #. module: pos_mercado_pago
 #: model:ir.model,name:pos_mercado_pago.model_pos_payment_method
 msgid "Point of Sale Payment Methods"
-msgstr ""
+msgstr "روش های پرداخت پایانه فروش"
 
 #. module: pos_mercado_pago
 #: model:ir.model,name:pos_mercado_pago.model_pos_session
 msgid "Point of Sale Session"
-msgstr ""
+msgstr "جلسه پایانه فروش"
 
 #. module: pos_mercado_pago
 #: model:ir.model.fields,field_description:pos_mercado_pago.field_pos_payment_method__mp_webhook_secret_key
@@ -159,3 +159,4 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:pos_mercado_pago.pos_payment_method_view_form_inherit_pos_mercado_pago
 msgid "c2f3662..."
 msgstr ""
+

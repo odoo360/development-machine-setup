@@ -37,7 +37,7 @@ msgstr ""
 #. module: payment_adyen
 #: model:ir.model.fields,field_description:payment_adyen.field_payment_provider__adyen_api_key
 msgid "API Key"
-msgstr ""
+msgstr "کلید API"
 
 #. module: payment_adyen
 #: model:ir.model.fields,field_description:payment_adyen.field_payment_provider__adyen_api_url_prefix
@@ -47,20 +47,20 @@ msgstr ""
 #. module: payment_adyen
 #: model:ir.model.fields.selection,name:payment_adyen.selection__payment_provider__code__adyen
 msgid "Adyen"
-msgstr ""
+msgstr "آدین"
 
 #. module: payment_adyen
 #. odoo-python
 #: code:addons/payment_adyen/models/payment_transaction.py:0
 msgid ""
 "An error occurred during the processing of your payment. Please try again."
-msgstr ""
+msgstr "یک خطا در پردازش پرداخت شما رخ داده است. لطفاً دوباره تلاش کنید."
 
 #. module: payment_adyen
 #. odoo-javascript
 #: code:addons/payment_adyen/static/src/interactions/payment_form.js:0
 msgid "Cannot display the payment form"
-msgstr ""
+msgstr "نمی‌توان فرم پرداخت را نمایش داد"
 
 #. module: payment_adyen
 #: model:ir.model.fields,field_description:payment_adyen.field_payment_provider__adyen_client_key
@@ -70,7 +70,7 @@ msgstr ""
 #. module: payment_adyen
 #: model:ir.model.fields,field_description:payment_adyen.field_payment_provider__code
 msgid "Code"
-msgstr ""
+msgstr "کد"
 
 #. module: payment_adyen
 #: model:ir.model.fields,field_description:payment_adyen.field_payment_capture_wizard__display_name
@@ -78,7 +78,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:payment_adyen.field_payment_token__display_name
 #: model:ir.model.fields,field_description:payment_adyen.field_payment_transaction__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: payment_adyen
 #: model:ir.model.fields,field_description:payment_adyen.field_payment_provider__adyen_hmac_key
@@ -96,18 +96,18 @@ msgstr ""
 #: model:ir.model.fields,field_description:payment_adyen.field_payment_token__id
 #: model:ir.model.fields,field_description:payment_adyen.field_payment_transaction__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: payment_adyen
 #. odoo-javascript
 #: code:addons/payment_adyen/static/src/interactions/payment_form.js:0
 msgid "Incorrect payment details"
-msgstr ""
+msgstr "جزئیات پرداخت نادرست"
 
 #. module: payment_adyen
 #: model_terms:ir.ui.view,arch_db:payment_adyen.payment_provider_form
 msgid "Learn More"
-msgstr ""
+msgstr "اطلاعات بیشتر"
 
 #. module: payment_adyen
 #: model:ir.model.fields,field_description:payment_adyen.field_payment_provider__adyen_merchant_account
@@ -122,12 +122,12 @@ msgstr ""
 #. module: payment_adyen
 #: model:ir.model,name:payment_adyen.model_payment_provider
 msgid "Payment Provider"
-msgstr ""
+msgstr "سرویس دهنده پرداخت"
 
 #. module: payment_adyen
 #: model:ir.model,name:payment_adyen.model_payment_token
 msgid "Payment Token"
-msgstr ""
+msgstr "توکن پرداخت"
 
 #. module: payment_adyen
 #: model:ir.model,name:payment_adyen.model_payment_transaction
@@ -138,7 +138,7 @@ msgstr "تراکنش پرداخت"
 #. odoo-javascript
 #: code:addons/payment_adyen/static/src/interactions/payment_form.js:0
 msgid "Payment processing failed"
-msgstr ""
+msgstr "پردازش پرداخت انجام نشد"
 
 #. module: payment_adyen
 #. odoo-python
@@ -150,7 +150,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/payment_adyen/models/payment_transaction.py:0
 msgid "Received data with missing payment state."
-msgstr ""
+msgstr "داده‌های دریافتی با وضعیت پرداخت گمشده"
 
 #. module: payment_adyen
 #. odoo-python
@@ -219,7 +219,7 @@ msgstr ""
 #. module: payment_adyen
 #: model:ir.model.fields,help:payment_adyen.field_payment_provider__code
 msgid "The technical code of this payment provider."
-msgstr ""
+msgstr "کد فنی این ارائه دهنده پرداخت."
 
 #. module: payment_adyen
 #: model:ir.model.fields,help:payment_adyen.field_payment_token__adyen_shopper_reference
@@ -237,3 +237,4 @@ msgstr ""
 #: code:addons/payment_adyen/models/payment_transaction.py:0
 msgid "Your payment was refused. Please try again."
 msgstr ""
+

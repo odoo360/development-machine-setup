@@ -1155,7 +1155,7 @@ msgstr "نکات تعطیلات"
 #. odoo-javascript
 #: code:addons/website_blog/static/src/website_builder/dynamic_snippet_blog_posts_option.xml:0
 msgid "Hover Effect"
-msgstr ""
+msgstr "تأثیر شناور"
 
 #. module: website_blog
 #: model:blog.post,name:website_blog.blog_post_4
@@ -2951,3 +2951,4 @@ msgstr "| هنوز نظری وجود ندارد"
 
 #~ msgid "The full URL to access the document through the website."
 #~ msgstr "آدرس URL کامل برای دسترسی سند در وبسایت."
+

@@ -28,7 +28,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/project_mrp_account/models/mrp_production.py:0
 msgid "Analytic Accounts"
-msgstr ""
+msgstr "حساب های تحلیلی"
 
 #. module: project_mrp_account
 #: model:product.template,name:project_mrp_account.product_product_dinning_table_product_template
@@ -42,7 +42,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:project_mrp_account.field_stock_move__display_name
 #: model:ir.model.fields,field_description:project_mrp_account.field_stock_rule__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: project_mrp_account
 #: model:ir.model.fields,field_description:project_mrp_account.field_mrp_production__has_analytic_account
@@ -56,33 +56,33 @@ msgstr ""
 #: model:ir.model.fields,field_description:project_mrp_account.field_stock_move__id
 #: model:ir.model.fields,field_description:project_mrp_account.field_stock_rule__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: project_mrp_account
 #: model:ir.model,name:project_mrp_account.model_mrp_production
 msgid "Manufacturing Order"
-msgstr ""
+msgstr "سفارش تولید"
 
 #. module: project_mrp_account
 #. odoo-python
 #: code:addons/project_mrp_account/models/project_project.py:0
 msgid "Manufacturing Orders"
-msgstr ""
+msgstr "سفارشات تولید"
 
 #. module: project_mrp_account
 #: model:ir.model,name:project_mrp_account.model_project_project
 msgid "Project"
-msgstr ""
+msgstr "پروژه"
 
 #. module: project_mrp_account
 #: model:ir.model,name:project_mrp_account.model_stock_move
 msgid "Stock Move"
-msgstr ""
+msgstr "انتقال موجودی"
 
 #. module: project_mrp_account
 #: model:ir.model,name:project_mrp_account.model_stock_rule
 msgid "Stock Rule"
-msgstr ""
+msgstr "قانون موجودی انبار"
 
 #. module: project_mrp_account
 #. odoo-python
@@ -95,4 +95,5 @@ msgstr ""
 #. module: project_mrp_account
 #: model:ir.model,name:project_mrp_account.model_mrp_workorder
 msgid "Work Order"
-msgstr ""
+msgstr "سفارش کار"
+

@@ -104,7 +104,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/pos_loyalty/static/src/app/components/popups/manage_giftcard_popup/manage_giftcard_popup.xml:0
 msgid "Amount"
-msgstr ""
+msgstr "مقدار"
 
 #. module: pos_loyalty
 #. odoo-javascript
@@ -147,24 +147,24 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/pos_loyalty/static/src/app/screens/receipt_screen/order_receipt/order_receipt.xml:0
 msgid "Balance"
-msgstr ""
+msgstr "تعادل"
 
 #. module: pos_loyalty
 #. odoo-javascript
 #: code:addons/pos_loyalty/static/src/app/screens/receipt_screen/order_receipt/order_receipt.xml:0
 #: model:ir.model.fields,field_description:pos_loyalty.field_loyalty_rule__promo_barcode
 msgid "Barcode"
-msgstr ""
+msgstr "بارکد"
 
 #. module: pos_loyalty
 #: model:ir.model,name:pos_loyalty.model_barcode_rule
 msgid "Barcode Rule"
-msgstr ""
+msgstr "قانون بارکد"
 
 #. module: pos_loyalty
 #: model:ir.model,name:pos_loyalty.model_res_partner
 msgid "Contact"
-msgstr ""
+msgstr "مخاطب"
 
 #. module: pos_loyalty
 #: model:ir.model.fields,field_description:pos_loyalty.field_pos_order_line__coupon_id
@@ -180,7 +180,7 @@ msgstr ""
 #. module: pos_loyalty
 #: model:ir.model,website_form_label:pos_loyalty.model_res_partner
 msgid "Create a Customer"
-msgstr ""
+msgstr "ایجاد مشتری"
 
 #. module: pos_loyalty
 #. odoo-javascript
@@ -222,7 +222,7 @@ msgstr "تخفیف و وفاداری"
 #: model:ir.model.fields,field_description:pos_loyalty.field_product_template__display_name
 #: model:ir.model.fields,field_description:pos_loyalty.field_res_partner__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: pos_loyalty
 #. odoo-javascript
@@ -247,7 +247,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/pos_loyalty/static/src/app/screens/product_screen/control_buttons/control_buttons.js:0
 msgid "Error"
-msgstr ""
+msgstr "خطا"
 
 #. module: pos_loyalty
 #. odoo-javascript
@@ -259,7 +259,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/pos_loyalty/static/src/app/components/popups/manage_giftcard_popup/manage_giftcard_popup.xml:0
 msgid "Expiration"
-msgstr ""
+msgstr "انقضا"
 
 #. module: pos_loyalty
 #: model:loyalty.reward,description:pos_loyalty.loyalty_program_reward
@@ -305,7 +305,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:pos_loyalty.field_product_template__id
 #: model:ir.model.fields,field_description:pos_loyalty.field_res_partner__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: pos_loyalty
 #. odoo-javascript
@@ -345,7 +345,7 @@ msgstr ""
 #. module: pos_loyalty
 #: model:ir.model,name:pos_loyalty.model_account_move_line
 msgid "Journal Item"
-msgstr ""
+msgstr "آیتم روزنامه"
 
 #. module: pos_loyalty
 #: model:ir.model,name:pos_loyalty.model_loyalty_mail
@@ -382,7 +382,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/pos_loyalty/static/src/app/screens/product_screen/order_summary/order_summary.js:0
 msgid "No"
-msgstr ""
+msgstr "خیر"
 
 #. module: pos_loyalty
 #. odoo-python
@@ -417,7 +417,7 @@ msgstr ""
 #. module: pos_loyalty
 #: model:ir.model.fields,field_description:pos_loyalty.field_loyalty_program__pos_order_count
 msgid "PoS Order Count"
-msgstr ""
+msgstr "تعداد سفارش Pos"
 
 #. module: pos_loyalty
 #: model:ir.model.fields,field_description:pos_loyalty.field_loyalty_card__source_pos_order_partner_id
@@ -438,38 +438,38 @@ msgstr ""
 #: model:ir.model.fields,field_description:pos_loyalty.field_loyalty_program__pos_ok
 #: model_terms:ir.ui.view,arch_db:pos_loyalty.loyalty_program_view_form_inherit_pos_loyalty
 msgid "Point of Sale"
-msgstr ""
+msgstr "پایانه فروش"
 
 #. module: pos_loyalty
 #: model:ir.model,name:pos_loyalty.model_pos_config
 msgid "Point of Sale Configuration"
-msgstr ""
+msgstr "پیکربندی پایانه فروش"
 
 #. module: pos_loyalty
 #: model:ir.model,name:pos_loyalty.model_pos_order_line
 msgid "Point of Sale Order Lines"
-msgstr ""
+msgstr "سطرهای سفارش پایانه فروش"
 
 #. module: pos_loyalty
 #: model:ir.model,name:pos_loyalty.model_pos_order
 msgid "Point of Sale Orders"
-msgstr ""
+msgstr "سفارشات پایانه فروش"
 
 #. module: pos_loyalty
 #: model:ir.model,name:pos_loyalty.model_pos_session
 msgid "Point of Sale Session"
-msgstr ""
+msgstr "جلسه پایانه فروش"
 
 #. module: pos_loyalty
 #: model:ir.model.fields,field_description:pos_loyalty.field_loyalty_program__pos_config_ids
 msgid "Point of Sales"
-msgstr ""
+msgstr "پایانه فروش"
 
 #. module: pos_loyalty
 #. odoo-javascript
 #: code:addons/pos_loyalty/static/src/app/models/pos_order.js:0
 msgid "Points"
-msgstr ""
+msgstr "امتیازها"
 
 #. module: pos_loyalty
 #: model:ir.model.fields,field_description:pos_loyalty.field_pos_order_line__points_cost
@@ -485,12 +485,12 @@ msgstr ""
 #. module: pos_loyalty
 #: model:ir.model,name:pos_loyalty.model_product_template
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 #. module: pos_loyalty
 #: model:ir.model,name:pos_loyalty.model_product_product
 msgid "Product Variant"
-msgstr ""
+msgstr "گونه محصول"
 
 #. module: pos_loyalty
 #. odoo-python
@@ -536,7 +536,7 @@ msgstr ""
 #: code:addons/pos_loyalty/static/src/app/screens/product_screen/control_buttons/control_buttons.xml:0
 #: model:ir.model.fields,field_description:pos_loyalty.field_pos_order_line__reward_id
 msgid "Reward"
-msgstr ""
+msgstr "پاداش"
 
 #. module: pos_loyalty
 #: model:ir.model.fields,field_description:pos_loyalty.field_pos_order_line__reward_identifier_code
@@ -754,7 +754,7 @@ msgstr ""
 #. module: pos_loyalty
 #: model:ir.model.fields,field_description:pos_loyalty.field_barcode_rule__type
 msgid "Type"
-msgstr ""
+msgstr "نوع"
 
 #. module: pos_loyalty
 #. odoo-javascript
@@ -795,7 +795,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/pos_loyalty/static/src/app/screens/product_screen/order_summary/order_summary.js:0
 msgid "Validation Error"
-msgstr ""
+msgstr "خطای اعتبارسنجی"
 
 #. module: pos_loyalty
 #: model:ir.model.fields,help:pos_loyalty.field_pos_order_line__is_reward_line
@@ -812,7 +812,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/pos_loyalty/static/src/app/screens/product_screen/order_summary/order_summary.js:0
 msgid "Yes"
-msgstr ""
+msgstr "بله"
 
 #. module: pos_loyalty
 #. odoo-javascript
@@ -861,3 +861,4 @@ msgstr ""
 #: code:addons/pos_loyalty/static/src/app/screens/receipt_screen/order_receipt/order_receipt.xml:0
 msgid "no expiration"
 msgstr ""
+

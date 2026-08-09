@@ -36,12 +36,12 @@ msgstr ""
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__active
 msgid "Active"
-msgstr ""
+msgstr "فعال"
 
 #. module: website_crm_iap_reveal
 #: model_terms:ir.ui.view,arch_db:website_crm_iap_reveal.crm_reveal_rule_view_search
 msgid "Archived"
-msgstr ""
+msgstr "بایگانی شده"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model,name:website_crm_iap_reveal.model_crm_reveal_rule
@@ -61,12 +61,12 @@ msgstr ""
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields.selection,name:website_crm_iap_reveal.selection__crm_reveal_rule__lead_for__companies
 msgid "Companies"
-msgstr ""
+msgstr "شرکت"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields.selection,name:website_crm_iap_reveal.selection__crm_reveal_rule__lead_for__people
 msgid "Companies and their Contacts"
-msgstr ""
+msgstr "شرکت و اشخاصشان"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__company_size_min
@@ -76,7 +76,7 @@ msgstr ""
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__company_size_max
 msgid "Company Size Max"
-msgstr ""
+msgstr "حداکثر اندازه شرکت"
 
 #. module: website_crm_iap_reveal
 #: model_terms:ir.ui.view,arch_db:website_crm_iap_reveal.crm_reveal_rule_form
@@ -86,12 +86,12 @@ msgstr ""
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__country_ids
 msgid "Countries"
-msgstr ""
+msgstr "کشورها"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_view__create_date
 msgid "Create Date"
-msgstr ""
+msgstr "ایجاد تاریخ"
 
 #. module: website_crm_iap_reveal
 #: model_terms:ir.actions.act_window,help:website_crm_iap_reveal.crm_reveal_rule_action
@@ -101,7 +101,7 @@ msgstr ""
 #. module: website_crm_iap_reveal
 #: model:ir.model,website_form_label:website_crm_iap_reveal.model_crm_lead
 msgid "Create an Opportunity"
-msgstr ""
+msgstr "ایجاد یک فرصت"
 
 #. module: website_crm_iap_reveal
 #: model_terms:ir.actions.act_window,help:website_crm_iap_reveal.crm_reveal_rule_action
@@ -113,12 +113,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__create_uid
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_view__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "ایجاد شده توسط"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__create_date
 msgid "Created on"
-msgstr ""
+msgstr "ایجادشده در"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__lead_for
@@ -131,7 +131,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_view__display_name
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_ir_http__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: website_crm_iap_reveal
 #. odoo-python
@@ -142,7 +142,7 @@ msgstr ""
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__contact_filter_type
 msgid "Filter On"
-msgstr ""
+msgstr "فیلتر بر اساس"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,help:website_crm_iap_reveal.field_crm_reveal_rule__filter_on_size
@@ -152,27 +152,27 @@ msgstr ""
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__filter_on_size
 msgid "Filter on Size"
-msgstr ""
+msgstr "فیلتر روی اندازه"
 
 #. module: website_crm_iap_reveal
 #: model_terms:ir.ui.view,arch_db:website_crm_iap_reveal.crm_reveal_rule_form
 msgid "From"
-msgstr ""
+msgstr "از"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__lead_ids
 msgid "Generated Lead / Opportunity"
-msgstr ""
+msgstr "تولید شده سرنخ / فرصت"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model,name:website_crm_iap_reveal.model_ir_http
 msgid "HTTP Routing"
-msgstr ""
+msgstr "مسیریابی HTTP"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields.selection,name:website_crm_iap_reveal.selection__crm_reveal_rule__priority__2
 msgid "High"
-msgstr ""
+msgstr "بالا"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_lead__reveal_iap_credits
@@ -185,36 +185,36 @@ msgstr ""
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_view__id
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_ir_http__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_lead__reveal_ip
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_view__reveal_ip
 msgid "IP Address"
-msgstr ""
+msgstr "آدرس IP"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__industry_tag_ids
 msgid "Industries"
-msgstr ""
+msgstr "صنایع"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__write_uid
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_view__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "آخرین تغییر توسط"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__write_date
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_view__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "آخرین به روز رسانی در"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model,name:website_crm_iap_reveal.model_crm_lead
 #: model:ir.model.fields.selection,name:website_crm_iap_reveal.selection__crm_reveal_rule__lead_type__lead
 msgid "Lead"
-msgstr ""
+msgstr "سرنخ"
 
 #. module: website_crm_iap_reveal
 #: model_terms:ir.ui.view,arch_db:website_crm_iap_reveal.crm_reveal_rule_form
@@ -230,7 +230,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_lead__reveal_rule_id
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_view__reveal_rule_id
 msgid "Lead Generation Rule"
-msgstr ""
+msgstr "قانون تولید سرنخ"
 
 #. module: website_crm_iap_reveal
 #: model:ir.actions.act_window,name:website_crm_iap_reveal.crm_reveal_view_action
@@ -251,7 +251,7 @@ msgstr ""
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields.selection,name:website_crm_iap_reveal.selection__crm_reveal_rule__priority__0
 msgid "Low"
-msgstr ""
+msgstr "پایین"
 
 #. module: website_crm_iap_reveal
 #: model_terms:ir.ui.view,arch_db:website_crm_iap_reveal.crm_reveal_rule_form
@@ -268,7 +268,7 @@ msgstr ""
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields.selection,name:website_crm_iap_reveal.selection__crm_reveal_rule__priority__1
 msgid "Medium"
-msgstr ""
+msgstr "متوسط"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields.selection,name:website_crm_iap_reveal.selection__crm_reveal_view__reveal_state__not_found
@@ -278,12 +278,12 @@ msgstr ""
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__extra_contacts
 msgid "Number of Contacts"
-msgstr ""
+msgstr "تعداد مخاطبین"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__lead_count
 msgid "Number of Generated Leads"
-msgstr ""
+msgstr "تعداد سرنخ‌های ایجاد شده"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__opportunity_count
@@ -306,7 +306,7 @@ msgstr ""
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields.selection,name:website_crm_iap_reveal.selection__crm_reveal_rule__lead_type__opportunity
 msgid "Opportunity"
-msgstr ""
+msgstr "فرصت"
 
 #. module: website_crm_iap_reveal
 #: model_terms:ir.ui.view,arch_db:website_crm_iap_reveal.crm_reveal_rule_form
@@ -322,22 +322,22 @@ msgstr ""
 #. odoo-python
 #: code:addons/website_crm_iap_reveal/models/crm_reveal_rule.py:0
 msgid "Opportunity created by Odoo Lead Generation"
-msgstr ""
+msgstr "فرصت ایجاد شده توسط تولید سرنخ اودوو"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__other_role_ids
 msgid "Other Roles"
-msgstr ""
+msgstr "سایر نقش‌ها"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__preferred_role_id
 msgid "Preferred Role"
-msgstr ""
+msgstr "نقش ترجیحی"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__priority
 msgid "Priority"
-msgstr ""
+msgstr "اولویت"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,help:website_crm_iap_reveal.field_crm_reveal_rule__regex_url
@@ -355,27 +355,27 @@ msgstr ""
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields.selection,name:website_crm_iap_reveal.selection__crm_reveal_rule__contact_filter_type__role
 msgid "Role"
-msgstr ""
+msgstr "نقش"
 
 #. module: website_crm_iap_reveal
 #: model_terms:ir.ui.view,arch_db:website_crm_iap_reveal.crm_reveal_rule_view_search
 msgid "Rule"
-msgstr ""
+msgstr "قانون"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__name
 msgid "Rule Name"
-msgstr ""
+msgstr "نام قاعده"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__team_id
 msgid "Sales Team"
-msgstr ""
+msgstr "تیم فروش"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__user_id
 msgid "Salesperson"
-msgstr ""
+msgstr "فروشنده"
 
 #. module: website_crm_iap_reveal
 #: model_terms:ir.ui.view,arch_db:website_crm_iap_reveal.crm_reveal_rule_view_search
@@ -386,32 +386,32 @@ msgstr ""
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__seniority_id
 #: model:ir.model.fields.selection,name:website_crm_iap_reveal.selection__crm_reveal_rule__contact_filter_type__seniority
 msgid "Seniority"
-msgstr ""
+msgstr "سناریته"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__sequence
 msgid "Sequence"
-msgstr ""
+msgstr "دنباله"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_view__reveal_state
 msgid "State"
-msgstr ""
+msgstr "استان"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__state_ids
 msgid "States"
-msgstr ""
+msgstr "وضعیت ها"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__suffix
 msgid "Suffix"
-msgstr ""
+msgstr "پسوند"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__tag_ids
 msgid "Tags"
-msgstr ""
+msgstr "برچسب‌ها"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,help:website_crm_iap_reveal.field_crm_reveal_rule__extra_contacts
@@ -431,12 +431,12 @@ msgstr ""
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields.selection,name:website_crm_iap_reveal.selection__crm_reveal_view__reveal_state__to_process
 msgid "To Process"
-msgstr ""
+msgstr "برای پردازش"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__lead_type
 msgid "Type"
-msgstr ""
+msgstr "نوع"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__regex_url
@@ -446,7 +446,7 @@ msgstr ""
 #. module: website_crm_iap_reveal
 #: model_terms:ir.ui.view,arch_db:website_crm_iap_reveal.crm_reveal_rule_form
 msgid "Up to"
-msgstr ""
+msgstr "تا"
 
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,help:website_crm_iap_reveal.field_crm_reveal_rule__sequence
@@ -458,7 +458,7 @@ msgstr ""
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields.selection,name:website_crm_iap_reveal.selection__crm_reveal_rule__priority__3
 msgid "Very High"
-msgstr ""
+msgstr "خیلی زیاد"
 
 #. module: website_crm_iap_reveal
 #: model:ir.actions.act_window,name:website_crm_iap_reveal.crm_reveal_rule_action
@@ -469,7 +469,7 @@ msgstr ""
 #. module: website_crm_iap_reveal
 #: model:ir.model.fields,field_description:website_crm_iap_reveal.field_crm_reveal_rule__website_id
 msgid "Website"
-msgstr ""
+msgstr "تارنما"
 
 #. module: website_crm_iap_reveal
 #: model_terms:ir.ui.view,arch_db:website_crm_iap_reveal.crm_reveal_rule_form
@@ -494,9 +494,10 @@ msgstr ""
 #. module: website_crm_iap_reveal
 #: model_terms:ir.ui.view,arch_db:website_crm_iap_reveal.crm_reveal_rule_form
 msgid "employees"
-msgstr ""
+msgstr "کارمندان"
 
 #. module: website_crm_iap_reveal
 #: model_terms:ir.ui.view,arch_db:website_crm_iap_reveal.crm_reveal_rule_form
 msgid "to"
-msgstr ""
+msgstr "تا"
+

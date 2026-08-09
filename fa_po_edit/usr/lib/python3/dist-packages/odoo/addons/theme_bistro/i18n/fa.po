@@ -125,7 +125,7 @@ msgstr ""
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features
 msgid "Breakfast"
-msgstr ""
+msgstr "صبحانه"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_striped_top
@@ -206,7 +206,7 @@ msgstr ""
 #. module: theme_bistro
 #: model:ir.model.fields,field_description:theme_bistro.field_theme_utils__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_carousel_intro
@@ -326,7 +326,7 @@ msgstr ""
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_text_cover
 msgid "Get started"
-msgstr ""
+msgstr "شروع کنید"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features_wall
@@ -353,7 +353,7 @@ msgstr ""
 #. module: theme_bistro
 #: model:ir.model.fields,field_description:theme_bistro.field_theme_utils__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_freegrid
@@ -378,7 +378,7 @@ msgstr ""
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_features
 msgid "Lunch"
-msgstr ""
+msgstr "ناهار"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_cover
@@ -559,7 +559,7 @@ msgstr ""
 #. module: theme_bistro
 #: model:ir.model,name:theme_bistro.model_theme_utils
 msgid "Theme Utils"
-msgstr ""
+msgstr "ابزارهای تم"
 
 #. module: theme_bistro
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_quotes_carousel
@@ -626,3 +626,4 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_bistro.s_big_number
 msgid "happy guests served"
 msgstr ""
+

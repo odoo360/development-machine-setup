@@ -66,13 +66,13 @@ msgstr ""
 #. module: pos_online_payment
 #: model_terms:ir.ui.view,arch_db:pos_online_payment.pay_confirmation
 msgid "Amount"
-msgstr ""
+msgstr "مقدار"
 
 #. module: pos_online_payment
 #. odoo-javascript
 #: code:addons/pos_online_payment/static/src/app/components/popups/online_payment_popup/online_payment_popup.xml:0
 msgid "Amount:"
-msgstr ""
+msgstr "مقدار"
 
 #. module: pos_online_payment
 #: model_terms:ir.ui.view,arch_db:pos_online_payment.pay
@@ -116,7 +116,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:pos_online_payment.field_pos_payment_method__display_name
 #: model:ir.model.fields,field_description:pos_online_payment.field_pos_session__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: pos_online_payment
 #: model:ir.model.fields,field_description:pos_online_payment.field_pos_payment_method__has_an_online_payment_provider
@@ -132,7 +132,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:pos_online_payment.field_pos_payment_method__id
 #: model:ir.model.fields,field_description:pos_online_payment.field_pos_session__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: pos_online_payment
 #. odoo-javascript
@@ -160,14 +160,14 @@ msgstr ""
 #. module: pos_online_payment
 #: model:ir.model.fields.selection,name:pos_online_payment.selection__pos_payment_method__type__online
 msgid "Online"
-msgstr ""
+msgstr "آنلاین"
 
 #. module: pos_online_payment
 #. odoo-python
 #: code:addons/pos_online_payment/models/pos_payment_method.py:0
 #: model:ir.model.fields,field_description:pos_online_payment.field_pos_payment_method__is_online_payment
 msgid "Online Payment"
-msgstr ""
+msgstr "پرداخت آنلاین"
 
 #. module: pos_online_payment
 #: model:ir.model.fields,field_description:pos_online_payment.field_pos_order__online_payment_method_id
@@ -204,7 +204,7 @@ msgstr ""
 #. module: pos_online_payment
 #: model_terms:ir.ui.view,arch_db:pos_online_payment.pay_confirmation
 msgid "Order Reference"
-msgstr ""
+msgstr "مرجع سفارش"
 
 #. module: pos_online_payment
 #. odoo-javascript
@@ -227,12 +227,12 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:pos_online_payment.payment_transaction_form
 #: model_terms:ir.ui.view,arch_db:pos_online_payment.view_account_payment_form_inherit_pos_online_payment
 msgid "POS Order"
-msgstr ""
+msgstr "سفارش فروش نقطه فروش"
 
 #. module: pos_online_payment
 #: model_terms:ir.ui.view,arch_db:pos_online_payment.pay
 msgid "Payment"
-msgstr ""
+msgstr "پرداخت"
 
 #. module: pos_online_payment
 #: model_terms:ir.ui.view,arch_db:pos_online_payment.pay_confirmation
@@ -242,12 +242,12 @@ msgstr ""
 #. module: pos_online_payment
 #: model_terms:ir.ui.view,arch_db:pos_online_payment.pos_payment_method_view_form_inherit_pos_online_payment
 msgid "Payment Providers"
-msgstr ""
+msgstr "سرویس دهندگان پرداخت"
 
 #. module: pos_online_payment
 #: model:ir.model,name:pos_online_payment.model_payment_transaction
 msgid "Payment Transaction"
-msgstr ""
+msgstr "تراکنش پرداخت"
 
 #. module: pos_online_payment
 #. odoo-javascript
@@ -258,7 +258,7 @@ msgstr ""
 #. module: pos_online_payment
 #: model:ir.model,name:pos_online_payment.model_account_payment
 msgid "Payments"
-msgstr ""
+msgstr "پرداخت‌ها"
 
 #. module: pos_online_payment
 #. odoo-javascript
@@ -269,32 +269,32 @@ msgstr ""
 #. module: pos_online_payment
 #: model:ir.model,name:pos_online_payment.model_pos_config
 msgid "Point of Sale Configuration"
-msgstr ""
+msgstr "پیکربندی پایانه فروش"
 
 #. module: pos_online_payment
 #: model:ir.model,name:pos_online_payment.model_pos_order
 msgid "Point of Sale Orders"
-msgstr ""
+msgstr "سفارشات پایانه فروش"
 
 #. module: pos_online_payment
 #: model:ir.model,name:pos_online_payment.model_pos_payment_method
 msgid "Point of Sale Payment Methods"
-msgstr ""
+msgstr "روش های پرداخت پایانه فروش"
 
 #. module: pos_online_payment
 #: model:ir.model,name:pos_online_payment.model_pos_payment
 msgid "Point of Sale Payments"
-msgstr ""
+msgstr "پرداخت های پایانه فروش"
 
 #. module: pos_online_payment
 #: model:ir.model,name:pos_online_payment.model_pos_session
 msgid "Point of Sale Session"
-msgstr ""
+msgstr "جلسه پایانه فروش"
 
 #. module: pos_online_payment
 #: model_terms:ir.ui.view,arch_db:pos_online_payment.pay_confirmation
 msgid "Processed by"
-msgstr ""
+msgstr "پرادازش شده توسط"
 
 #. module: pos_online_payment
 #. odoo-javascript
@@ -318,7 +318,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/pos_online_payment/static/src/app/utils/order_payment_validation.js:0
 msgid "Server error"
-msgstr ""
+msgstr "خطای سرور"
 
 #. module: pos_online_payment
 #. odoo-python
@@ -384,7 +384,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/pos_online_payment/controllers/payment_portal.py:0
 msgid "The order has been cancelled."
-msgstr ""
+msgstr "سفارش لغو شده است."
 
 #. module: pos_online_payment
 #. odoo-javascript
@@ -487,12 +487,12 @@ msgstr ""
 #. module: pos_online_payment
 #: model_terms:ir.ui.view,arch_db:pos_online_payment.pay
 msgid "There is nothing to pay."
-msgstr ""
+msgstr "هیچ موردی برای پرداخت وجود ندارد."
 
 #. module: pos_online_payment
 #: model_terms:ir.ui.view,arch_db:pos_online_payment.pay
 msgid "To Pay"
-msgstr ""
+msgstr "قابل پرداخت"
 
 #. module: pos_online_payment
 #. odoo-python
@@ -521,7 +521,7 @@ msgstr ""
 #. module: pos_online_payment
 #: model:ir.model.fields,field_description:pos_online_payment.field_pos_payment_method__type
 msgid "Type"
-msgstr ""
+msgstr "نوع"
 
 #. module: pos_online_payment
 #. odoo-javascript
@@ -540,7 +540,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/pos_online_payment/static/src/app/utils/order_payment_validation.js:0
 msgid "Yes"
-msgstr ""
+msgstr "بله"
 
 #. module: pos_online_payment
 #: model_terms:ir.ui.view,arch_db:pos_online_payment.pos_payment_method_view_form_inherit_pos_online_payment
@@ -550,9 +550,10 @@ msgstr ""
 #. module: pos_online_payment
 #: model_terms:ir.ui.view,arch_db:pos_online_payment.pos_payment_method_view_form_inherit_pos_online_payment
 msgid "payment provider"
-msgstr ""
+msgstr "سرویس دهنده پرداخت"
 
 #. module: pos_online_payment
 #: model_terms:ir.ui.view,arch_db:pos_online_payment.pos_payment_method_view_form_inherit_pos_online_payment
 msgid "to allow online payments."
 msgstr ""
+

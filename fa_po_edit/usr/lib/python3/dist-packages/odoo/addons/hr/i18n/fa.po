@@ -5198,7 +5198,7 @@ msgstr ""
 #. module: hr
 #: model_terms:ir.ui.view,arch_db:hr.hr_version_list_view
 msgid "View"
-msgstr ""
+msgstr "نما"
 
 #. module: hr
 #. odoo-javascript
@@ -5651,7 +5651,7 @@ msgstr "مکان‌هایی که با کارمندان ثبت‌شده مرتب�
 #. odoo-python
 #: code:addons/hr/models/hr_employee.py:0
 msgid "bachelor"
-msgstr ""
+msgstr "لیسانس"
 
 #. module: hr
 #. odoo-python
@@ -5723,7 +5723,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/hr/models/res_partner.py:0
 msgid "id"
-msgstr ""
+msgstr "شناسه"
 
 #. module: hr
 #: model:ir.model.fields.selection,name:hr.selection__hr_version__distance_home_work_unit__kilometers
@@ -5740,7 +5740,7 @@ msgstr "متاهل"
 #. odoo-python
 #: code:addons/hr/models/hr_employee.py:0
 msgid "master"
-msgstr ""
+msgstr "کارشناسی ارشد"
 
 #. module: hr
 #: model:ir.model.fields.selection,name:hr.selection__hr_version__distance_home_work_unit__miles
@@ -5763,7 +5763,7 @@ msgstr "محدود به کارکنان"
 #. odoo-python
 #: code:addons/hr/models/hr_version.py:0
 msgid "widower"
-msgstr ""
+msgstr "بیوه"
 
 #. module: hr
 #: model_terms:ir.ui.view,arch_db:hr.hr_employee_public_view_form
@@ -6017,3 +6017,4 @@ msgstr "نام_اجازه_کار"
 
 #~ msgid "plan"
 #~ msgstr "طرح"
+

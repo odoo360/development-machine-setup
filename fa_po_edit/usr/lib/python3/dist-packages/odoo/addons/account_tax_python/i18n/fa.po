@@ -64,7 +64,7 @@ msgstr ""
 #. module: account_tax_python
 #: model:ir.model.fields.selection,name:account_tax_python.selection__account_tax__amount_type__code
 msgid "Custom Formula"
-msgstr ""
+msgstr "فرمول سفارشی"
 
 #. module: account_tax_python
 #: model:ir.model.fields,field_description:account_tax_python.field_account_tax__display_name
@@ -188,3 +188,4 @@ msgstr ""
 
 #~ msgid "Templates for Taxes"
 #~ msgstr "قالبها برای مالیاتها"
+

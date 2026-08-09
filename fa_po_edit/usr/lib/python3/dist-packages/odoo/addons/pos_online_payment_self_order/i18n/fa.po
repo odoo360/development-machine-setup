@@ -19,7 +19,7 @@ msgstr ""
 #. module: pos_online_payment_self_order
 #: model:ir.model,name:pos_online_payment_self_order.model_res_config_settings
 msgid "Config Settings"
-msgstr ""
+msgstr "تنظیمات پیکربندی"
 
 #. module: pos_online_payment_self_order
 #: model:ir.model.fields,field_description:pos_online_payment_self_order.field_ir_http__display_name
@@ -29,12 +29,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:pos_online_payment_self_order.field_pos_payment_method__display_name
 #: model:ir.model.fields,field_description:pos_online_payment_self_order.field_res_config_settings__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: pos_online_payment_self_order
 #: model:ir.model,name:pos_online_payment_self_order.model_ir_http
 msgid "HTTP Routing"
-msgstr ""
+msgstr "مسیریابی HTTP"
 
 #. module: pos_online_payment_self_order
 #: model:ir.model.fields,field_description:pos_online_payment_self_order.field_ir_http__id
@@ -44,24 +44,24 @@ msgstr ""
 #: model:ir.model.fields,field_description:pos_online_payment_self_order.field_pos_payment_method__id
 #: model:ir.model.fields,field_description:pos_online_payment_self_order.field_res_config_settings__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: pos_online_payment_self_order
 #: model_terms:ir.ui.view,arch_db:pos_online_payment_self_order.res_config_settings_view_form_menu
 msgid "Online Payment"
-msgstr ""
+msgstr "پرداخت آنلاین"
 
 #. module: pos_online_payment_self_order
 #. odoo-javascript
 #: code:addons/pos_online_payment_self_order/static/src/app/components/order_widget/order_widget.js:0
 msgid "Order"
-msgstr ""
+msgstr "سفارش"
 
 #. module: pos_online_payment_self_order
 #. odoo-javascript
 #: code:addons/pos_online_payment_self_order/static/src/app/components/order_widget/order_widget.js:0
 msgid "Pay"
-msgstr ""
+msgstr "پرداخت"
 
 #. module: pos_online_payment_self_order
 #. odoo-javascript
@@ -77,12 +77,12 @@ msgstr ""
 #. module: pos_online_payment_self_order
 #: model_terms:ir.ui.view,arch_db:pos_online_payment_self_order.res_config_settings_view_form_menu
 msgid "Payment Methods"
-msgstr ""
+msgstr "روشهای پرداخت"
 
 #. module: pos_online_payment_self_order
 #: model:ir.model,name:pos_online_payment_self_order.model_payment_transaction
 msgid "Payment Transaction"
-msgstr ""
+msgstr "تراکنش پرداخت"
 
 #. module: pos_online_payment_self_order
 #. odoo-javascript
@@ -93,17 +93,17 @@ msgstr ""
 #. module: pos_online_payment_self_order
 #: model:ir.model,name:pos_online_payment_self_order.model_pos_config
 msgid "Point of Sale Configuration"
-msgstr ""
+msgstr "پیکربندی پایانه فروش"
 
 #. module: pos_online_payment_self_order
 #: model:ir.model,name:pos_online_payment_self_order.model_pos_order
 msgid "Point of Sale Orders"
-msgstr ""
+msgstr "سفارشات پایانه فروش"
 
 #. module: pos_online_payment_self_order
 #: model:ir.model,name:pos_online_payment_self_order.model_pos_payment_method
 msgid "Point of Sale Payment Methods"
-msgstr ""
+msgstr "روش های پرداخت پایانه فروش"
 
 #. module: pos_online_payment_self_order
 #. odoo-javascript
@@ -143,3 +143,4 @@ msgstr ""
 #: model:ir.model.fields,field_description:pos_online_payment_self_order.field_pos_order__use_self_order_online_payment
 msgid "Use Self Order Online Payment"
 msgstr ""
+

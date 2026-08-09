@@ -1229,7 +1229,7 @@ msgstr "‌دستگاه‌ها"
 #. odoo-javascript
 #: code:addons/html_builder/static/src/plugins/image/image_shapes_definition.js:0
 msgid "Diamond"
-msgstr ""
+msgstr "الماس"
 
 #. module: html_builder
 #. odoo-javascript
@@ -1455,7 +1455,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/html_builder/static/src/plugins/image/image_shapes_definition.js:0
 msgid "Gem"
-msgstr ""
+msgstr "گوهر"
 
 #. module: html_builder
 #. odoo-javascript
@@ -1569,7 +1569,7 @@ msgstr "هدینگ 1 نمایش 4"
 #. odoo-javascript
 #: code:addons/html_builder/static/src/plugins/rating_option.xml:0
 msgid "Hearts"
-msgstr ""
+msgstr "قلب‌ها"
 
 #. module: html_builder
 #. odoo-javascript
@@ -1641,7 +1641,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/html_builder/static/src/sidebar/block_tab.xml:0
 msgid "Inner Content"
-msgstr ""
+msgstr "محتوای داخلی"
 
 #. module: html_builder
 #. odoo-javascript
@@ -1911,7 +1911,7 @@ msgstr "حرکت به راست"
 #. odoo-javascript
 #: code:addons/html_builder/static/src/plugins/image/image_filter_option.xml:0
 msgid "Multiply"
-msgstr ""
+msgstr "ضرب کنید"
 
 #. module: html_builder
 #. odoo-javascript
@@ -2117,7 +2117,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/html_builder/static/src/plugins/image/image_shapes_definition.js:0
 msgid "Point"
-msgstr ""
+msgstr "امتیاز"
 
 #. module: html_builder
 #. odoo-javascript
@@ -2154,7 +2154,7 @@ msgstr "کیفیت"
 #. odoo-javascript
 #: code:addons/html_builder/static/src/plugins/image/image_shapes_definition.js:0
 msgid "Rain"
-msgstr ""
+msgstr "باران"
 
 #. module: html_builder
 #. odoo-javascript
@@ -2282,7 +2282,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/html_builder/static/src/plugins/image/replace_media_option.js:0
 msgid "Replace Media"
-msgstr ""
+msgstr "جایگزینی رسانه"
 
 #. module: html_builder
 #. odoo-javascript
@@ -2407,7 +2407,7 @@ msgstr "امتیاز"
 #. odoo-javascript
 #: code:addons/html_builder/static/src/plugins/image/image_filter_option.xml:0
 msgid "Screen"
-msgstr ""
+msgstr "صفحه نمایش"
 
 #. module: html_builder
 #. odoo-javascript
@@ -2536,7 +2536,7 @@ msgstr "کوچک"
 #. odoo-javascript
 #: code:addons/html_builder/static/src/plugins/image/image_shapes_definition.js:0
 msgid "Snow"
-msgstr ""
+msgstr "برف"
 
 #. module: html_builder
 #. odoo-javascript
@@ -2676,7 +2676,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/html_builder/static/src/plugins/image/image_shapes_definition.js:0
 msgid "Star"
-msgstr ""
+msgstr "ستاره"
 
 #. module: html_builder
 #. odoo-javascript
@@ -2724,7 +2724,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/html_builder/static/src/plugins/rating_option.xml:0
 msgid "Stars"
-msgstr ""
+msgstr "ستاره‌ها"
 
 #. module: html_builder
 #. odoo-javascript
@@ -2775,7 +2775,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/html_builder/static/src/plugins/image/image_shapes_definition.js:0
 msgid "Tear"
-msgstr ""
+msgstr "قواره"
 
 #. module: html_builder
 #. odoo-javascript
@@ -2892,7 +2892,7 @@ msgstr "تبدیل تصویر"
 #. odoo-javascript
 #: code:addons/html_builder/static/src/plugins/image/image_shapes_definition.js:0
 msgid "Triangle"
-msgstr ""
+msgstr "مثلث"
 
 #. module: html_builder
 #. odoo-javascript
@@ -3269,3 +3269,4 @@ msgstr "⌙ فعال"
 #: code:addons/html_builder/static/src/plugins/rating_option.xml:0
 msgid "⌙ Inactive"
 msgstr "⌙ غیرفعال"
+

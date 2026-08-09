@@ -298,7 +298,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
 msgid "Archived"
-msgstr ""
+msgstr "بایگانی شده"
 
 #. module: project_todo
 #. odoo-javascript
@@ -309,13 +309,13 @@ msgstr ""
 #. module: project_todo
 #: model:ir.model.fields,field_description:project_todo.field_mail_activity_todo_create__user_id
 msgid "Assigned to"
-msgstr ""
+msgstr "اختصاص یافته به"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
 msgid "Assignees"
-msgstr ""
+msgstr "گیرندگان"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
@@ -335,12 +335,12 @@ msgstr ""
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
 msgid "Closed"
-msgstr ""
+msgstr "بسته شد"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
 msgid "Closed On"
-msgstr ""
+msgstr "بسته شده برای"
 
 #. module: project_todo
 #. odoo-javascript
@@ -358,7 +358,7 @@ msgstr ""
 #. module: project_todo
 #: model:ir.model,website_form_label:project_todo.model_project_task
 msgid "Create a Task"
-msgstr ""
+msgstr "یک وظیفه ایجاد کنید"
 
 #. module: project_todo
 #: model:ir.model,name:project_todo.model_mail_activity_todo_create
@@ -373,40 +373,40 @@ msgstr ""
 #. module: project_todo
 #: model:ir.model.fields,field_description:project_todo.field_mail_activity_todo_create__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "ایجاد شده توسط"
 
 #. module: project_todo
 #: model:ir.model.fields,field_description:project_todo.field_mail_activity_todo_create__create_date
 msgid "Created on"
-msgstr ""
+msgstr "ایجادشده در"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
 msgid "Deadline"
-msgstr ""
+msgstr "آخرین مهلت"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_kanban
 msgid "Delete"
-msgstr ""
+msgstr "حذف"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.mail_activity_todo_create_popup
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_conversion_form
 msgid "Discard"
-msgstr ""
+msgstr "رها کردن"
 
 #. module: project_todo
 #: model:ir.model.fields,field_description:project_todo.field_mail_activity_todo_create__display_name
 #: model:ir.model.fields,field_description:project_todo.field_project_task__display_name
 #: model:ir.model.fields,field_description:project_todo.field_res_users__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: project_todo
 #: model:ir.model.fields,field_description:project_todo.field_mail_activity_todo_create__date_deadline
 msgid "Due Date"
-msgstr ""
+msgstr "تاریخ سررسید"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
@@ -416,7 +416,7 @@ msgstr ""
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
 msgid "Future Activities"
-msgstr ""
+msgstr "فعالیت های آینده"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
@@ -428,7 +428,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:project_todo.field_project_task__id
 #: model:ir.model.fields,field_description:project_todo.field_res_users__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: project_todo
 #: model_terms:ir.actions.act_window,help:project_todo.project_task_action_todo
@@ -441,17 +441,17 @@ msgstr ""
 #. module: project_todo
 #: model:ir.model.fields,field_description:project_todo.field_mail_activity_todo_create__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "آخرین تغییر توسط"
 
 #. module: project_todo
 #: model:ir.model.fields,field_description:project_todo.field_mail_activity_todo_create__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "آخرین به روز رسانی در"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
 msgid "Late Activities"
-msgstr ""
+msgstr "فعالیتهای اخیر"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
@@ -461,7 +461,7 @@ msgstr ""
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
 msgid "My Activities"
-msgstr ""
+msgstr "فعالیت‌های من"
 
 #. module: project_todo
 #: model_terms:ir.actions.act_window,help:project_todo.project_task_action_todo
@@ -471,12 +471,12 @@ msgstr ""
 #. module: project_todo
 #: model:ir.model.fields,field_description:project_todo.field_mail_activity_todo_create__note
 msgid "Note"
-msgstr ""
+msgstr "یادداشت"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
 msgid "Open"
-msgstr ""
+msgstr "باز"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
@@ -486,12 +486,12 @@ msgstr ""
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_calendar
 msgid "Personal Stage"
-msgstr ""
+msgstr "مرحله شخصی"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
 msgid "Priority"
-msgstr ""
+msgstr "اولویت"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.mail_activity_todo_create_popup
@@ -502,7 +502,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/project_todo/static/src/views/todo_form/todo_form_controller.js:0
 msgid "Restore"
-msgstr ""
+msgstr "بازگردانی"
 
 #. module: project_todo
 #. odoo-javascript
@@ -515,40 +515,40 @@ msgstr ""
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_kanban
 msgid "Set Cover Image"
-msgstr ""
+msgstr "تعیین تصویر رویی"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
 msgid "Show all records whose next activity date is past"
-msgstr ""
+msgstr "نمایش تمام رکوردهایی که تاریخ فعالیت بعدی آن‌ها گذشته است"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_tree
 msgid "Stage"
-msgstr ""
+msgstr "مرحله"
 
 #. module: project_todo
 #: model:ir.model.fields,field_description:project_todo.field_mail_activity_todo_create__summary
 msgid "Summary"
-msgstr ""
+msgstr "خلاصه"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
 msgid "Tags"
-msgstr ""
+msgstr "برچسب‌ها"
 
 #. module: project_todo
 #. odoo-python
 #: code:addons/project_todo/models/res_users.py:0
 #: model:ir.model,name:project_todo.model_project_task
 msgid "Task"
-msgstr ""
+msgstr "وظیفه"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form
 msgid "Task Title..."
-msgstr ""
+msgstr "عنوان کار ..."
 
 #. module: project_todo
 #. odoo-javascript
@@ -562,13 +562,13 @@ msgstr ""
 #. odoo-python
 #: code:addons/project_todo/models/res_users.py:0
 msgid "To-Do"
-msgstr ""
+msgstr "انجام دادن"
 
 #. module: project_todo
 #: model:ir.ui.menu,name:project_todo.menu_todo_todos
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_form
 msgid "To-do"
-msgstr ""
+msgstr "انجام دادن"
 
 #. module: project_todo
 #. odoo-javascript
@@ -592,7 +592,7 @@ msgstr ""
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
 msgid "Today Activities"
-msgstr ""
+msgstr "فعالیت های امروز"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_search
@@ -650,7 +650,7 @@ msgstr ""
 #. module: project_todo
 #: model:ir.model,name:project_todo.model_res_users
 msgid "User"
-msgstr ""
+msgstr "کاربر"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
@@ -688,9 +688,10 @@ msgstr ""
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.project_task_view_todo_quick_create_form
 msgid "e.g. Send Invitations"
-msgstr ""
+msgstr "به عنوان مثال ارسال دعوت‌نامه‌ها"
 
 #. module: project_todo
 #: model_terms:ir.ui.view,arch_db:project_todo.todo_user_onboarding
 msgid "todo-access"
 msgstr ""
+

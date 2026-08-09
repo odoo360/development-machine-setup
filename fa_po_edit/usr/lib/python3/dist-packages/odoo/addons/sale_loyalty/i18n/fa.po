@@ -45,7 +45,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:sale_loyalty.sale_loyalty_coupon_wizard_view_form
 #: model_terms:ir.ui.view,arch_db:sale_loyalty.sale_loyalty_reward_wizard_view_form
 msgid "Apply"
-msgstr ""
+msgstr "اعمال"
 
 #. module: sale_loyalty
 #: model:ir.actions.act_window,name:sale_loyalty.sale_loyalty_reward_wizard_action
@@ -65,7 +65,7 @@ msgstr ""
 #. module: sale_loyalty
 #: model_terms:ir.ui.view,arch_db:sale_loyalty.used_gift_card
 msgid "Code:"
-msgstr ""
+msgstr "کد:"
 
 #. module: sale_loyalty
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_order_coupon_points__coupon_id
@@ -77,7 +77,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_loyalty_coupon_wizard__coupon_code
 #: model_terms:ir.ui.view,arch_db:sale_loyalty.sale_order_view_form_inherit_sale_loyalty
 msgid "Coupon Code"
-msgstr ""
+msgstr "کد کوپن"
 
 #. module: sale_loyalty
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_order__coupon_point_ids
@@ -93,27 +93,27 @@ msgstr ""
 #. module: sale_loyalty
 #: model_terms:ir.ui.view,arch_db:sale_loyalty.sale_loyalty_reward_wizard_view_form
 msgid "Coupons & Loyalty"
-msgstr ""
+msgstr "کوپن ها و وفاداری"
 
 #. module: sale_loyalty
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_loyalty_coupon_wizard__create_uid
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_loyalty_reward_wizard__create_uid
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_order_coupon_points__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "ایجاد شده توسط"
 
 #. module: sale_loyalty
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_loyalty_coupon_wizard__create_date
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_loyalty_reward_wizard__create_date
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_order_coupon_points__create_date
 msgid "Created on"
-msgstr ""
+msgstr "ایجادشده در"
 
 #. module: sale_loyalty
 #: model_terms:ir.ui.view,arch_db:sale_loyalty.sale_loyalty_coupon_wizard_view_form
 #: model_terms:ir.ui.view,arch_db:sale_loyalty.sale_loyalty_reward_wizard_view_form
 msgid "Discard"
-msgstr ""
+msgstr "رها کردن"
 
 #. module: sale_loyalty
 #. odoo-python
@@ -138,7 +138,7 @@ msgstr "تخفیف و وفاداری"
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_order_coupon_points__display_name
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_order_line__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: sale_loyalty
 #: model:ir.actions.act_window,name:sale_loyalty.sale_loyalty_coupon_wizard_action
@@ -199,7 +199,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_order_coupon_points__id
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_order_line__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: sale_loyalty
 #. odoo-python
@@ -232,21 +232,21 @@ msgstr ""
 #. module: sale_loyalty
 #: model:ir.model,name:sale_loyalty.model_account_move_line
 msgid "Journal Item"
-msgstr ""
+msgstr "آیتم روزنامه"
 
 #. module: sale_loyalty
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_loyalty_coupon_wizard__write_uid
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_loyalty_reward_wizard__write_uid
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_order_coupon_points__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "آخرین تغییر توسط"
 
 #. module: sale_loyalty
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_loyalty_coupon_wizard__write_date
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_loyalty_reward_wizard__write_date
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_order_coupon_points__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "آخرین به روز رسانی در"
 
 #. module: sale_loyalty
 #. odoo-javascript
@@ -319,7 +319,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_loyalty_reward_wizard__order_id
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_order_coupon_points__order_id
 msgid "Order"
-msgstr ""
+msgstr "سفارش"
 
 #. module: sale_loyalty
 #. odoo-python
@@ -330,19 +330,19 @@ msgstr ""
 #. module: sale_loyalty
 #: model:ir.model.fields,field_description:sale_loyalty.field_loyalty_program__order_count
 msgid "Order Count"
-msgstr ""
+msgstr "تعداد سفارش"
 
 #. module: sale_loyalty
 #: model:ir.model.fields,field_description:sale_loyalty.field_loyalty_card__order_id
 msgid "Order Reference"
-msgstr ""
+msgstr "مرجع سفارش"
 
 #. module: sale_loyalty
 #. odoo-python
 #: code:addons/sale_loyalty/models/sale_order.py:0
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_order_coupon_points__points
 msgid "Points"
-msgstr ""
+msgstr "امتیازها"
 
 #. module: sale_loyalty
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_order_line__points_cost
@@ -354,7 +354,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_order_line__reward_id
 #: model_terms:ir.ui.view,arch_db:sale_loyalty.sale_order_view_form_inherit_sale_loyalty
 msgid "Reward"
-msgstr ""
+msgstr "پاداش"
 
 #. module: sale_loyalty
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_order__reward_amount
@@ -401,17 +401,17 @@ msgstr ""
 #. module: sale_loyalty
 #: model:ir.model.fields,field_description:sale_loyalty.field_loyalty_program__sale_ok
 msgid "Sales"
-msgstr ""
+msgstr "فروش ها"
 
 #. module: sale_loyalty
 #: model:ir.model,name:sale_loyalty.model_sale_order
 msgid "Sales Order"
-msgstr ""
+msgstr "سفارش فروش"
 
 #. module: sale_loyalty
 #: model:ir.model,name:sale_loyalty.model_sale_order_line
 msgid "Sales Order Line"
-msgstr ""
+msgstr "سطر سفارش‌فروش"
 
 #. module: sale_loyalty
 #: model:ir.model.fields,field_description:sale_loyalty.field_sale_loyalty_reward_wizard__selected_product_id
@@ -559,7 +559,7 @@ msgstr ""
 #. module: sale_loyalty
 #: model_terms:ir.ui.view,arch_db:sale_loyalty.sale_order_portal_loyalty_content
 msgid "Used"
-msgstr ""
+msgstr "استفاده شده"
 
 #. module: sale_loyalty
 #. odoo-javascript
@@ -585,3 +585,4 @@ msgstr ""
 #: code:addons/sale_loyalty/models/sale_order.py:0
 msgid "order_id"
 msgstr ""
+

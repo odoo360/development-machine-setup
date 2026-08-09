@@ -41,7 +41,7 @@ msgstr "شرکت"
 #: model:ir.model.fields,field_description:stock_dropshipping.field_stock_replenish_mixin__display_name
 #: model:ir.model.fields,field_description:stock_dropshipping.field_stock_rule__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: stock_dropshipping
 #: model:ir.model.fields.selection,name:stock_dropshipping.selection__stock_picking_type__code__dropship
@@ -77,7 +77,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_dropshipping.field_stock_replenish_mixin__id
 #: model:ir.model.fields,field_description:stock_dropshipping.field_stock_rule__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: stock_dropshipping
 #: model:ir.model.fields,field_description:stock_dropshipping.field_stock_picking__is_dropship
@@ -87,7 +87,7 @@ msgstr ""
 #. module: stock_dropshipping
 #: model:ir.model,name:stock_dropshipping.model_stock_lot
 msgid "Lot/Serial"
-msgstr ""
+msgstr "سری/سریال"
 
 #. module: stock_dropshipping
 #: model:ir.model,name:stock_dropshipping.model_stock_picking_type
@@ -102,7 +102,7 @@ msgstr ""
 #. module: stock_dropshipping
 #: model:ir.model,name:stock_dropshipping.model_product_product
 msgid "Product Variant"
-msgstr ""
+msgstr "گونه محصول"
 
 #. module: stock_dropshipping
 #: model:ir.model,name:stock_dropshipping.model_purchase_order
@@ -132,7 +132,7 @@ msgstr "قانون موجودی انبار"
 #. module: stock_dropshipping
 #: model_terms:ir.ui.view,arch_db:stock_dropshipping.stock_picking_type_kanban
 msgid "To Validate"
-msgstr ""
+msgstr "برای تایید"
 
 #. module: stock_dropshipping
 #: model:ir.model,name:stock_dropshipping.model_stock_picking
@@ -142,7 +142,8 @@ msgstr "انتقال"
 #. module: stock_dropshipping
 #: model:ir.model.fields,field_description:stock_dropshipping.field_stock_picking_type__code
 msgid "Type of Operation"
-msgstr ""
+msgstr "نوع عملیات"
 
 #~ msgid "Procurement Group"
 #~ msgstr "گروه تدارکات"
+

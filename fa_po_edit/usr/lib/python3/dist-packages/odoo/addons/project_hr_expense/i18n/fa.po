@@ -20,12 +20,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:project_hr_expense.field_hr_expense__display_name
 #: model:ir.model.fields,field_description:project_hr_expense.field_project_project__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: project_hr_expense
 #: model:ir.model,name:project_hr_expense.model_hr_expense
 msgid "Expense"
-msgstr ""
+msgstr "هزینه"
 
 #. module: project_hr_expense
 #. odoo-python
@@ -33,15 +33,16 @@ msgstr ""
 #: model:ir.embedded.actions,name:project_hr_expense.project_embedded_action_hr_expenses
 #: model:ir.embedded.actions,name:project_hr_expense.project_embedded_action_hr_expenses_dashbord
 msgid "Expenses"
-msgstr ""
+msgstr "هزینه ها"
 
 #. module: project_hr_expense
 #: model:ir.model.fields,field_description:project_hr_expense.field_hr_expense__id
 #: model:ir.model.fields,field_description:project_hr_expense.field_project_project__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: project_hr_expense
 #: model:ir.model,name:project_hr_expense.model_project_project
 msgid "Project"
-msgstr ""
+msgstr "پروژه"
+

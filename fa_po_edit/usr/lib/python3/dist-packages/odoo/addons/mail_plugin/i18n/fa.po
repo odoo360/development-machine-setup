@@ -40,7 +40,7 @@ msgstr ""
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 #: code:addons/mail_plugin/static/src/to_translate/translations_outlook.xml:0
 msgid "Address"
-msgstr ""
+msgstr "نشانی"
 
 #. module: mail_plugin
 #: model_terms:ir.ui.view,arch_db:mail_plugin.app_auth
@@ -101,13 +101,13 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 msgid "Close"
-msgstr ""
+msgstr "بستن"
 
 #. module: mail_plugin
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 msgid "Company"
-msgstr ""
+msgstr "شرکت"
 
 #. module: mail_plugin
 #. odoo-javascript
@@ -127,7 +127,7 @@ msgstr ""
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 #: code:addons/mail_plugin/static/src/to_translate/translations_outlook.xml:0
 msgid "Company Type"
-msgstr ""
+msgstr "نوع شرکت"
 
 #. module: mail_plugin
 #. odoo-javascript
@@ -146,13 +146,13 @@ msgstr ""
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 #: model:ir.model,name:mail_plugin.model_res_partner
 msgid "Contact"
-msgstr ""
+msgstr "مخاطب"
 
 #. module: mail_plugin
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_outlook.xml:0
 msgid "Contact Details"
-msgstr ""
+msgstr "جزییات تماس"
 
 #. module: mail_plugin
 #. odoo-javascript
@@ -194,7 +194,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 msgid "Create"
-msgstr ""
+msgstr "ایجاد"
 
 #. module: mail_plugin
 #. odoo-javascript
@@ -205,7 +205,7 @@ msgstr ""
 #. module: mail_plugin
 #: model:ir.model,website_form_label:mail_plugin.model_res_partner
 msgid "Create a Customer"
-msgstr ""
+msgstr "ایجاد مشتری"
 
 #. module: mail_plugin
 #. odoo-javascript
@@ -216,18 +216,18 @@ msgstr ""
 #. module: mail_plugin
 #: model:ir.model.fields,field_description:mail_plugin.field_res_partner_iap__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "ایجاد شده توسط"
 
 #. module: mail_plugin
 #: model:ir.model.fields,field_description:mail_plugin.field_res_partner_iap__create_date
 msgid "Created on"
-msgstr ""
+msgstr "ایجادشده در"
 
 #. module: mail_plugin
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 msgid "Debug"
-msgstr ""
+msgstr "اشکال زدایی"
 
 #. module: mail_plugin
 #. odoo-javascript
@@ -250,14 +250,14 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 msgid "Description"
-msgstr ""
+msgstr "توصیف"
 
 #. module: mail_plugin
 #: model:ir.model.fields,field_description:mail_plugin.field_ir_http__display_name
 #: model:ir.model.fields,field_description:mail_plugin.field_res_partner__display_name
 #: model:ir.model.fields,field_description:mail_plugin.field_res_partner_iap__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: mail_plugin
 #: model:ir.model.fields,help:mail_plugin.field_res_partner_iap__iap_search_domain
@@ -275,7 +275,7 @@ msgstr ""
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 #: code:addons/mail_plugin/static/src/to_translate/translations_outlook.xml:0
 msgid "Employees"
-msgstr ""
+msgstr "کارمندان"
 
 #. module: mail_plugin
 #. odoo-javascript
@@ -306,7 +306,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 msgid "From:"
-msgstr ""
+msgstr "از:"
 
 #. module: mail_plugin
 #. odoo-javascript
@@ -317,7 +317,7 @@ msgstr ""
 #. module: mail_plugin
 #: model:ir.model,name:mail_plugin.model_ir_http
 msgid "HTTP Routing"
-msgstr ""
+msgstr "مسیریابی HTTP"
 
 #. module: mail_plugin
 #: model:ir.model.fields,field_description:mail_plugin.field_res_partner__iap_enrich_info
@@ -350,37 +350,37 @@ msgstr ""
 #: model:ir.model.fields,field_description:mail_plugin.field_res_partner__id
 #: model:ir.model.fields,field_description:mail_plugin.field_res_partner_iap__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: mail_plugin
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 #: code:addons/mail_plugin/static/src/to_translate/translations_outlook.xml:0
 msgid "Industry"
-msgstr ""
+msgstr "صنعت"
 
 #. module: mail_plugin
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 msgid "Invalid URL"
-msgstr ""
+msgstr "نشانی نامعتبر"
 
 #. module: mail_plugin
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 #: code:addons/mail_plugin/static/src/to_translate/translations_outlook.xml:0
 msgid "Keywords"
-msgstr ""
+msgstr "کلید واژه ها"
 
 #. module: mail_plugin
 #: model:ir.model.fields,field_description:mail_plugin.field_res_partner_iap__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "آخرین تغییر توسط"
 
 #. module: mail_plugin
 #: model:ir.model.fields,field_description:mail_plugin.field_res_partner_iap__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "آخرین به روز رسانی در"
 
 #. module: mail_plugin
 #: model_terms:ir.ui.view,arch_db:mail_plugin.app_auth
@@ -411,20 +411,20 @@ msgstr ""
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 #: code:addons/mail_plugin/static/src/to_translate/translations_outlook.xml:0
 msgid "Login"
-msgstr ""
+msgstr "ورود"
 
 #. module: mail_plugin
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 #: code:addons/mail_plugin/static/src/to_translate/translations_outlook.xml:0
 msgid "Logout"
-msgstr ""
+msgstr "خروج"
 
 #. module: mail_plugin
 #. odoo-python
 #: code:addons/mail_plugin/controllers/mail_plugin.py:0
 msgid "No Access"
-msgstr ""
+msgstr "بدون دسترسی"
 
 #. module: mail_plugin
 #. odoo-javascript
@@ -496,7 +496,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/mail_plugin/controllers/mail_plugin.py:0
 msgid "Notification"
-msgstr ""
+msgstr "اعلان"
 
 #. module: mail_plugin
 #. odoo-javascript
@@ -538,7 +538,7 @@ msgstr ""
 #. module: mail_plugin
 #: model:ir.model.fields,field_description:mail_plugin.field_res_partner_iap__partner_id
 msgid "Partner"
-msgstr ""
+msgstr "همکار"
 
 #. module: mail_plugin
 #: model:ir.model,name:mail_plugin.model_res_partner_iap
@@ -549,25 +549,25 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_outlook.xml:0
 msgid "Phone"
-msgstr ""
+msgstr "تلفن"
 
 #. module: mail_plugin
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 msgid "Phones"
-msgstr ""
+msgstr "تلفن‌ها"
 
 #. module: mail_plugin
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 msgid "Read more"
-msgstr ""
+msgstr "بیشتر بخوانید"
 
 #. module: mail_plugin
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 msgid "Refresh"
-msgstr ""
+msgstr "تازه سازی"
 
 #. module: mail_plugin
 #. odoo-javascript
@@ -579,7 +579,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_outlook.xml:0
 msgid "Revenues"
-msgstr ""
+msgstr "درآمد ها"
 
 #. module: mail_plugin
 #. odoo-javascript
@@ -597,7 +597,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 msgid "Search"
-msgstr ""
+msgstr "جستجو"
 
 #. module: mail_plugin
 #: model:ir.model.fields,field_description:mail_plugin.field_res_partner__iap_search_domain
@@ -702,7 +702,7 @@ msgstr ""
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 #: code:addons/mail_plugin/static/src/to_translate/translations_outlook.xml:0
 msgid "Website"
-msgstr ""
+msgstr "تارنما"
 
 #. module: mail_plugin
 #. odoo-javascript
@@ -731,4 +731,5 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/mail_plugin/static/src/to_translate/translations_gmail.xml:0
 msgid "employees"
-msgstr ""
+msgstr "کارمندان"
+

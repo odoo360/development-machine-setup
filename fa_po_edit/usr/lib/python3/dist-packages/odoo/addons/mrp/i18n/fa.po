@@ -5333,7 +5333,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:mrp.mrp_unbuild_search_view
 #: model_terms:ir.ui.view,arch_db:mrp.view_mrp_production_filter
 msgid "Show all records whose next activity date is past"
-msgstr ""
+msgstr "نمایش تمام رکوردهایی که تاریخ فعالیت بعدی آن‌ها گذشته است"
 
 #. module: mrp
 #: model:ir.model.fields,field_description:mrp.field_mrp_production_backorder__show_backorder_lines
@@ -6430,7 +6430,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:mrp.mrp_bom_form_view
 #: model_terms:ir.ui.view,arch_db:mrp.mrp_workcenter_view
 msgid "Visible to all"
-msgstr ""
+msgstr "قابل‌مشاهده برای همه"
 
 #. module: mrp
 #: model:ir.model.fields.selection,name:mrp.selection__mrp_production__reservation_state__confirmed
@@ -7132,7 +7132,7 @@ msgstr "از محل"
 #: code:addons/mrp/models/mrp_production.py:0
 #: code:addons/mrp/models/stock_picking.py:0
 msgid "id"
-msgstr ""
+msgstr "شناسه"
 
 #. module: mrp
 #: model_terms:ir.ui.view,arch_db:mrp.mrp_bom_form_view
@@ -7664,3 +7664,4 @@ msgstr "تقسیم"
 
 #~ msgid "work orders"
 #~ msgstr "سفارشات کاری"
+

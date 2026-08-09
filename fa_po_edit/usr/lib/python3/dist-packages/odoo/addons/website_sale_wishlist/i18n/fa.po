@@ -84,25 +84,25 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website_sale_wishlist/static/src/website_builder/wishlist_page_option.xml:0
 msgid "1 Column"
-msgstr ""
+msgstr "1 ستون"
 
 #. module: website_sale_wishlist
 #. odoo-javascript
 #: code:addons/website_sale_wishlist/static/src/website_builder/wishlist_page_option.xml:0
 msgid "2 Columns"
-msgstr ""
+msgstr "2 ستون"
 
 #. module: website_sale_wishlist
 #. odoo-javascript
 #: code:addons/website_sale_wishlist/static/src/website_builder/wishlist_page_option.xml:0
 msgid "3 Columns"
-msgstr ""
+msgstr "سه ستون"
 
 #. module: website_sale_wishlist
 #. odoo-javascript
 #: code:addons/website_sale_wishlist/static/src/website_builder/wishlist_page_option.xml:0
 msgid "4 Columns"
-msgstr ""
+msgstr "۴ ستون"
 
 #. module: website_sale_wishlist
 #. odoo-javascript
@@ -169,7 +169,7 @@ msgstr "افزودن به لیست علاقه‌مندی‌ها"
 #: model_terms:ir.ui.view,arch_db:website_sale_wishlist.add_to_wishlist
 #: model_terms:ir.ui.view,arch_db:website_sale_wishlist.product_add_to_wishlist
 msgid "Add to wishlist"
-msgstr ""
+msgstr "افزودن به لیست علاقه‌مندی‌ها"
 
 #. module: website_sale_wishlist
 #: model:ir.model.fields,help:website_sale_wishlist.field_website__wishlist_opt_products_design_classes
@@ -184,7 +184,7 @@ msgstr "مخاطب"
 #. module: website_sale_wishlist
 #: model:ir.model,website_form_label:website_sale_wishlist.model_res_partner
 msgid "Create a Customer"
-msgstr ""
+msgstr "ایجاد مشتری"
 
 #. module: website_sale_wishlist
 #: model:ir.model.fields,field_description:website_sale_wishlist.field_product_wishlist__create_uid
@@ -199,13 +199,13 @@ msgstr "ایجادشده در"
 #. module: website_sale_wishlist
 #: model:ir.model.fields,field_description:website_sale_wishlist.field_product_wishlist__currency_id
 msgid "Default Currency"
-msgstr ""
+msgstr "ارز پیشفرض"
 
 #. module: website_sale_wishlist
 #. odoo-javascript
 #: code:addons/website_sale_wishlist/static/src/website_builder/wishlist_page_option.xml:0
 msgid "Desktop"
-msgstr ""
+msgstr "دسکتاپ"
 
 #. module: website_sale_wishlist
 #: model:ir.model.fields,field_description:website_sale_wishlist.field_product_product__display_name
@@ -226,7 +226,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website_sale_wishlist/static/src/website_builder/products_design_panel.xml:0
 msgid "Fixed"
-msgstr ""
+msgstr "ثابت"
 
 #. module: website_sale_wishlist
 #. odoo-javascript
@@ -238,7 +238,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website_sale_wishlist/static/src/website_builder/products_design_panel.xml:0
 msgid "Gap"
-msgstr ""
+msgstr "اختلاف"
 
 #. module: website_sale_wishlist
 #: model:ir.model.fields,help:website_sale_wishlist.field_website__wishlist_gap
@@ -269,7 +269,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website_sale_wishlist/static/src/website_builder/products_design_panel.xml:0
 msgid "Inline"
-msgstr ""
+msgstr "درون خطی"
 
 #. module: website_sale_wishlist
 #: model:ir.model.fields,field_description:website_sale_wishlist.field_product_wishlist__write_uid
@@ -285,13 +285,13 @@ msgstr "آخرین بروز رسانی در"
 #. odoo-javascript
 #: code:addons/website_sale_wishlist/static/src/website_builder/wishlist_page_option.xml:0
 msgid "Layout"
-msgstr ""
+msgstr "طرح بندی"
 
 #. module: website_sale_wishlist
 #. odoo-javascript
 #: code:addons/website_sale_wishlist/static/src/website_builder/wishlist_page_option.xml:0
 msgid "Mobile"
-msgstr ""
+msgstr "موبایل"
 
 #. module: website_sale_wishlist
 #: model_terms:ir.ui.view,arch_db:website_sale_wishlist.product_wishlist
@@ -312,12 +312,12 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website_sale_wishlist/static/src/website_builder/products_design_panel.xml:0
 msgid "On Hover"
-msgstr ""
+msgstr "در حالت شناور"
 
 #. module: website_sale_wishlist
 #: model_terms:ir.ui.view,arch_db:website_sale_wishlist.product_wishlist
 msgid "Original price"
-msgstr ""
+msgstr "قیمت اصلی"
 
 #. module: website_sale_wishlist
 #: model:ir.model.fields,field_description:website_sale_wishlist.field_product_wishlist__partner_id
@@ -374,7 +374,7 @@ msgstr ""
 #. module: website_sale_wishlist
 #: model_terms:ir.ui.view,arch_db:website_sale_wishlist.product_wishlist
 msgid "Sale price"
-msgstr ""
+msgstr "قیمت فروش"
 
 #. module: website_sale_wishlist
 #: model_terms:ir.ui.view,arch_db:website_sale_wishlist.product_cart_lines
@@ -384,7 +384,7 @@ msgstr ""
 #. module: website_sale_wishlist
 #: model_terms:ir.ui.view,arch_db:website_sale_wishlist.product_wishlist
 msgid "Shop"
-msgstr ""
+msgstr "فروشگاه"
 
 #. module: website_sale_wishlist
 #: model_terms:ir.ui.view,arch_db:website_sale_wishlist.product_wishlist
@@ -466,3 +466,4 @@ msgstr ""
 
 #~ msgid "Product image"
 #~ msgstr "تصویر محصول"
+

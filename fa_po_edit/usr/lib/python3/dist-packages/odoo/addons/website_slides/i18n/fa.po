@@ -4170,12 +4170,12 @@ msgstr "یکی از آیتم‌های منو"
 #. module: website_slides
 #: model:ir.model,name:website_slides.model_base_partner_merge_automatic_wizard
 msgid "Merge Partner Wizard"
-msgstr ""
+msgstr "ویزارد ادغام شریک"
 
 #. module: website_slides
 #: model:ir.model,name:website_slides.model_mail_message
 msgid "Message"
-msgstr ""
+msgstr "پیام"
 
 #. module: website_slides
 #: model:ir.model.fields,field_description:website_slides.field_slide_channel__message_has_error
@@ -5212,7 +5212,7 @@ msgstr "جستجوی محتوی"
 #. module: website_slides
 #: model_terms:ir.ui.view,arch_db:website_slides.courses_search_bar
 msgid "Search Courses"
-msgstr ""
+msgstr "جستجوی دروس"
 
 #. module: website_slides
 #: model_terms:ir.ui.view,arch_db:website_slides.course_nav
@@ -6576,7 +6576,7 @@ msgstr ""
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_category_demo_2_1
 msgid "Wood"
-msgstr ""
+msgstr "چوب"
 
 #. module: website_slides
 #: model:slide.slide,name:website_slides.slide_slide_demo_3_1
@@ -7314,3 +7314,4 @@ msgstr "└<span class=\"ms-1\">دسته بندی نشده</span>"
 
 #~ msgid "unlisted"
 #~ msgstr "فهرست نشده"
+

@@ -672,7 +672,7 @@ msgstr "جابجایی"
 #. module: stock_account
 #: model_terms:ir.ui.view,arch_db:stock_account.product_value_form_view
 msgid "New Value"
-msgstr ""
+msgstr "مقدار جدید"
 
 #. module: stock_account
 #. odoo-python
@@ -817,7 +817,7 @@ msgstr "مرجع‌"
 #. module: stock_account
 #: model_terms:ir.ui.view,arch_db:stock_account.view_move_search
 msgid "Remaining"
-msgstr ""
+msgstr "باقی مانده"
 
 #. module: stock_account
 #: model:ir.model.fields,field_description:stock_account.field_stock_move__remaining_qty
@@ -1033,7 +1033,7 @@ msgstr "بروز رسانی مقادیر در SO/PO"
 #. module: stock_account
 #: model:ir.model.fields,field_description:stock_account.field_product_category__anglo_saxon_accounting
 msgid "Use Anglo-Saxon Accounting"
-msgstr ""
+msgstr "استفاده از حسابداری آنگلوساکسون"
 
 #. module: stock_account
 #: model:ir.model.fields,field_description:stock_account.field_product_value__user_id
@@ -1518,3 +1518,4 @@ msgstr "واحدها"
 
 #~ msgid "locations"
 #~ msgstr "مکان ها"
+

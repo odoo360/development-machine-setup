@@ -32,7 +32,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/project_mail_plugin/static/src/to_translate/translations_gmail.xml:0
 msgid "Create"
-msgstr ""
+msgstr "ایجاد"
 
 #. module: project_mail_plugin
 #. odoo-javascript
@@ -87,7 +87,7 @@ msgstr ""
 #: code:addons/project_mail_plugin/static/src/to_translate/translations_gmail.xml:0
 #: code:addons/project_mail_plugin/static/src/to_translate/translations_outlook.xml:0
 msgid "No project"
-msgstr ""
+msgstr "بدون پروژه"
 
 #. module: project_mail_plugin
 #. odoo-javascript
@@ -105,7 +105,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/project_mail_plugin/static/src/to_translate/translations_gmail.xml:0
 msgid "OR"
-msgstr ""
+msgstr "یا"
 
 #. module: project_mail_plugin
 #. odoo-javascript
@@ -117,7 +117,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/project_mail_plugin/static/src/to_translate/translations_gmail.xml:0
 msgid "Project Name"
-msgstr ""
+msgstr "نام پروژه"
 
 #. module: project_mail_plugin
 #. odoo-javascript
@@ -135,7 +135,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/project_mail_plugin/static/src/to_translate/translations_gmail.xml:0
 msgid "Search"
-msgstr ""
+msgstr "جستجو"
 
 #. module: project_mail_plugin
 #. odoo-javascript
@@ -154,7 +154,7 @@ msgstr ""
 #: code:addons/project_mail_plugin/static/src/to_translate/translations_gmail.xml:0
 #: code:addons/project_mail_plugin/static/src/to_translate/translations_outlook.xml:0
 msgid "Task"
-msgstr ""
+msgstr "وظیفه"
 
 #. module: project_mail_plugin
 #. odoo-python
@@ -199,3 +199,4 @@ msgid ""
 "There are no project in your database. Please ask your project manager to "
 "create one."
 msgstr ""
+

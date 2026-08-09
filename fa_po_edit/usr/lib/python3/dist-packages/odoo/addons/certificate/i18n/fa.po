@@ -304,7 +304,7 @@ msgstr ""
 #. module: certificate
 #: model:ir.model.fields,field_description:certificate.field_certificate_certificate__serial_number
 msgid "Serial number"
-msgstr ""
+msgstr "شماره سریال"
 
 #. module: certificate
 #: model:ir.model.fields,help:certificate.field_certificate_certificate__active
@@ -511,3 +511,4 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:certificate.certificate_key_view_search
 msgid "key search"
 msgstr ""
+

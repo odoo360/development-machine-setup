@@ -166,7 +166,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/theme_odoo_experts/static/src/js/tour.js:0
 msgid "Background Shape"
-msgstr ""
+msgstr "شکل پس‌زمینه"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_quadrant
@@ -203,7 +203,7 @@ msgstr ""
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_picture
 msgid "Contact Us"
-msgstr ""
+msgstr "تماس با ما"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_call_to_action
@@ -247,7 +247,7 @@ msgstr ""
 #. module: theme_odoo_experts
 #: model:ir.model.fields,field_description:theme_odoo_experts.field_theme_utils__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_key_images
@@ -362,7 +362,7 @@ msgstr ""
 #. module: theme_odoo_experts
 #: model:ir.model.fields,field_description:theme_odoo_experts.field_theme_utils__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_pricelist_boxed
@@ -384,7 +384,7 @@ msgstr ""
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_mockup_image
 msgid "Learn more"
-msgstr ""
+msgstr "اطلاعات بیشتر"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_cta_box
@@ -446,7 +446,7 @@ msgstr ""
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_empowerment
 msgid "Our services"
-msgstr ""
+msgstr "خدمات ما"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_numbers_list
@@ -590,7 +590,7 @@ msgstr ""
 #. module: theme_odoo_experts
 #: model:ir.model,name:theme_odoo_experts.model_theme_utils
 msgid "Theme Utils"
-msgstr ""
+msgstr "ابزارهای تم"
 
 #. module: theme_odoo_experts
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_striped_center_top
@@ -629,3 +629,4 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_odoo_experts.s_pricelist_boxed
 msgid "✽  Technology Solutions"
 msgstr ""
+

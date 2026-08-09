@@ -44,7 +44,7 @@ msgstr "شناسه مشتری"
 #. module: pos_viva_com
 #: model:ir.model.fields,field_description:pos_viva_com.field_pos_payment_method__viva_com_client_secret
 msgid "Client secret"
-msgstr ""
+msgstr "رمز کلاینت"
 
 #. module: pos_viva_com
 #. odoo-javascript
@@ -234,3 +234,4 @@ msgstr ""
 #: code:addons/pos_viva_com/controllers/main.py:0
 msgid "received a message for a terminal not registered in Odoo: %s"
 msgstr ""
+

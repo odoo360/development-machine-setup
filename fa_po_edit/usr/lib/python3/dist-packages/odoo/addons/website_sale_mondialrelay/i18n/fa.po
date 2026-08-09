@@ -26,7 +26,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website_sale_mondialrelay/static/src/xml/website_sale_mondialrelay.xml:0
 msgid "Cancel"
-msgstr ""
+msgstr "لغو"
 
 #. module: website_sale_mondialrelay
 #. odoo-javascript
@@ -49,7 +49,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website_sale_mondialrelay/static/src/xml/website_sale_mondialrelay.xml:0
 msgid "Close"
-msgstr ""
+msgstr "بستن"
 
 #. module: website_sale_mondialrelay
 #. odoo-python
@@ -66,18 +66,18 @@ msgstr ""
 #. module: website_sale_mondialrelay
 #: model:ir.model.fields,field_description:website_sale_mondialrelay.field_sale_order__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: website_sale_mondialrelay
 #: model:ir.model.fields,field_description:website_sale_mondialrelay.field_sale_order__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: website_sale_mondialrelay
 #: model_terms:ir.ui.view,arch_db:website_sale_mondialrelay.address_on_checkout
 #: model_terms:ir.ui.view,arch_db:website_sale_mondialrelay.delivery_carrier_view_search
 msgid "Mondial Relay"
-msgstr ""
+msgstr "رله موندیال"
 
 #. module: website_sale_mondialrelay
 #. odoo-python
@@ -88,7 +88,7 @@ msgstr ""
 #. module: website_sale_mondialrelay
 #: model:ir.model,name:website_sale_mondialrelay.model_sale_order
 msgid "Sales Order"
-msgstr ""
+msgstr "سفارش فروش"
 
 #. module: website_sale_mondialrelay
 #. odoo-javascript
@@ -106,3 +106,4 @@ msgstr ""
 #: code:addons/website_sale_mondialrelay/controllers/controllers.py:0
 msgid "You cannot edit the address of a Point Relais®."
 msgstr ""
+

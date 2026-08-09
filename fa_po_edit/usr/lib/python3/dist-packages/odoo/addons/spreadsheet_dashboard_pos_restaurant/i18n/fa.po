@@ -40,7 +40,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_restaurant/data/files/pos_restaurant_sample_dashboard.json:0
 msgid "Always"
-msgstr ""
+msgstr "همیشه"
 
 #. module: spreadsheet_dashboard_pos_restaurant
 #. odoo-javascript
@@ -117,7 +117,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_restaurant/data/files/pos_restaurant_dashboard.json:0
 msgid "Date"
-msgstr ""
+msgstr "تاریخ"
 
 #. module: spreadsheet_dashboard_pos_restaurant
 #. odoo-javascript
@@ -144,13 +144,13 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_restaurant/data/files/pos_restaurant_sample_dashboard.json:0
 msgid "Margin"
-msgstr ""
+msgstr "حاشیه سود"
 
 #. module: spreadsheet_dashboard_pos_restaurant
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_restaurant/data/files/pos_restaurant_sample_dashboard.json:0
 msgid "Measure"
-msgstr ""
+msgstr "ندازه"
 
 #. module: spreadsheet_dashboard_pos_restaurant
 #. odoo-javascript
@@ -162,7 +162,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_restaurant/data/files/pos_restaurant_sample_dashboard.json:0
 msgid "Orders"
-msgstr ""
+msgstr "سفارشات"
 
 #. module: spreadsheet_dashboard_pos_restaurant
 #: model:spreadsheet.dashboard,name:spreadsheet_dashboard_pos_restaurant.spreadsheet_dashboard_pos_restaurant
@@ -173,7 +173,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_restaurant/data/files/pos_restaurant_dashboard.json:0
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 #. module: spreadsheet_dashboard_pos_restaurant
 #. odoo-javascript
@@ -185,13 +185,13 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_restaurant/data/files/pos_restaurant_dashboard.json:0
 msgid "Product Category"
-msgstr ""
+msgstr "دسته محصول"
 
 #. module: spreadsheet_dashboard_pos_restaurant
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_restaurant/data/files/pos_restaurant_sample_dashboard.json:0
 msgid "Quantity"
-msgstr ""
+msgstr "تعداد"
 
 #. module: spreadsheet_dashboard_pos_restaurant
 #. odoo-javascript
@@ -203,14 +203,14 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_restaurant/data/files/pos_restaurant_sample_dashboard.json:0
 msgid "Responsible"
-msgstr ""
+msgstr "پاسخگو"
 
 #. module: spreadsheet_dashboard_pos_restaurant
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_restaurant/data/files/pos_restaurant_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_pos_restaurant/data/files/pos_restaurant_sample_dashboard.json:0
 msgid "Revenue"
-msgstr ""
+msgstr "درآمد"
 
 #. module: spreadsheet_dashboard_pos_restaurant
 #. odoo-javascript
@@ -236,20 +236,20 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_restaurant/data/files/pos_restaurant_sample_dashboard.json:0
 msgid "Table"
-msgstr ""
+msgstr "میز"
 
 #. module: spreadsheet_dashboard_pos_restaurant
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_restaurant/data/files/pos_restaurant_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_pos_restaurant/data/files/pos_restaurant_sample_dashboard.json:0
 msgid "Time"
-msgstr ""
+msgstr "زمان"
 
 #. module: spreadsheet_dashboard_pos_restaurant
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_restaurant/data/files/pos_restaurant_sample_dashboard.json:0
 msgid "Tip"
-msgstr ""
+msgstr "نکته"
 
 #. module: spreadsheet_dashboard_pos_restaurant
 #. odoo-javascript
@@ -311,3 +311,4 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_pos_restaurant/data/files/pos_restaurant_dashboard.json:0
 msgid "Waiter"
 msgstr ""
+

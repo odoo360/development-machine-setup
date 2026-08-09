@@ -151,7 +151,7 @@ msgstr "دسته بندی"
 #. module: mrp_account
 #: model:ir.model,name:mrp_account.model_res_company
 msgid "Companies"
-msgstr ""
+msgstr "شرکت"
 
 #. module: mrp_account
 #: model:ir.actions.server,name:mrp_account.action_compute_price_bom_product
@@ -329,7 +329,7 @@ msgstr "گزارش کلی تولید"
 #. odoo-python
 #: code:addons/mrp_account/wizard/mrp_wip_accounting.py:0
 msgid "Manual Entry"
-msgstr ""
+msgstr "ورودی دستی"
 
 #. module: mrp_account
 #: model:ir.model,name:mrp_account.model_mrp_production
@@ -647,3 +647,4 @@ msgstr "[WC] ٪s"
 
 #~ msgid "Workcenters"
 #~ msgstr "مراکز کار"
+

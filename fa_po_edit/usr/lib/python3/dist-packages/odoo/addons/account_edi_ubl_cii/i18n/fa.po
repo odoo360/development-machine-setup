@@ -93,7 +93,7 @@ msgstr "سند حسابداری ارسال شد"
 #. module: account_edi_ubl_cii
 #: model:ir.model,name:account_edi_ubl_cii.model_account_move_send_wizard
 msgid "Account Move Send Wizard"
-msgstr ""
+msgstr "راهنمای ارسال سند حسابداری"
 
 #. module: account_edi_ubl_cii
 #: model:ir.model.fields.selection,name:account_edi_ubl_cii.selection__res_partner__peppol_eas__9923
@@ -353,7 +353,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/account_edi_ubl_cii/models/account_edi_ubl.py:0
 msgid "Discount"
-msgstr ""
+msgstr "تخفیف"
 
 #. module: account_edi_ubl_cii
 #: model:ir.model.fields,field_description:account_edi_ubl_cii.field_account_edi_common__display_name
@@ -383,7 +383,7 @@ msgstr "نام نمایشی"
 #. odoo-python
 #: code:addons/account_edi_ubl_cii/models/account_edi_ubl.py:0
 msgid "Draft"
-msgstr ""
+msgstr "پیش‌نویس"
 
 #. module: account_edi_ubl_cii
 #: model:ir.model.fields.selection,name:account_edi_ubl_cii.selection__account_tax__ubl_cii_tax_category_code__e
@@ -1041,7 +1041,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:account_edi_ubl_cii.layout_invoices_generated_by_odoo
 #: model_terms:ir.ui.view,arch_db:account_edi_ubl_cii.report_invoice_document
 msgid "Tax ID"
-msgstr ""
+msgstr "شناسه مالیاتی"
 
 #. module: account_edi_ubl_cii
 #. odoo-python
@@ -1299,7 +1299,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/account_edi_ubl_cii/models/account_move.py:0
 msgid "Untaxed"
-msgstr ""
+msgstr "پایه"
 
 #. module: account_edi_ubl_cii
 #: model:ir.model.fields.selection,name:account_edi_ubl_cii.selection__account_tax__ubl_cii_tax_exemption_reason_code__vatex-eu-132
@@ -1982,3 +1982,4 @@ msgstr "urn:factur-x:pdfa:CrossIndustryDocument:invoice:1p0#"
 #~ msgid ""
 #~ "No gross price, net price nor line subtotal amount found for line in xml"
 #~ msgstr "قیمت ناخالص، قیمت خالص و سطر حاوی جمع جزء برای سطر xml یافت نشد"
+

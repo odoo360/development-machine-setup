@@ -19,19 +19,20 @@ msgstr ""
 #. module: hr_hourly_cost
 #: model:ir.model.fields,field_description:hr_hourly_cost.field_hr_employee__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: hr_hourly_cost
 #: model:ir.model,name:hr_hourly_cost.model_hr_employee
 msgid "Employee"
-msgstr ""
+msgstr "کارمند"
 
 #. module: hr_hourly_cost
 #: model:ir.model.fields,field_description:hr_hourly_cost.field_hr_employee__hourly_cost
 msgid "Hourly Cost"
-msgstr ""
+msgstr "هزینه ساعتی"
 
 #. module: hr_hourly_cost
 #: model:ir.model.fields,field_description:hr_hourly_cost.field_hr_employee__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
+

@@ -19,14 +19,15 @@ msgstr ""
 #. module: theme_common
 #: model:ir.model.fields,field_description:theme_common.field_theme_utils__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: theme_common
 #: model:ir.model.fields,field_description:theme_common.field_theme_utils__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: theme_common
 #: model:ir.model,name:theme_common.model_theme_utils
 msgid "Theme Utils"
-msgstr ""
+msgstr "ابزارهای تم"
+

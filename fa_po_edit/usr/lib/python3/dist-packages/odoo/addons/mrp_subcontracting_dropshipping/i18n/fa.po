@@ -19,7 +19,7 @@ msgstr ""
 #. module: mrp_subcontracting_dropshipping
 #: model:ir.model,name:mrp_subcontracting_dropshipping.model_res_company
 msgid "Companies"
-msgstr ""
+msgstr "شرکت"
 
 #. module: mrp_subcontracting_dropshipping
 #: model:ir.model.fields,field_description:mrp_subcontracting_dropshipping.field_purchase_order__default_location_dest_id_is_subcontracting_loc
@@ -36,7 +36,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:mrp_subcontracting_dropshipping.field_stock_warehouse__display_name
 #: model:ir.model.fields,field_description:mrp_subcontracting_dropshipping.field_stock_warehouse_orderpoint__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: mrp_subcontracting_dropshipping
 #: model:ir.model.fields,field_description:mrp_subcontracting_dropshipping.field_res_company__dropship_subcontractor_pick_type_id
@@ -59,12 +59,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:mrp_subcontracting_dropshipping.field_stock_warehouse__id
 #: model:ir.model.fields,field_description:mrp_subcontracting_dropshipping.field_stock_warehouse_orderpoint__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: mrp_subcontracting_dropshipping
 #: model:ir.model,name:mrp_subcontracting_dropshipping.model_stock_warehouse_orderpoint
 msgid "Minimum Inventory Rule"
-msgstr ""
+msgstr "قاعده حداقل انبارداری"
 
 #. module: mrp_subcontracting_dropshipping
 #. odoo-python
@@ -80,17 +80,17 @@ msgstr ""
 #. module: mrp_subcontracting_dropshipping
 #: model:ir.model,name:mrp_subcontracting_dropshipping.model_purchase_order
 msgid "Purchase Order"
-msgstr ""
+msgstr "سفارش خرید"
 
 #. module: mrp_subcontracting_dropshipping
 #: model:ir.model,name:mrp_subcontracting_dropshipping.model_stock_move
 msgid "Stock Move"
-msgstr ""
+msgstr "انتقال موجودی"
 
 #. module: mrp_subcontracting_dropshipping
 #: model:ir.model,name:mrp_subcontracting_dropshipping.model_stock_rule
 msgid "Stock Rule"
-msgstr ""
+msgstr "قانون موجودی انبار"
 
 #. module: mrp_subcontracting_dropshipping
 #: model:ir.model.fields,field_description:mrp_subcontracting_dropshipping.field_stock_warehouse__subcontracting_dropshipping_pull_id
@@ -100,15 +100,16 @@ msgstr ""
 #. module: mrp_subcontracting_dropshipping
 #: model:ir.model,name:mrp_subcontracting_dropshipping.model_stock_picking
 msgid "Transfer"
-msgstr ""
+msgstr "انتقال"
 
 #. module: mrp_subcontracting_dropshipping
 #: model:ir.model,name:mrp_subcontracting_dropshipping.model_stock_warehouse
 msgid "Warehouse"
-msgstr ""
+msgstr "انبار"
 
 #. module: mrp_subcontracting_dropshipping
 #. odoo-python
 #: code:addons/mrp_subcontracting_dropshipping/models/purchase.py:0
 msgid "Warning"
-msgstr ""
+msgstr "هشدار"
+

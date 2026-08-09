@@ -28,7 +28,7 @@ msgstr ""
 #. module: cloud_storage_migration
 #: model:ir.model,name:cloud_storage_migration.model_ir_attachment
 msgid "Attachment"
-msgstr ""
+msgstr "پیوست"
 
 #. module: cloud_storage_migration
 #. odoo-python
@@ -87,7 +87,7 @@ msgstr ""
 #. module: cloud_storage_migration
 #: model:ir.model,name:cloud_storage_migration.model_res_config_settings
 msgid "Config Settings"
-msgstr ""
+msgstr "تنظیمات پیکربندی"
 
 #. module: cloud_storage_migration
 #: model_terms:ir.ui.view,arch_db:cloud_storage_migration.cloud_storage_migration_config_settings_view_form
@@ -99,7 +99,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:cloud_storage_migration.field_ir_attachment__display_name
 #: model:ir.model.fields,field_description:cloud_storage_migration.field_res_config_settings__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: cloud_storage_migration
 #. odoo-python
@@ -117,7 +117,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:cloud_storage_migration.field_ir_attachment__id
 #: model:ir.model.fields,field_description:cloud_storage_migration.field_res_config_settings__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: cloud_storage_migration
 #: model:ir.model.fields,help:cloud_storage_migration.field_cloud_storage_migration_report__all_to_migrate
@@ -198,12 +198,12 @@ msgstr ""
 #. module: cloud_storage_migration
 #: model:ir.model.fields,field_description:cloud_storage_migration.field_cloud_storage_migration_report__res_model
 msgid "Model"
-msgstr ""
+msgstr "مدل"
 
 #. module: cloud_storage_migration
 #: model:ir.model.fields,field_description:cloud_storage_migration.field_cloud_storage_migration_report__res_model_name
 msgid "Model Name"
-msgstr ""
+msgstr "مدل"
 
 #. module: cloud_storage_migration
 #: model_terms:ir.actions.act_window,help:cloud_storage_migration.action_cloud_storage_migration_report
@@ -219,7 +219,7 @@ msgstr ""
 #. module: cloud_storage_migration
 #: model_terms:ir.ui.view,arch_db:cloud_storage_migration.cloud_storage_migration_config_settings_view_form
 msgid "Parameters"
-msgstr ""
+msgstr "پارامترها"
 
 #. module: cloud_storage_migration
 #: model:ir.model.fields,help:cloud_storage_migration.field_res_config_settings__cloud_storage_migration_progress
@@ -280,3 +280,4 @@ msgid ""
 "Total size in megabytes of all attachments linked to mail messages for this "
 "model"
 msgstr ""
+

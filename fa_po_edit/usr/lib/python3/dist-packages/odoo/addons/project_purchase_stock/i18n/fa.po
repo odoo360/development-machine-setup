@@ -20,20 +20,21 @@ msgstr ""
 #: model:ir.model.fields,field_description:project_purchase_stock.field_purchase_order__display_name
 #: model:ir.model.fields,field_description:project_purchase_stock.field_stock_rule__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: project_purchase_stock
 #: model:ir.model.fields,field_description:project_purchase_stock.field_purchase_order__id
 #: model:ir.model.fields,field_description:project_purchase_stock.field_stock_rule__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: project_purchase_stock
 #: model:ir.model,name:project_purchase_stock.model_purchase_order
 msgid "Purchase Order"
-msgstr ""
+msgstr "سفارش خرید"
 
 #. module: project_purchase_stock
 #: model:ir.model,name:project_purchase_stock.model_stock_rule
 msgid "Stock Rule"
-msgstr ""
+msgstr "قانون موجودی انبار"
+

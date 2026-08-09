@@ -359,7 +359,7 @@ msgstr ""
 #. module: theme_monglia
 #: model:ir.model.fields,field_description:theme_monglia.field_theme_utils__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_media_list
@@ -503,7 +503,7 @@ msgstr ""
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_text_cover
 msgid "Get started"
-msgstr ""
+msgstr "شروع کنید"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
@@ -518,7 +518,7 @@ msgstr ""
 #. module: theme_monglia
 #: model:ir.model.fields,field_description:theme_monglia.field_theme_utils__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_carousel_intro
@@ -607,7 +607,7 @@ msgstr ""
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_empowerment
 msgid "Our services"
-msgstr ""
+msgstr "خدمات ما"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_key_benefits
@@ -742,7 +742,7 @@ msgstr ""
 #. module: theme_monglia
 #: model:ir.model,name:theme_monglia.model_theme_utils
 msgid "Theme Utils"
-msgstr ""
+msgstr "ابزارهای تم"
 
 #. module: theme_monglia
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_features_wall
@@ -889,3 +889,4 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_monglia.s_pricelist_boxed
 msgid "✽  Music Festivals"
 msgstr ""
+

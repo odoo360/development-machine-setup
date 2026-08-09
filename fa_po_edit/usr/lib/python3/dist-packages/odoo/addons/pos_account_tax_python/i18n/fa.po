@@ -19,14 +19,15 @@ msgstr ""
 #. module: pos_account_tax_python
 #: model:ir.model.fields,field_description:pos_account_tax_python.field_account_tax__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: pos_account_tax_python
 #: model:ir.model.fields,field_description:pos_account_tax_python.field_account_tax__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: pos_account_tax_python
 #: model:ir.model,name:pos_account_tax_python.model_account_tax
 msgid "Tax"
-msgstr ""
+msgstr "مالیات"
+

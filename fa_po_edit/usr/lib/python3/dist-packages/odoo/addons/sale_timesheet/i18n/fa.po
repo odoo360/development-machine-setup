@@ -278,7 +278,7 @@ msgstr ""
 #. module: sale_timesheet
 #: model:ir.model,name:sale_timesheet.model_account_move_reversal
 msgid "Account Move Reversal"
-msgstr ""
+msgstr "برگشت سند حسابداری"
 
 #. module: sale_timesheet
 #: model_terms:hr.job,website_description:sale_timesheet.job_engineer
@@ -883,7 +883,7 @@ msgstr "بدون اتلاف وقت در فرآیندهای سازمانی، مس
 #: model:ir.model.fields.selection,name:sale_timesheet.selection__timesheets_analysis_report__timesheet_invoice_type__non_billable
 #: model_terms:ir.ui.view,arch_db:sale_timesheet.timesheet_view_search
 msgid "Non-Billable"
-msgstr ""
+msgstr "غیرقابل پرداخت"
 
 #. module: sale_timesheet
 #: model_terms:ir.ui.view,arch_db:sale_timesheet.hr_timesheet_line_form_inherit
@@ -1628,7 +1628,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/sale_timesheet/models/sale_order_line.py:0
 msgid "remaining"
-msgstr ""
+msgstr "باقی مانده"
 
 #~ msgid " Candidate Orders"
 #~ msgstr " سفارشات کاندید"
@@ -1827,3 +1827,4 @@ msgstr ""
 
 #~ msgid "hours"
 #~ msgstr "ساعت"
+

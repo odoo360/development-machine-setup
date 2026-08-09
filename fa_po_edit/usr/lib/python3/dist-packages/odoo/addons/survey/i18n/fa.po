@@ -3917,7 +3917,7 @@ msgstr "نمایش تابلوی امتیازات دوره"
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_survey_view_search
 msgid "Show all records whose next activity date is past"
-msgstr ""
+msgstr "نمایش تمام رکوردهایی که تاریخ فعالیت بعدی آن‌ها گذشته است"
 
 #. module: survey
 #. odoo-python
@@ -4610,7 +4610,7 @@ msgstr ""
 #. module: survey
 #: model_terms:ir.ui.view,arch_db:survey.survey_question_form
 msgid "Time Limit (seconds)"
-msgstr ""
+msgstr "محدودیت زمانی (ثانیه)"
 
 #. module: survey
 #: model:ir.model.fields,field_description:survey.field_survey_survey__time_limit
@@ -5554,3 +5554,4 @@ msgstr ""
 
 #~ msgid "review your answers"
 #~ msgstr "مرور پاسخهای خودتان"
+

@@ -54,23 +54,23 @@ msgstr ""
 #. module: website_event_booth_exhibitor
 #: model_terms:ir.ui.view,arch_db:website_event_booth_exhibitor.event_booth_registration_details
 msgid "Description"
-msgstr ""
+msgstr "توصیف"
 
 #. module: website_event_booth_exhibitor
 #: model:ir.model.fields,field_description:website_event_booth_exhibitor.field_event_booth__display_name
 #: model:ir.model.fields,field_description:website_event_booth_exhibitor.field_event_booth_category__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: website_event_booth_exhibitor
 #: model:ir.model,name:website_event_booth_exhibitor.model_event_booth
 msgid "Event Booth"
-msgstr ""
+msgstr "غرفه‌های رویداد"
 
 #. module: website_event_booth_exhibitor
 #: model:ir.model,name:website_event_booth_exhibitor.model_event_booth_category
 msgid "Event Booth Category"
-msgstr ""
+msgstr "دسته‌بندی غرفه‌های رویداد"
 
 #. module: website_event_booth_exhibitor
 #: model_terms:ir.ui.view,arch_db:website_event_booth_exhibitor.event_booth_category_view_search
@@ -86,7 +86,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:website_event_booth_exhibitor.field_event_booth__id
 #: model:ir.model.fields,field_description:website_event_booth_exhibitor.field_event_booth_category__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: website_event_booth_exhibitor
 #: model:ir.model.fields,help:website_event_booth_exhibitor.field_event_booth__use_sponsor
@@ -97,12 +97,12 @@ msgstr ""
 #. module: website_event_booth_exhibitor
 #: model_terms:ir.ui.view,arch_db:website_event_booth_exhibitor.event_booth_registration_details
 msgid "Phone"
-msgstr ""
+msgstr "تلفن"
 
 #. module: website_event_booth_exhibitor
 #: model_terms:ir.ui.view,arch_db:website_event_booth_exhibitor.event_booth_registration_details
 msgid "Picture"
-msgstr ""
+msgstr "عکس"
 
 #. module: website_event_booth_exhibitor
 #: model_terms:ir.ui.view,arch_db:website_event_booth_exhibitor.event_booth_registration_details
@@ -165,3 +165,4 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:website_event_booth_exhibitor.event_booth_category_view_form
 msgid "Sponsorship"
 msgstr ""
+

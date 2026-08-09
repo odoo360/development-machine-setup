@@ -95,7 +95,7 @@ msgstr ""
 #. module: stock_delivery
 #: model:ir.model.fields,help:stock_delivery.field_stock_picking__integration_level
 msgid "Action while validating Delivery Orders"
-msgstr ""
+msgstr "عملیات در هنگام اعتبارسنجی درخواست های تحویل"
 
 #. module: stock_delivery
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_picking__allowed_carrier_ids
@@ -110,7 +110,7 @@ msgstr ""
 #. module: stock_delivery
 #: model_terms:ir.ui.view,arch_db:stock_delivery.view_picking_withcarrier_out_form
 msgid "Cancel"
-msgstr ""
+msgstr "لغو"
 
 #. module: stock_delivery
 #: model_terms:ir.ui.view,arch_db:stock_delivery.view_picking_withcarrier_out_form
@@ -125,7 +125,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_picking__carrier_id
 #: model_terms:ir.ui.view,arch_db:stock_delivery.stock_move_line_view_search_delivery
 msgid "Carrier"
-msgstr ""
+msgstr "پیک"
 
 #. module: stock_delivery
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_package_type__shipper_package_code
@@ -151,23 +151,23 @@ msgstr ""
 #. module: stock_delivery
 #: model:ir.model,name:stock_delivery.model_choose_delivery_carrier
 msgid "Delivery Carrier Selection Wizard"
-msgstr ""
+msgstr "راهنمای انتخاب حامل تحویل"
 
 #. module: stock_delivery
 #: model:ir.ui.menu,name:stock_delivery.menu_action_delivery_carrier_form
 msgid "Delivery Methods"
-msgstr ""
+msgstr "روش های تحویل"
 
 #. module: stock_delivery
 #: model_terms:ir.ui.view,arch_db:stock_delivery.vpicktree_view_tree
 msgid "Destination"
-msgstr ""
+msgstr "شرح"
 
 #. module: stock_delivery
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_move_line__destination_country_code
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_picking__destination_country_code
 msgid "Destination Country"
-msgstr ""
+msgstr "کشور مقصد"
 
 #. module: stock_delivery
 #: model:ir.model.fields,field_description:stock_delivery.field_choose_delivery_carrier__display_name
@@ -184,7 +184,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_return_picking__display_name
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_route__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: stock_delivery
 #: model:ir.actions.act_window,name:stock_delivery.act_delivery_trackers_url
@@ -199,6 +199,10 @@ msgid ""
 "Real Cost: the customer will be invoiced the real cost of the shipping, the "
 "cost of theshipping will be updated on the SO after the delivery."
 msgstr ""
+""
+"هزینه تخمینی: به مشتری هزینه تخمینی ارسال صورت‌حساب خواهد شد.\n"
+"هزینه واقعی: به مشتری هزینه واقعی ارسال صورت‌حساب خواهد شد و هزینه ارسال پس "
+"از تحویل در سفارش فروش به‌روزرسانی خواهد شد."
 
 #. module: stock_delivery
 #. odoo-python
@@ -210,7 +214,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/stock_delivery/models/stock_picking.py:0
 msgid "Exception:"
-msgstr ""
+msgstr "استثناء"
 
 #. module: stock_delivery
 #: model_terms:ir.ui.view,arch_db:stock_delivery.report_shipping2
@@ -240,22 +244,22 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_return_picking__id
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_route__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: stock_delivery
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_picking__integration_level
 msgid "Integration Level"
-msgstr ""
+msgstr "میزان ادغامها"
 
 #. module: stock_delivery
 #: model:ir.model,name:stock_delivery.model_stock_route
 msgid "Inventory Routes"
-msgstr ""
+msgstr "مسیرهای موجودی"
 
 #. module: stock_delivery
 #: model:ir.model.fields,field_description:stock_delivery.field_delivery_carrier__invoice_policy
 msgid "Invoicing Policy"
-msgstr ""
+msgstr "خط مشی صدور فاکتور"
 
 #. module: stock_delivery
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_picking__is_return_picking
@@ -276,7 +280,7 @@ msgstr ""
 #. module: stock_delivery
 #: model_terms:ir.ui.view,arch_db:stock_delivery.delivery_tracking_url_warning_form
 msgid "OK"
-msgstr ""
+msgstr "تأیید"
 
 #. module: stock_delivery
 #: model:ir.model.fields,field_description:stock_delivery.field_product_product__country_of_origin
@@ -287,7 +291,7 @@ msgstr ""
 #. module: stock_delivery
 #: model:ir.model,name:stock_delivery.model_stock_package
 msgid "Package"
-msgstr ""
+msgstr "پکیج"
 
 #. module: stock_delivery
 #. odoo-python
@@ -304,17 +308,17 @@ msgstr ""
 #. module: stock_delivery
 #: model:ir.model,name:stock_delivery.model_product_template
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 #. module: stock_delivery
 #: model:ir.model,name:stock_delivery.model_stock_move_line
 msgid "Product Moves (Stock Move Line)"
-msgstr ""
+msgstr "انتقال محصول (سطر انتقال کوجودی)"
 
 #. module: stock_delivery
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_picking__delivery_type
 msgid "Provider"
-msgstr ""
+msgstr "فراهم‌کننده"
 
 #. module: stock_delivery
 #: model:ir.model,name:stock_delivery.model_stock_put_in_pack
@@ -324,7 +328,7 @@ msgstr ""
 #. module: stock_delivery
 #: model:ir.model.fields.selection,name:stock_delivery.selection__delivery_carrier__invoice_policy__real
 msgid "Real cost"
-msgstr ""
+msgstr "قیمت واقعی"
 
 #. module: stock_delivery
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_picking__return_label_ids
@@ -334,13 +338,13 @@ msgstr ""
 #. module: stock_delivery
 #: model:ir.model,name:stock_delivery.model_stock_return_picking
 msgid "Return Picking"
-msgstr ""
+msgstr "برداشت بازگشت"
 
 #. module: stock_delivery
 #: model:ir.model.fields,field_description:stock_delivery.field_delivery_carrier__route_ids
 #: model_terms:ir.ui.view,arch_db:stock_delivery.view_delivery_carrier_form_inherit_stock_delivery
 msgid "Routes"
-msgstr ""
+msgstr "مسیرها"
 
 #. module: stock_delivery
 #: model:ir.model.fields,help:stock_delivery.field_product_product__country_of_origin
@@ -355,17 +359,17 @@ msgstr ""
 #. module: stock_delivery
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_move_line__sale_price
 msgid "Sale Price"
-msgstr ""
+msgstr "قیمت فروش"
 
 #. module: stock_delivery
 #: model:ir.model,name:stock_delivery.model_sale_order
 msgid "Sales Order"
-msgstr ""
+msgstr "سفارش فروش"
 
 #. module: stock_delivery
 #: model:ir.model,name:stock_delivery.model_sale_order_line
 msgid "Sales Order Line"
-msgstr ""
+msgstr "سطر سفارش‌فروش"
 
 #. module: stock_delivery
 #: model_terms:ir.ui.view,arch_db:stock_delivery.view_picking_withcarrier_out_form
@@ -388,18 +392,18 @@ msgstr ""
 #. module: stock_delivery
 #: model_terms:ir.ui.view,arch_db:stock_delivery.view_picking_withcarrier_out_form
 msgid "Shipping Information"
-msgstr ""
+msgstr "اطلاعات حمل و نقل"
 
 #. module: stock_delivery
 #: model:ir.model,name:stock_delivery.model_delivery_carrier
 #: model_terms:ir.ui.view,arch_db:stock_delivery.stock_location_route_view_form_inherit_stock_delivery
 msgid "Shipping Methods"
-msgstr ""
+msgstr "روش ارسال"
 
 #. module: stock_delivery
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_put_in_pack__shipping_weight
 msgid "Shipping Weight"
-msgstr ""
+msgstr "وزن ارسال"
 
 #. module: stock_delivery
 #: model_terms:ir.ui.view,arch_db:stock_delivery.report_package_barcode_small_delivery
@@ -415,12 +419,12 @@ msgstr ""
 #. module: stock_delivery
 #: model:ir.model,name:stock_delivery.model_stock_move
 msgid "Stock Move"
-msgstr ""
+msgstr "انتقال موجودی"
 
 #. module: stock_delivery
 #: model:ir.model,name:stock_delivery.model_stock_package_type
 msgid "Stock package type"
-msgstr ""
+msgstr "نوع بسته بندی موجودی"
 
 #. module: stock_delivery
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_package__weight_uom_rounding
@@ -439,6 +443,9 @@ msgid ""
 "The ISO country code in two chars. \n"
 "You can use this field for quick search."
 msgstr ""
+""
+"کد کشور ISO در دو کاراکتر.\n"
+"می توانید از این قسمت برای جستجوی سریع استفاده کنید."
 
 #. module: stock_delivery
 #. odoo-python
@@ -494,7 +501,7 @@ msgstr ""
 #. module: stock_delivery
 #: model_terms:ir.ui.view,arch_db:stock_delivery.view_picking_withcarrier_out_form
 msgid "Tracking"
-msgstr ""
+msgstr "ره گیری"
 
 #. module: stock_delivery
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_picking__carrier_tracking_ref
@@ -520,7 +527,7 @@ msgstr ""
 #. module: stock_delivery
 #: model:ir.model,name:stock_delivery.model_stock_picking
 msgid "Transfer"
-msgstr ""
+msgstr "انتقال"
 
 #. module: stock_delivery
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_move__weight
@@ -528,19 +535,19 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_picking__weight
 #: model_terms:ir.ui.view,arch_db:stock_delivery.view_picking_withcarrier_out_form
 msgid "Weight"
-msgstr ""
+msgstr "وزن"
 
 #. module: stock_delivery
 #: model_terms:ir.ui.view,arch_db:stock_delivery.view_picking_withcarrier_out_form
 msgid "Weight for shipping"
-msgstr ""
+msgstr "وزن برای حمل و نقل"
 
 #. module: stock_delivery
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_package__weight_uom_name
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_picking__weight_uom_name
 #: model:ir.model.fields,field_description:stock_delivery.field_stock_put_in_pack__weight_uom_name
 msgid "Weight unit of measure label"
-msgstr ""
+msgstr "برچسب واحد اندازه گیری وزن"
 
 #. module: stock_delivery
 #: model_terms:ir.ui.view,arch_db:stock_delivery.report_package_barcode_small_delivery
@@ -572,7 +579,7 @@ msgstr ""
 #. module: stock_delivery
 #: model:ir.ui.menu,name:stock_delivery.menu_delivery_zip_prefix
 msgid "Zip Prefix"
-msgstr ""
+msgstr "پیشوند زیپ"
 
 #. module: stock_delivery
 #: model_terms:ir.ui.view,arch_db:stock_delivery.label_package_template_view_delivery
@@ -604,4 +611,5 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:stock_delivery.label_package_template_view_delivery
 #: model_terms:ir.ui.view,arch_db:stock_delivery.normal_zpl_label
 msgid "^FS"
-msgstr ""
+msgstr "متن اصلی:"
+

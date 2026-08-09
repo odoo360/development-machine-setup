@@ -19,14 +19,15 @@ msgstr ""
 #. module: sale_service
 #: model:ir.model.fields,field_description:sale_service.field_sale_order_line__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: sale_service
 #: model:ir.model.fields,field_description:sale_service.field_sale_order_line__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: sale_service
 #: model:ir.model,name:sale_service.model_sale_order_line
 msgid "Sales Order Line"
-msgstr ""
+msgstr "سطر سفارش‌فروش"
+

@@ -982,7 +982,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/hr_attendance/static/src/components/greetings/greetings.xml:0
 msgid "Extra hours"
-msgstr ""
+msgstr "ساعات اضافه"
 
 #. module: hr_attendance
 #. odoo-javascript
@@ -1314,7 +1314,7 @@ msgstr "بارگیری داده های نمایشی"
 #. odoo-javascript
 #: code:addons/hr_attendance/static/src/views/attendance_helper_view.xml:0
 msgid "Load sample data"
-msgstr ""
+msgstr "بارگذاری داده‌های نمونه"
 
 #. module: hr_attendance
 #: model_terms:ir.ui.view,arch_db:hr_attendance.view_attendance_tree
@@ -2545,3 +2545,4 @@ msgstr ""
 
 #~ msgid "Wrong PIN"
 #~ msgstr "پین‌کد اشتباه"
+

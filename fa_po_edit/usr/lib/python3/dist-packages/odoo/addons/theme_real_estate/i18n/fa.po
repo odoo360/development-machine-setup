@@ -165,7 +165,7 @@ msgstr ""
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_cta_box
 msgid "Contact us"
-msgstr ""
+msgstr "تماس با ما"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_cards_grid
@@ -250,7 +250,7 @@ msgstr ""
 #. module: theme_real_estate
 #: model:ir.model.fields,field_description:theme_real_estate.field_theme_utils__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_key_images
@@ -464,7 +464,7 @@ msgstr ""
 #. module: theme_real_estate
 #: model:ir.model.fields,field_description:theme_real_estate.field_theme_utils__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_cards_grid
@@ -588,7 +588,7 @@ msgstr ""
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_quadrant
 msgid "Real Estate"
-msgstr ""
+msgstr "مشاور املاک"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_pricelist_boxed
@@ -708,7 +708,7 @@ msgstr ""
 #. module: theme_real_estate
 #: model:ir.model,name:theme_real_estate.model_theme_utils
 msgid "Theme Utils"
-msgstr ""
+msgstr "ابزارهای تم"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_image_title
@@ -728,7 +728,7 @@ msgstr ""
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_three_columns
 msgid "View details"
-msgstr ""
+msgstr "مشاهده جزئیات"
 
 #. module: theme_real_estate
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_empowerment
@@ -864,3 +864,4 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_real_estate.s_pricelist_boxed
 msgid "✽  Real Estate Consulting"
 msgstr ""
+

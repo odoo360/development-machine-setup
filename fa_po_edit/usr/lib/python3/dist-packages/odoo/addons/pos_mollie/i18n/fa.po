@@ -19,7 +19,7 @@ msgstr ""
 #. module: pos_mollie
 #: model:ir.model.fields,field_description:pos_mollie.field_pos_payment_method__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: pos_mollie
 #. odoo-javascript
@@ -36,7 +36,7 @@ msgstr ""
 #. module: pos_mollie
 #: model:ir.model.fields,field_description:pos_mollie.field_pos_payment_method__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: pos_mollie
 #. odoo-javascript
@@ -65,7 +65,7 @@ msgstr ""
 #. module: pos_mollie
 #: model:ir.model,name:pos_mollie.model_pos_payment_method
 msgid "Point of Sale Payment Methods"
-msgstr ""
+msgstr "روش های پرداخت پایانه فروش"
 
 #. module: pos_mollie
 #. odoo-javascript
@@ -84,3 +84,4 @@ msgstr ""
 #: code:addons/pos_mollie/static/src/payment_mollie.js:0
 msgid "You can only refund an order that was paid for with Mollie."
 msgstr ""
+

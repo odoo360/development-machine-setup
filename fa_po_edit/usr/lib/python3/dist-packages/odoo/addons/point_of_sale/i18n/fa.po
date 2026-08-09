@@ -1280,13 +1280,13 @@ msgstr "شناسه نشان"
 #. module: point_of_sale
 #: model:product.template,name:point_of_sale.product_bagel_product_template
 msgid "Bagel"
-msgstr ""
+msgstr "کیک حلقه‌ای"
 
 #. module: point_of_sale
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/backend/pos_kanban_view/pos_kanban_view.js:0
 msgid "Bakery"
-msgstr ""
+msgstr "نان پزی"
 
 #. module: point_of_sale
 #. odoo-python
@@ -1484,7 +1484,7 @@ msgstr "نقد"
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/app/store/order_change_receipt_template.xml:0
 msgid "CUSTOMER NOTE"
-msgstr ""
+msgstr "یادداشت مشتری"
 
 #. module: point_of_sale
 #. odoo-javascript
@@ -1663,7 +1663,7 @@ msgstr "پول نقد ورودی"
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/app/components/popups/closing_popup/closing_popup.xml:0
 msgid "Cash In / Out"
-msgstr ""
+msgstr "ورود / خروج نقدی"
 
 #. module: point_of_sale
 #. odoo-javascript
@@ -2292,7 +2292,7 @@ msgstr "پیکربندی &gt; تنظیمات"
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.view_pos_config_kanban
 msgid "Configure"
-msgstr ""
+msgstr "پیکربندی"
 
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.res_config_settings_view_form
@@ -2525,7 +2525,7 @@ msgstr "ایجاد"
 #: code:addons/point_of_sale/models/pos_order.py:0
 #: code:addons/point_of_sale/wizard/pos_confirmation_wizard.py:0
 msgid "Create Invoice(s)"
-msgstr ""
+msgstr "ایجاد فاکتور(ها)"
 
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.view_pos_order_tree
@@ -2855,7 +2855,7 @@ msgstr "روزنامه های پیش‌فرض"
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.res_config_settings_view_form
 msgid "Default POS Receivable Account"
-msgstr ""
+msgstr "حساب پیش‌فرض پایانه فروش"
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config__default_preset_id
@@ -3283,7 +3283,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/app/utils/debug/debug_widget.xml:0
 msgid "Download Logs"
-msgstr ""
+msgstr "دانلود گزارش‌ها"
 
 #. module: point_of_sale
 #. odoo-javascript
@@ -3295,7 +3295,7 @@ msgstr "دانلود یک گزارش با تمامی فروش‌های جلسه 
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/app/utils/debug/debug_widget.xml:0
 msgid "Download logs"
-msgstr ""
+msgstr "دانلود گزارش‌ها"
 
 #. module: point_of_sale
 #. odoo-javascript
@@ -3532,7 +3532,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/app/utils/debug/debug_widget.xml:0
 msgid "Export data"
-msgstr ""
+msgstr "خروجی داده"
 
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.view_pos_pos_form
@@ -4096,7 +4096,7 @@ msgstr "شناسه"
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/app/store/order_change_receipt_template.xml:0
 msgid "INTERNAL NOTE"
-msgstr ""
+msgstr "یادداشت داخلی"
 
 #. module: point_of_sale
 #: model:ir.model.fields,field_description:point_of_sale.field_pos_config__proxy_ip
@@ -4976,7 +4976,7 @@ msgstr "نام سری ساخت"
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/app/components/popups/select_lot_popup/select_lot_popup.xml:0
 msgid "Lot/Serial number"
-msgstr ""
+msgstr "سری ساخت/شماره سریال"
 
 #. module: point_of_sale
 #. odoo-javascript
@@ -5786,7 +5786,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/app/components/loader/critical_pos_error/critical_pos_error.xml:0
 msgid "Oops!"
-msgstr ""
+msgstr "اوه!"
 
 #. module: point_of_sale
 #. odoo-javascript
@@ -6161,7 +6161,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:point_of_sale.field_account_bank_statement_line__pos_order_count
 #: model:ir.model.fields,field_description:point_of_sale.field_account_move__pos_order_count
 msgid "POS Order Count"
-msgstr ""
+msgstr "تعداد سفارش Pos"
 
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.view_pos_order_line_form
@@ -6221,7 +6221,7 @@ msgstr "جلسه POS"
 #: model:ir.model.fields,field_description:point_of_sale.field_account_bank_statement_line__pos_session_ids
 #: model:ir.model.fields,field_description:point_of_sale.field_account_move__pos_session_ids
 msgid "POS Sessions"
-msgstr ""
+msgstr "جلسات Pos"
 
 #. module: point_of_sale
 #. odoo-python
@@ -6650,7 +6650,7 @@ msgstr ""
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.view_pos_preset_form
 msgid "PoS Config"
-msgstr ""
+msgstr "پیکربندی Pos"
 
 #. module: point_of_sale
 #. odoo-javascript
@@ -7293,7 +7293,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/app/screens/feedback_screen/feedback_screen.xml:0
 msgid "Processing..."
-msgstr ""
+msgstr "درحال پردازش ..."
 
 #. module: point_of_sale
 #: model:ir.model,name:point_of_sale.model_product_template
@@ -7517,7 +7517,7 @@ msgstr ""
 #. module: point_of_sale
 #: model:ir.model.fields.selection,name:point_of_sale.selection__res_company__point_of_sale_ticket_portal_url_display_mode__qr_code
 msgid "QR code"
-msgstr ""
+msgstr "کد QR"
 
 #. module: point_of_sale
 #: model:ir.model.fields.selection,name:point_of_sale.selection__res_company__point_of_sale_ticket_portal_url_display_mode__qr_code_and_url
@@ -7772,7 +7772,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/app/models/utils/indexed_db.js:0
 msgid "Reload"
-msgstr ""
+msgstr "بارگذاری مجدد"
 
 #. module: point_of_sale
 #. odoo-javascript
@@ -8540,7 +8540,7 @@ msgstr "نمایش تصاویر محصولات"
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.res_config_settings_view_form
 msgid "Show category images"
-msgstr ""
+msgstr "نمایش تصاویر دسته‌بندی"
 
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config__show_category_images
@@ -8573,7 +8573,7 @@ msgstr "نمایش حاشیه‌ها و هزینه‌ها بر روی اطلاع
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.res_config_settings_view_form
 msgid "Show product images"
-msgstr ""
+msgstr "نمایش تصاویر محصولات"
 
 #. module: point_of_sale
 #: model:ir.model.fields,help:point_of_sale.field_pos_config__show_product_images
@@ -10417,7 +10417,7 @@ msgstr ""
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.product_combo_view_form
 msgid "Visible to all"
-msgstr ""
+msgstr "قابل‌مشاهده برای همه"
 
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.res_config_settings_view_form
@@ -10930,7 +10930,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/backend/lna_checklist/lna_checklist.xml:0
 msgid "access"
-msgstr ""
+msgstr "دسترسی"
 
 #. module: point_of_sale
 #: model_terms:ir.ui.view,arch_db:point_of_sale.product_pos_category_form_view
@@ -11101,7 +11101,7 @@ msgstr ""
 #: code:addons/point_of_sale/models/pos_order.py:0
 #: code:addons/point_of_sale/models/pos_session.py:0
 msgid "id"
-msgstr ""
+msgstr "شناسه"
 
 #. module: point_of_sale
 #. odoo-javascript
@@ -11113,7 +11113,7 @@ msgstr "در"
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/app/screens/receipt_screen/receipt_screen.xml:0
 msgid "in progress"
-msgstr ""
+msgstr "در جریان"
 
 #. module: point_of_sale
 #. odoo-javascript
@@ -11125,7 +11125,7 @@ msgstr "در این دسته‌بندی."
 #. odoo-javascript
 #: code:addons/point_of_sale/static/src/app/components/popups/combo_configurator_popup/combo_configurator_popup.xml:0
 msgid "included"
-msgstr ""
+msgstr "شامل"
 
 #. module: point_of_sale
 #. odoo-javascript
@@ -11978,3 +11978,4 @@ msgstr ""
 
 #~ msgid "were duplicates of existing orders"
 #~ msgstr "تکثیر شده از سفارشات موجود"
+

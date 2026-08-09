@@ -2428,7 +2428,7 @@ msgstr ""
 #. module: hr_skills
 #: model_terms:ir.ui.view,arch_db:hr_skills.employee_skill_view_form
 msgid "indefinite"
-msgstr ""
+msgstr "نامحدود"
 
 #. module: hr_skills
 #: model_terms:ir.ui.view,arch_db:hr_skills.report_employee_cv_sidepanel
@@ -2452,3 +2452,4 @@ msgstr ""
 
 #~ msgid "%s (copy)"
 #~ msgstr "%s (کپی)"
+

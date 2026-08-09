@@ -46,7 +46,7 @@ msgstr "کانال گفتگو"
 #: model:ir.model.fields,field_description:mail_bot.field_mail_bot__display_name
 #: model:ir.model.fields,field_description:mail_bot.field_res_users__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: mail_bot
 #. odoo-python
@@ -96,7 +96,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:mail_bot.field_mail_bot__id
 #: model:ir.model.fields,field_description:mail_bot.field_res_users__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: mail_bot
 #: model:ir.model.fields.selection,name:mail_bot.selection__res_users__odoobot_state__idle
@@ -203,7 +203,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/mail_bot/models/mail_bot.py:0
 msgid "Thanks"
-msgstr ""
+msgstr "متشکرم"
 
 #. module: mail_bot
 #. odoo-python
@@ -302,7 +302,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/mail_bot/models/mail_bot.py:0
 msgid "help"
-msgstr ""
+msgstr "راهنما"
 
 #. module: mail_bot
 #. odoo-python
@@ -314,7 +314,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/mail_bot/models/mail_bot.py:0
 msgid "love"
-msgstr ""
+msgstr "عشق"
 
 #. module: mail_bot
 #. odoo-python
@@ -361,3 +361,4 @@ msgstr ""
 #~ msgstr ""
 #~ "بله! من اینجام. 🎉 حالا بیا <b>یک فایل ارسال کن</b>، مثل یه عکس از حیوون "
 #~ "خونگی بامزه‌ات ..."
+

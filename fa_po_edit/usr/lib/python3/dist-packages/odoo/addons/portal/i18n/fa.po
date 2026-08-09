@@ -299,7 +299,7 @@ msgstr "آواتار"
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.address_card
 msgid "Billing Address"
-msgstr ""
+msgstr "آدرس صورت‌حساب"
 
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.address_management
@@ -1541,3 +1541,4 @@ msgstr ""
 
 #~ msgid "comments"
 #~ msgstr "کامنتها"
+

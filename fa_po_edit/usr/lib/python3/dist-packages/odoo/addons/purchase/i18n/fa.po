@@ -359,7 +359,7 @@ msgstr "<strong class=\"d-block mb-1\">فاکتورها</strong>"
 #: model_terms:ir.ui.view,arch_db:purchase.report_purchaseorder_document
 #: model_terms:ir.ui.view,arch_db:purchase.report_purchasequotation_document
 msgid "<strong class=\"d-block mt-3\">Shipping address</strong>"
-msgstr ""
+msgstr "<strong class=\"d-block mt-3\">آدرس حمل و نقل</strong>"
 
 #. module: purchase
 #: model_terms:ir.ui.view,arch_db:purchase.purchase_order_portal_content
@@ -531,7 +531,7 @@ msgstr "فعالیت ها"
 #. module: purchase
 #: model_terms:ir.ui.view,arch_db:purchase.purchase_order_view_search
 msgid "Activities of"
-msgstr ""
+msgstr "فعالیت‌های"
 
 #. module: purchase
 #: model:ir.model.fields,field_description:purchase.field_purchase_order__activity_exception_decoration
@@ -1132,7 +1132,7 @@ msgstr "روز برای تایید"
 #. odoo-javascript
 #: code:addons/purchase/static/src/views/purchase_dashboard.xml:0
 msgid "Days to Order"
-msgstr ""
+msgstr "تعداد روز برای سفارش"
 
 #. module: purchase
 #: model:ir.model.fields,field_description:purchase.field_purchase_report__delay_pass
@@ -2520,7 +2520,7 @@ msgstr "تعداد برای صورتحساب شدن"
 #. module: purchase
 #: model:ir.model.fields,field_description:purchase.field_purchase_bill_line_match__qty_to_invoice
 msgid "Qty to invoice"
-msgstr ""
+msgstr "تعداد قابل فاکتور"
 
 #. module: purchase
 #: model:ir.model.fields,field_description:purchase.field_purchase_order_line__product_qty
@@ -2878,7 +2878,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:purchase.purchase_order_view_search
 #: model_terms:ir.ui.view,arch_db:purchase.view_purchase_order_filter
 msgid "Show all records whose next activity date is past"
-msgstr ""
+msgstr "نمایش تمام رکوردهایی که تاریخ فعالیت بعدی آن‌ها گذشته است"
 
 #. module: purchase
 #. odoo-python
@@ -3221,7 +3221,7 @@ msgstr "مبلغ کل"
 #. module: purchase
 #: model:ir.model.fields,field_description:purchase.field_purchase_order__amount_total_cc
 msgid "Total in currency"
-msgstr ""
+msgstr "پول کل به ارز"
 
 #. module: purchase
 #: model_terms:ir.ui.view,arch_db:purchase.purchase_history_pivot
@@ -3290,7 +3290,7 @@ msgstr "قیمت واحد:"
 #: model:ir.ui.menu,name:purchase.menu_purchase_uom_form_action
 #: model_terms:ir.ui.view,arch_db:purchase.res_config_settings_view_form_purchase
 msgid "Units & Packagings"
-msgstr ""
+msgstr "واحدها و بسته‌بندی ها"
 
 #. module: purchase
 #: model_terms:ir.ui.view,arch_db:purchase.purchase_order_form
@@ -3622,7 +3622,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/purchase/controllers/portal.py:0
 msgid "state"
-msgstr ""
+msgstr "استان"
 
 #. module: purchase
 #: model_terms:ir.ui.view,arch_db:purchase.report_purchaseorder_document
@@ -3981,3 +3981,4 @@ msgstr ""
 
 #~ msgid "close"
 #~ msgstr "بستن"
+

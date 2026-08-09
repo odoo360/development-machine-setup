@@ -35,7 +35,7 @@ msgstr ""
 #. module: pos_qfpay
 #: model:ir.model.fields,field_description:pos_qfpay.field_pos_payment_method__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: pos_qfpay
 #: model:ir.model.fields.selection,name:pos_qfpay.selection__pos_payment_method__qfpay_payment_type__fps
@@ -53,7 +53,7 @@ msgstr ""
 #. module: pos_qfpay
 #: model:ir.model.fields,field_description:pos_qfpay.field_pos_payment_method__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: pos_qfpay
 #. odoo-javascript
@@ -64,7 +64,7 @@ msgstr ""
 #. module: pos_qfpay
 #: model:ir.model.fields.selection,name:pos_qfpay.selection__pos_payment_method__qfpay_payment_type__octopus
 msgid "Octopus"
-msgstr ""
+msgstr "اختاپوس"
 
 #. module: pos_qfpay
 #: model:ir.model.fields.selection,name:pos_qfpay.selection__pos_payment_method__qfpay_payment_type__payme
@@ -74,7 +74,7 @@ msgstr ""
 #. module: pos_qfpay
 #: model:ir.model,name:pos_qfpay.model_pos_payment_method
 msgid "Point of Sale Payment Methods"
-msgstr ""
+msgstr "روش های پرداخت پایانه فروش"
 
 #. module: pos_qfpay
 #. odoo-javascript
@@ -165,3 +165,4 @@ msgstr ""
 #: model:ir.model.fields.selection,name:pos_qfpay.selection__pos_payment_method__qfpay_payment_type__wx
 msgid "WeChat Pay"
 msgstr ""
+

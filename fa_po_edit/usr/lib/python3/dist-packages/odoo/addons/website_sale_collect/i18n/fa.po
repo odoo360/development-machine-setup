@@ -39,7 +39,7 @@ msgstr ""
 #: code:addons/website_sale_collect/static/src/js/click_and_collect_availability/click_and_collect_availability.xml:0
 #: code:addons/website_sale_collect/static/src/js/location_selector/location/location.xml:0
 msgid "Available"
-msgstr ""
+msgstr "در دسترس"
 
 #. module: website_sale_collect
 #. odoo-javascript
@@ -56,7 +56,7 @@ msgstr ""
 #. module: website_sale_collect
 #: model:ir.model,name:website_sale_collect.model_res_config_settings
 msgid "Config Settings"
-msgstr ""
+msgstr "تنظیمات پیکربندی"
 
 #. module: website_sale_collect
 #: model_terms:ir.ui.view,arch_db:website_sale_collect.res_config_settings_form
@@ -67,29 +67,29 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website_sale_collect/static/src/interactions/checkout.js:0
 msgid "Contact Details"
-msgstr ""
+msgstr "جزییات تماس"
 
 #. module: website_sale_collect
 #: model:ir.model.fields,field_description:website_sale_collect.field_payment_provider__custom_mode
 msgid "Custom Mode"
-msgstr ""
+msgstr "حالت سفارشی"
 
 #. module: website_sale_collect
 #. odoo-javascript
 #: code:addons/website_sale_collect/static/src/js/click_and_collect_availability/click_and_collect_availability.xml:0
 msgid "Delivery"
-msgstr ""
+msgstr "تحویل"
 
 #. module: website_sale_collect
 #. odoo-python
 #: code:addons/website_sale_collect/models/res_config_settings.py:0
 msgid "Delivery Methods"
-msgstr ""
+msgstr "روش های تحویل"
 
 #. module: website_sale_collect
 #: model_terms:ir.ui.view,arch_db:website_sale_collect.in_store_delivery_method
 msgid "Delivery method"
-msgstr ""
+msgstr "روش تحویل"
 
 #. module: website_sale_collect
 #: model:ir.model.fields,field_description:website_sale_collect.field_delivery_carrier__display_name
@@ -101,7 +101,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:website_sale_collect.field_stock_warehouse__display_name
 #: model:ir.model.fields,field_description:website_sale_collect.field_website__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: website_sale_collect
 #: model:ir.model.fields,field_description:website_sale_collect.field_delivery_carrier__id
@@ -113,7 +113,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:website_sale_collect.field_stock_warehouse__id
 #: model:ir.model.fields,field_description:website_sale_collect.field_website__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: website_sale_collect
 #: model:ir.model.fields,field_description:website_sale_collect.field_website__in_store_dm_id
@@ -124,25 +124,25 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website_sale_collect/static/src/js/click_and_collect_availability/click_and_collect_availability.xml:0
 msgid "Not available"
-msgstr ""
+msgstr "در دسترس نیست"
 
 #. module: website_sale_collect
 #. odoo-javascript
 #: code:addons/website_sale_collect/static/src/js/click_and_collect_availability/click_and_collect_availability.xml:0
 #: code:addons/website_sale_collect/static/src/js/location_selector/location/location.xml:0
 msgid "Only"
-msgstr ""
+msgstr "تنها"
 
 #. module: website_sale_collect
 #: model:ir.model.fields,field_description:website_sale_collect.field_stock_warehouse__opening_hours
 msgid "Opening Hours"
-msgstr ""
+msgstr "ساعات فعالیت"
 
 #. module: website_sale_collect
 #. odoo-javascript
 #: code:addons/website_sale_collect/static/src/js/location_selector/location/location.xml:0
 msgid "Out of stock"
-msgstr ""
+msgstr "ناموجود"
 
 #. module: website_sale_collect
 #: model:payment.provider,name:website_sale_collect.payment_provider_on_site
@@ -158,12 +158,12 @@ msgstr ""
 #. module: website_sale_collect
 #: model:ir.model,name:website_sale_collect.model_payment_provider
 msgid "Payment Provider"
-msgstr ""
+msgstr "سرویس دهنده پرداخت"
 
 #. module: website_sale_collect
 #: model:ir.model,name:website_sale_collect.model_payment_transaction
 msgid "Payment Transaction"
-msgstr ""
+msgstr "تراکنش پرداخت"
 
 #. module: website_sale_collect
 #: model:delivery.carrier,name:website_sale_collect.carrier_pick_up_in_store
@@ -181,17 +181,17 @@ msgstr ""
 #. module: website_sale_collect
 #: model:ir.model,name:website_sale_collect.model_product_template
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 #. module: website_sale_collect
 #: model:ir.model.fields,field_description:website_sale_collect.field_delivery_carrier__delivery_type
 msgid "Provider"
-msgstr ""
+msgstr "فراهم‌کننده"
 
 #. module: website_sale_collect
 #: model_terms:ir.ui.view,arch_db:website_sale_collect.unavailable_products_warning
 msgid "Remove"
-msgstr ""
+msgstr "حذف"
 
 #. module: website_sale_collect
 #. odoo-javascript
@@ -202,7 +202,7 @@ msgstr ""
 #. module: website_sale_collect
 #: model:ir.model,name:website_sale_collect.model_sale_order
 msgid "Sales Order"
-msgstr ""
+msgstr "سفارش فروش"
 
 #. module: website_sale_collect
 #. odoo-javascript
@@ -219,7 +219,7 @@ msgstr ""
 #. module: website_sale_collect
 #: model:ir.model,name:website_sale_collect.model_delivery_carrier
 msgid "Shipping Methods"
-msgstr ""
+msgstr "روش ارسال"
 
 #. module: website_sale_collect
 #: model_terms:ir.ui.view,arch_db:website_sale_collect.unavailable_products_warning
@@ -237,7 +237,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/website_sale_collect/controllers/main.py:0
 msgid "Sorry, we are unable to ship your order."
-msgstr ""
+msgstr "با عرض پوزش، ما نمی توانیم سفارش شما را ارسال کنیم"
 
 #. module: website_sale_collect
 #: model:ir.model.fields,field_description:website_sale_collect.field_delivery_carrier__warehouse_ids
@@ -270,12 +270,12 @@ msgstr ""
 #. module: website_sale_collect
 #: model:ir.model,name:website_sale_collect.model_stock_warehouse
 msgid "Warehouse"
-msgstr ""
+msgstr "انبار"
 
 #. module: website_sale_collect
 #: model:ir.model,name:website_sale_collect.model_website
 msgid "Website"
-msgstr ""
+msgstr "تارنما"
 
 #. module: website_sale_collect
 #. odoo-python
@@ -287,12 +287,12 @@ msgstr ""
 #. module: website_sale_collect
 #: model_terms:payment.provider,auth_msg:website_sale_collect.payment_provider_on_site
 msgid "Your payment has been authorized."
-msgstr ""
+msgstr "این پرداخت مجاز است."
 
 #. module: website_sale_collect
 #: model_terms:payment.provider,cancel_msg:website_sale_collect.payment_provider_on_site
 msgid "Your payment has been cancelled."
-msgstr ""
+msgstr "پرداخت شما لغو شده است."
 
 #. module: website_sale_collect
 #: model_terms:payment.provider,done_msg:website_sale_collect.payment_provider_on_site
@@ -304,10 +304,11 @@ msgstr ""
 #: code:addons/website_sale_collect/static/src/js/click_and_collect_availability/click_and_collect_availability.xml:0
 #: code:addons/website_sale_collect/static/src/js/location_selector/location/location.xml:0
 msgid "available"
-msgstr ""
+msgstr "در دسترس"
 
 #. module: website_sale_collect
 #. odoo-python
 #: code:addons/website_sale_collect/models/payment_provider.py:0
 msgid "no in-store delivery methods available"
 msgstr ""
+

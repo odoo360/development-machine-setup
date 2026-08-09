@@ -63,7 +63,7 @@ msgstr "فعال"
 #. module: account_test
 #: model_terms:ir.ui.view,arch_db:account_test.accounting_assert_test_view_search
 msgid "Archived"
-msgstr ""
+msgstr "بایگانی شده"
 
 #. module: account_test
 #: model:accounting.assert.test,desc:account_test.account_test_03
@@ -182,7 +182,7 @@ msgstr "آخرین به روز رسانی در"
 #. module: account_test
 #: model_terms:ir.ui.view,arch_db:account_test.accounting_assert_test_view_search
 msgid "Name"
-msgstr ""
+msgstr "نام"
 
 #. module: account_test
 #: model_terms:ir.ui.view,arch_db:account_test.account_assert_form
@@ -254,3 +254,4 @@ msgstr "آزمونها"
 #: code:addons/account_test/report/report_account_test.py:0
 msgid "The test was passed successfully"
 msgstr "آزمایش با موفقت قبول شد"
+

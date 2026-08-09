@@ -35,7 +35,7 @@ msgstr ""
 #. module: pos_razorpay
 #: model:ir.model.fields.selection,name:pos_razorpay.selection__pos_payment_method__razorpay_allowed_payment_modes__all
 msgid "All"
-msgstr ""
+msgstr "همه"
 
 #. module: pos_razorpay
 #: model:ir.model.fields.selection,name:pos_razorpay.selection__pos_payment_method__razorpay_allowed_payment_modes__bharatqr
@@ -57,7 +57,7 @@ msgstr ""
 #. module: pos_razorpay
 #: model:ir.model.fields.selection,name:pos_razorpay.selection__pos_payment_method__razorpay_allowed_payment_modes__card
 msgid "Card"
-msgstr ""
+msgstr "کارت"
 
 #. module: pos_razorpay
 #: model:ir.model.fields,help:pos_razorpay.field_pos_payment_method__razorpay_allowed_payment_modes
@@ -85,13 +85,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:pos_razorpay.field_pos_payment__display_name
 #: model:ir.model.fields,field_description:pos_razorpay.field_pos_payment_method__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: pos_razorpay
 #: model:ir.model.fields,field_description:pos_razorpay.field_pos_payment__id
 #: model:ir.model.fields,field_description:pos_razorpay.field_pos_payment_method__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: pos_razorpay
 #. odoo-javascript
@@ -104,12 +104,12 @@ msgstr ""
 #. module: pos_razorpay
 #: model:ir.model,name:pos_razorpay.model_pos_payment_method
 msgid "Point of Sale Payment Methods"
-msgstr ""
+msgstr "روش های پرداخت پایانه فروش"
 
 #. module: pos_razorpay
 #: model:ir.model,name:pos_razorpay.model_pos_payment
 msgid "Point of Sale Payments"
-msgstr ""
+msgstr "پرداخت های پایانه فروش"
 
 #. module: pos_razorpay
 #: model:ir.model.fields,field_description:pos_razorpay.field_pos_payment_method__razorpay_api_key
@@ -256,3 +256,4 @@ msgid ""
 "Username(Device Login) \n"
 " ex: 1234500121"
 msgstr ""
+

@@ -63,7 +63,7 @@ msgstr ""
 #. module: theme_graphene
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_cover
 msgid "Contact us"
-msgstr ""
+msgstr "تماس با ما"
 
 #. module: theme_graphene
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_empowerment
@@ -95,7 +95,7 @@ msgstr ""
 #. module: theme_graphene
 #: model:ir.model.fields,field_description:theme_graphene.field_theme_utils__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: theme_graphene
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_key_images
@@ -186,7 +186,7 @@ msgstr ""
 #. module: theme_graphene
 #: model:ir.model.fields,field_description:theme_graphene.field_theme_utils__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: theme_graphene
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_pricelist_boxed
@@ -246,7 +246,7 @@ msgstr ""
 #. module: theme_graphene
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_empowerment
 msgid "Our services"
-msgstr ""
+msgstr "خدمات ما"
 
 #. module: theme_graphene
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_key_benefits
@@ -377,7 +377,7 @@ msgstr ""
 #. module: theme_graphene
 #: model:ir.model,name:theme_graphene.model_theme_utils
 msgid "Theme Utils"
-msgstr ""
+msgstr "ابزارهای تم"
 
 #. module: theme_graphene
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_text_image
@@ -424,3 +424,4 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_graphene.s_pricelist_boxed
 msgid "✽  Technology Solutions"
 msgstr ""
+

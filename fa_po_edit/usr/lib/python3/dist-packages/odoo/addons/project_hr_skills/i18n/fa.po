@@ -19,21 +19,21 @@ msgstr ""
 #. module: project_hr_skills
 #: model:ir.model,website_form_label:project_hr_skills.model_project_task
 msgid "Create a Task"
-msgstr ""
+msgstr "یک وظیفه ایجاد کنید"
 
 #. module: project_hr_skills
 #: model:ir.model.fields,field_description:project_hr_skills.field_project_task__display_name
 #: model:ir.model.fields,field_description:project_hr_skills.field_report_project_task_user__display_name
 #: model:ir.model.fields,field_description:project_hr_skills.field_res_users__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: project_hr_skills
 #: model:ir.model.fields,field_description:project_hr_skills.field_project_task__id
 #: model:ir.model.fields,field_description:project_hr_skills.field_report_project_task_user__id
 #: model:ir.model.fields,field_description:project_hr_skills.field_res_users__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: project_hr_skills
 #: model:ir.model.fields,field_description:project_hr_skills.field_project_task__user_skill_ids
@@ -41,17 +41,17 @@ msgstr ""
 #: model:ir.model.fields,field_description:project_hr_skills.field_res_users__employee_skill_ids
 #: model_terms:ir.ui.view,arch_db:project_hr_skills.view_task_search_form_project_fsm_base_inherit
 msgid "Skills"
-msgstr ""
+msgstr "مهارتها"
 
 #. module: project_hr_skills
 #: model:ir.model,name:project_hr_skills.model_project_task
 msgid "Task"
-msgstr ""
+msgstr "وظیفه"
 
 #. module: project_hr_skills
 #: model:ir.model,name:project_hr_skills.model_report_project_task_user
 msgid "Tasks Analysis"
-msgstr ""
+msgstr "تحلیل کارها"
 
 #. module: project_hr_skills
 #: model:ir.model.fields,help:project_hr_skills.field_project_task__display_name
@@ -72,4 +72,5 @@ msgstr ""
 #. module: project_hr_skills
 #: model:ir.model,name:project_hr_skills.model_res_users
 msgid "User"
-msgstr ""
+msgstr "کاربر"
+

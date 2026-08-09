@@ -891,7 +891,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/im_livechat/static/src/core/web/livechat_channel_info_list.xml:0
 msgid "Download"
-msgstr ""
+msgstr "دانلود"
 
 #. module: im_livechat
 #. odoo-javascript
@@ -1471,7 +1471,7 @@ msgstr "زبان‌ها"
 #: model_terms:ir.ui.view,arch_db:im_livechat.discuss_channel_looking_for_help_view_search
 #: model_terms:ir.ui.view,arch_db:im_livechat.discuss_channel_view_search
 msgid "Last 24 Hours"
-msgstr ""
+msgstr "آخرین ۲۴ ساعت"
 
 #. module: im_livechat
 #: model_terms:ir.ui.view,arch_db:im_livechat.discuss_channel_looking_for_help_view_search
@@ -2240,7 +2240,7 @@ msgstr "تعداد رتبه بندی"
 #. module: im_livechat
 #: model:ir.model.fields,field_description:im_livechat.field_im_livechat_channel_member_history__rating_text
 msgid "Rating text"
-msgstr ""
+msgstr "متن رتبه‌بندی"
 
 #. module: im_livechat
 #: model:ir.model.fields,field_description:im_livechat.field_discuss_channel__rating_ids
@@ -2398,7 +2398,7 @@ msgstr ""
 #. module: im_livechat
 #: model_terms:ir.ui.view,arch_db:im_livechat.im_livechat_channel_member_history_view_search
 msgid "Search History"
-msgstr ""
+msgstr "تاریخچه جستجو"
 
 #. module: im_livechat
 #: model_terms:ir.ui.view,arch_db:im_livechat.discuss_channel_looking_for_help_view_search
@@ -2851,7 +2851,7 @@ msgstr "UUID"
 #: model_terms:ir.ui.view,arch_db:im_livechat.im_livechat_agent_history_view_search
 #: model_terms:ir.ui.view,arch_db:im_livechat.im_livechat_report_channel_view_search
 msgid "Unhappy"
-msgstr ""
+msgstr "ناخوشایند"
 
 #. module: im_livechat
 #. odoo-python
@@ -3190,7 +3190,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/im_livechat/static/src/core/public_web/discuss_sidebar_categories_patch.xml:0
 msgid "joined"
-msgstr ""
+msgstr "عضو شده"
 
 #. module: im_livechat
 #. odoo-javascript
@@ -3344,3 +3344,4 @@ msgstr "مدیریت پیام‌های وب‌سوکت"
 
 #~ msgid "Yesterday"
 #~ msgstr "دیروز"
+

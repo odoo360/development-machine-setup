@@ -388,7 +388,7 @@ msgstr "راه‌حل‌های ما"
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_empowerment
 msgid "Our services"
-msgstr ""
+msgstr "خدمات ما"
 
 #. module: theme_zap
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_showcase
@@ -594,3 +594,4 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_zap.s_pricelist_boxed
 msgid "✽  Technology Solutions"
 msgstr ""
+

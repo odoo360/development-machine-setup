@@ -1170,7 +1170,7 @@ msgstr "ارسال مستقیم"
 #. module: sms
 #: model_terms:ir.ui.view,arch_db:sms.sms_composer_view_form
 msgid "Send now"
-msgstr ""
+msgstr "هم اکنون ارسال شود"
 
 #. module: sms
 #: model:ir.model.fields.selection,name:sms.selection__sms_composer__composition_mode__numbers
@@ -1749,3 +1749,4 @@ msgstr "رکورد:"
 
 #~ msgid "Website communication history"
 #~ msgstr "تاریخچه ارتباط با وبسایت"
+

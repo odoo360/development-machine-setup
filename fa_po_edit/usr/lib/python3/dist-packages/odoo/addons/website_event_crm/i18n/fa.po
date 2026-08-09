@@ -19,25 +19,26 @@ msgstr ""
 #. module: website_event_crm
 #: model:ir.model.fields,field_description:website_event_crm.field_event_registration__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: website_event_crm
 #: model:ir.model,name:website_event_crm.model_event_registration
 msgid "Event Registration"
-msgstr ""
+msgstr "ثبت نام رویداد"
 
 #. module: website_event_crm
 #: model:ir.model.fields,field_description:website_event_crm.field_event_registration__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: website_event_crm
 #. odoo-python
 #: code:addons/website_event_crm/models/event_registration.py:0
 msgid "Questions"
-msgstr ""
+msgstr "پرسش ها"
 
 #. module: website_event_crm
 #: model:event.lead.rule,name:website_event_crm.event_lead_rule_1
 msgid "Rule per order"
 msgstr ""
+

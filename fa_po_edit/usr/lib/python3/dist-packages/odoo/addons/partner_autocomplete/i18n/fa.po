@@ -51,7 +51,7 @@ msgstr "مخاطب"
 #. module: partner_autocomplete
 #: model:ir.model,website_form_label:partner_autocomplete.model_res_partner
 msgid "Create a Customer"
-msgstr ""
+msgstr "ایجاد مشتری"
 
 #. module: partner_autocomplete
 #: model:ir.model.fields,field_description:partner_autocomplete.field_iap_autocomplete_api__display_name
@@ -100,7 +100,7 @@ msgstr "شناسه"
 #. module: partner_autocomplete
 #: model:ir.model.fields,field_description:partner_autocomplete.field_res_config_settings__partner_autocomplete_insufficient_credit
 msgid "Insufficient credit"
-msgstr ""
+msgstr "اعتبار ناکافی"
 
 #. module: partner_autocomplete
 #. odoo-python
@@ -137,7 +137,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/partner_autocomplete/models/iap_autocomplete_api.py:0
 msgid "Test mode"
-msgstr ""
+msgstr "روش تست"
 
 #. module: partner_autocomplete
 #. odoo-python
@@ -159,3 +159,4 @@ msgstr ""
 
 #~ msgid "Partner"
 #~ msgstr "همکار"
+

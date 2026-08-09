@@ -655,7 +655,7 @@ msgstr "فعالیت ها"
 #: model_terms:ir.ui.view,arch_db:hr_holidays.view_hr_holidays_filter
 #: model_terms:ir.ui.view,arch_db:hr_holidays.view_hr_leave_allocation_filter
 msgid "Activities of"
-msgstr ""
+msgstr "فعالیت‌های"
 
 #. module: hr_holidays
 #: model:ir.model.fields,field_description:hr_holidays.field_hr_leave__activity_exception_decoration
@@ -1380,7 +1380,7 @@ msgstr "رنگ"
 #. module: hr_holidays
 #: model:ir.model,name:hr_holidays.model_res_company
 msgid "Companies"
-msgstr ""
+msgstr "شرکت"
 
 #. module: hr_holidays
 #: model:ir.model.fields,field_description:hr_holidays.field_hr_leave__company_id
@@ -1626,7 +1626,7 @@ msgstr "دوره روز"
 #. module: hr_holidays
 #: model:ir.model.fields.selection,name:hr_holidays.selection__hr_leave_accrual_level__added_value_type__day
 msgid "Day(s)"
-msgstr ""
+msgstr "روز"
 
 #. module: hr_holidays
 #. odoo-javascript
@@ -2971,7 +2971,7 @@ msgstr "مرخصی جدید"
 #. module: hr_holidays
 #: model:ir.actions.act_window,name:hr_holidays.hr_leave_allocation_action_form
 msgid "New allocation"
-msgstr ""
+msgstr "تخصیص جدید"
 
 #. module: hr_holidays
 #: model:ir.model.fields,field_description:hr_holidays.field_hr_leave__activity_calendar_event_id
@@ -3027,7 +3027,7 @@ msgstr "هنوز هیچ داده ای وجود ندارد!"
 #. module: hr_holidays
 #: model_terms:ir.ui.view,arch_db:hr_holidays.hr_leave_view_form
 msgid "No description provided"
-msgstr ""
+msgstr "بدون توضیحات ارائه شده است"
 
 #. module: hr_holidays
 #: model_terms:ir.ui.view,arch_db:hr_holidays.hr_leave_allocation_generate_multi_wizard_view_form
@@ -3171,7 +3171,7 @@ msgstr "افسر: مدیریت تمامی درخواست‌ها"
 #. odoo-javascript
 #: code:addons/hr_holidays/static/src/im_status_patch.xml:0
 msgid "On Leave"
-msgstr ""
+msgstr "در مرخصی"
 
 #. module: hr_holidays
 #. odoo-javascript
@@ -3675,7 +3675,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:hr_holidays.view_hr_holidays_filter
 #: model_terms:ir.ui.view,arch_db:hr_holidays.view_hr_leave_allocation_filter
 msgid "Show all records whose next activity date is past"
-msgstr ""
+msgstr "نمایش تمام رکوردهایی که تاریخ فعالیت بعدی آن‌ها گذشته است"
 
 #. module: hr_holidays
 #: model:hr.leave.type,name:hr_holidays.l10n_sa_leave_type_sick_leave_100
@@ -4394,7 +4394,7 @@ msgstr "درخواست مرخصی باید تایید یا معتبر شده ب�
 #. module: hr_holidays
 #: model_terms:ir.ui.view,arch_db:hr_holidays.edit_holiday_status_form
 msgid "Time off type"
-msgstr ""
+msgstr "نوع مرخصی"
 
 #. module: hr_holidays
 #: model:ir.model.fields,field_description:hr_holidays.field_hr_leave_report_calendar__tz
@@ -4723,7 +4723,7 @@ msgstr "مرخصی باقی‌مانده مجازی"
 #: model_terms:ir.ui.view,arch_db:hr_holidays.edit_holiday_status_form
 #: model_terms:ir.ui.view,arch_db:hr_holidays.hr_accrual_plan_view_form
 msgid "Visible to all"
-msgstr ""
+msgstr "قابل‌مشاهده برای همه"
 
 #. module: hr_holidays
 #: model:ir.model.fields.selection,name:hr_holidays.selection__hr_employee__current_leave_state__confirm
@@ -5201,7 +5201,7 @@ msgstr "اینجا کلیک کنید"
 #. module: hr_holidays
 #: model_terms:ir.ui.view,arch_db:hr_holidays.hr_leave_report_calendar_view_form
 msgid "dates"
-msgstr ""
+msgstr "تاریخ ها"
 
 #. module: hr_holidays
 #. odoo-javascript
@@ -5299,7 +5299,7 @@ msgstr "ساعت"
 #. odoo-python
 #: code:addons/hr_holidays/models/hr_leave_accrual_plan.py:0
 msgid "id"
-msgstr ""
+msgstr "شناسه"
 
 #. module: hr_holidays
 #. odoo-python
@@ -5421,7 +5421,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/hr_holidays/models/hr_leave.py:0
 msgid "undefined"
-msgstr ""
+msgstr "تعریف نشده"
 
 #. module: hr_holidays
 #. odoo-javascript
@@ -6088,3 +6088,4 @@ msgstr "تأیید کردن"
 
 #~ msgid "validated"
 #~ msgstr "معتبرشده"
+

@@ -19,17 +19,17 @@ msgstr ""
 #. module: website_event_booth_sale_exhibitor
 #: model:ir.model.fields,field_description:website_event_booth_sale_exhibitor.field_event_booth_registration__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: website_event_booth_sale_exhibitor
 #: model:ir.model,name:website_event_booth_sale_exhibitor.model_event_booth_registration
 msgid "Event Booth Registration"
-msgstr ""
+msgstr "ثبت غرفه‌های رویداد"
 
 #. module: website_event_booth_sale_exhibitor
 #: model:ir.model.fields,field_description:website_event_booth_sale_exhibitor.field_event_booth_registration__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: website_event_booth_sale_exhibitor
 #: model:ir.model.fields,field_description:website_event_booth_sale_exhibitor.field_event_booth_registration__sponsor_website_description
@@ -60,3 +60,4 @@ msgstr ""
 #: model:ir.model.fields,field_description:website_event_booth_sale_exhibitor.field_event_booth_registration__sponsor_subtitle
 msgid "Sponsor Slogan"
 msgstr ""
+

@@ -923,7 +923,7 @@ msgstr "زیربرنامه‌‎ها"
 #. module: analytic
 #: model:ir.model,name:analytic.model_ir_config_parameter
 msgid "System Parameter"
-msgstr ""
+msgstr "پارامتر سیستم"
 
 #. module: analytic
 #. odoo-python
@@ -971,7 +971,7 @@ msgstr "کاربر"
 #: model_terms:ir.ui.view,arch_db:analytic.account_analytic_plan_form_view
 #: model_terms:ir.ui.view,arch_db:analytic.view_account_analytic_account_form
 msgid "Visible to all"
-msgstr ""
+msgstr "قابل‌مشاهده برای همه"
 
 #. module: analytic
 #. odoo-python
@@ -1053,3 +1053,4 @@ msgstr "مثلا پروژه اکس‌وای‌زد"
 
 #~ msgid "View"
 #~ msgstr "نما"
+

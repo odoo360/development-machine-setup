@@ -153,7 +153,7 @@ msgstr "نام نمایش داده شده"
 #. odoo-javascript
 #: code:addons/pos_glory_cash/static/src/backend/glory_admin_buttons/glory_admin_buttons.xml:0
 msgid "Download Logs"
-msgstr ""
+msgstr "دانلود گزارش‌ها"
 
 #. module: pos_glory_cash
 #. odoo-javascript
@@ -399,3 +399,4 @@ msgstr ""
 
 #~ msgid "Reset"
 #~ msgstr "تنظیم مجدد"
+

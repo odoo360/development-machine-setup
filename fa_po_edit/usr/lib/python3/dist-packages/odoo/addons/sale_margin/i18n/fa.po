@@ -32,14 +32,14 @@ msgstr "هزینه"
 #: model:ir.model.fields,field_description:sale_margin.field_sale_order_line__display_name
 #: model:ir.model.fields,field_description:sale_margin.field_sale_report__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: sale_margin
 #: model:ir.model.fields,field_description:sale_margin.field_sale_order__id
 #: model:ir.model.fields,field_description:sale_margin.field_sale_order_line__id
 #: model:ir.model.fields,field_description:sale_margin.field_sale_report__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: sale_margin
 #: model:ir.model.fields,field_description:sale_margin.field_sale_order__margin
@@ -68,3 +68,4 @@ msgstr "سفارش فروش"
 #: model:ir.model,name:sale_margin.model_sale_order_line
 msgid "Sales Order Line"
 msgstr "سطر سفارش‌فروش"
+

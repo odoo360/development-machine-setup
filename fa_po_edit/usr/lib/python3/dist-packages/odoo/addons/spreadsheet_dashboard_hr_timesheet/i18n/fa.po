@@ -20,7 +20,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_timesheet/data/files/tasks_dashboard.json:0
 msgid " days"
-msgstr ""
+msgstr " روز"
 
 #. module: spreadsheet_dashboard_hr_timesheet
 #. odoo-javascript
@@ -32,31 +32,31 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_timesheet/data/files/tasks_dashboard.json:0
 msgid "Assignees"
-msgstr ""
+msgstr "گیرندگان"
 
 #. module: spreadsheet_dashboard_hr_timesheet
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_timesheet/data/files/tasks_dashboard.json:0
 msgid "Current"
-msgstr ""
+msgstr "جاری"
 
 #. module: spreadsheet_dashboard_hr_timesheet
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_timesheet/data/files/tasks_dashboard.json:0
 msgid "Customer"
-msgstr ""
+msgstr "مشتری"
 
 #. module: spreadsheet_dashboard_hr_timesheet
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_timesheet/data/files/tasks_dashboard.json:0
 msgid "Days to assign"
-msgstr ""
+msgstr "روزهای تا اختصاص دادن"
 
 #. module: spreadsheet_dashboard_hr_timesheet
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_timesheet/data/files/tasks_dashboard.json:0
 msgid "Days to close"
-msgstr ""
+msgstr "روزهای تا بسته شدن"
 
 #. module: spreadsheet_dashboard_hr_timesheet
 #. odoo-javascript
@@ -80,38 +80,38 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_timesheet/data/files/tasks_dashboard.json:0
 msgid "Period"
-msgstr ""
+msgstr "دوره"
 
 #. module: spreadsheet_dashboard_hr_timesheet
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_timesheet/data/files/tasks_dashboard.json:0
 msgid "Previous"
-msgstr ""
+msgstr "قبلی"
 
 #. module: spreadsheet_dashboard_hr_timesheet
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_timesheet/data/files/tasks_dashboard.json:0
 #: model:spreadsheet.dashboard,name:spreadsheet_dashboard_hr_timesheet.spreadsheet_dashboard_tasks
 msgid "Project"
-msgstr ""
+msgstr "پروژه"
 
 #. module: spreadsheet_dashboard_hr_timesheet
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_timesheet/data/files/tasks_dashboard.json:0
 msgid "Tag"
-msgstr ""
+msgstr "برچسب"
 
 #. module: spreadsheet_dashboard_hr_timesheet
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_timesheet/data/files/tasks_dashboard.json:0
 msgid "Tags"
-msgstr ""
+msgstr "برچسب‌ها"
 
 #. module: spreadsheet_dashboard_hr_timesheet
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_hr_timesheet/data/files/tasks_dashboard.json:0
 msgid "Tasks"
-msgstr ""
+msgstr "وظایف"
 
 #. module: spreadsheet_dashboard_hr_timesheet
 #. odoo-javascript
@@ -172,3 +172,4 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_hr_timesheet/data/files/tasks_dashboard.json:0
 msgid "since last period"
 msgstr ""
+

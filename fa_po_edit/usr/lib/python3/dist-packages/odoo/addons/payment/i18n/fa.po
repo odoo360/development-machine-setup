@@ -181,7 +181,7 @@ msgstr ""
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.pay
 msgid "<strong>Warning</strong> The currency is missing or incorrect."
-msgstr ""
+msgstr "<strong>Warning</strong> ارز موردنظر موجود نیست یا نادرست است."
 
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.pay
@@ -196,7 +196,7 @@ msgstr ""
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.no_pms_available_warning
 msgid "ACTIVATE"
-msgstr ""
+msgstr "فعال"
 
 #. module: payment
 #: model:payment.method,name:payment.payment_method_abitab
@@ -483,7 +483,7 @@ msgstr ""
 #. module: payment
 #: model:payment.method,name:payment.payment_method_bank_account
 msgid "Bank Account"
-msgstr ""
+msgstr "حساب بانکی"
 
 #. module: payment
 #: model:payment.method,name:payment.payment_method_installments_eg
@@ -641,7 +641,7 @@ msgstr ""
 #. module: payment
 #: model:payment.method,name:payment.payment_method_card
 msgid "Card"
-msgstr ""
+msgstr "کارت"
 
 #. module: payment
 #: model:payment.method,name:payment.payment_method_dpo
@@ -750,7 +750,7 @@ msgstr "شرکت"
 #. module: payment
 #: model:ir.model,name:payment.model_res_config_settings
 msgid "Config Settings"
-msgstr ""
+msgstr "تنظیمات پیکربندی"
 
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.payment_method_form
@@ -762,7 +762,7 @@ msgstr "پیکربندی"
 #. odoo-javascript
 #: code:addons/payment/static/src/interactions/payment_form.js:0
 msgid "Confirm"
-msgstr ""
+msgstr "تأیید"
 
 #. module: payment
 #. odoo-javascript
@@ -828,7 +828,7 @@ msgstr "ایجاد توکن"
 #. module: payment
 #: model:ir.model,website_form_label:payment.model_res_partner
 msgid "Create a Customer"
-msgstr ""
+msgstr "ایجاد مشتری"
 
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_capture_wizard__create_uid
@@ -859,7 +859,7 @@ msgstr ""
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.payment_provider_form
 msgid "Credentials"
-msgstr ""
+msgstr "اعتبارنامه‌ها"
 
 #. module: payment
 #: model:payment.method,name:payment.payment_method_credit
@@ -870,7 +870,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:payment.field_payment_method__supported_currency_ids
 #: model:ir.model.fields,field_description:payment.field_payment_provider__available_currency_ids
 msgid "Currencies"
-msgstr ""
+msgstr "ارزها"
 
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_capture_wizard__currency_id
@@ -913,7 +913,7 @@ msgstr ""
 #. module: payment
 #: model:payment.provider,name:payment.payment_provider_demo
 msgid "Demo"
-msgstr ""
+msgstr "آزمایشی"
 
 #. module: payment
 #: model:payment.method,name:payment.payment_method_diners
@@ -929,7 +929,7 @@ msgstr "غیر فعال شده"
 #. module: payment
 #: model:payment.method,name:payment.payment_method_discover
 msgid "Discover"
-msgstr ""
+msgstr "کاوش"
 
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_ir_http__display_name
@@ -1005,7 +1005,7 @@ msgstr "فعال شده"
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.payment_provider_kanban
 msgid "Enterprise"
-msgstr ""
+msgstr "بنگاه"
 
 #. module: payment
 #: model:ir.model.fields.selection,name:payment.selection__payment_transaction__state__error
@@ -1059,7 +1059,7 @@ msgstr ""
 #. module: payment
 #: model:payment.provider,name:payment.payment_provider_flutterwave
 msgid "Flutterwave"
-msgstr ""
+msgstr "فلاترویو"
 
 #. module: payment
 #: model:payment.method,name:payment.payment_method_forsa
@@ -1079,7 +1079,7 @@ msgstr ""
 #: model:ir.model.fields.selection,name:payment.selection__payment_provider__support_manual_capture__full_only
 #: model:ir.model.fields.selection,name:payment.selection__payment_provider__support_refund__full_only
 msgid "Full Only"
-msgstr ""
+msgstr "فقط کامل"
 
 #. module: payment
 #: model:payment.method,name:payment.payment_method_gcash
@@ -1209,6 +1209,9 @@ msgid ""
 "In test mode, a fake payment is processed through a test payment interface.\n"
 "This mode is advised when setting up the provider."
 msgstr ""
+""
+"در حالت آزمایشی، یک پرداخت جعلی از طریق رابط پرداخت آزمایشی پردازش می‌شود. \n"
+"این حالت هنگام تعیین ارائه‌دهنده‌ی خدمات توصیه می‌شود."
 
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_provider__inline_form_view_id
@@ -1315,7 +1318,7 @@ msgstr ""
 #. module: payment
 #: model:payment.method,name:payment.payment_method_kiosk
 msgid "Kiosk"
-msgstr ""
+msgstr "کیوسک"
 
 #. module: payment
 #: model:payment.method,name:payment.payment_method_klarna
@@ -1494,7 +1497,7 @@ msgstr ""
 #: model:ir.model.fields.selection,name:payment.selection__res_config_settings__onboarding_payment_module__mercado_pago
 #: model:payment.provider,name:payment.payment_provider_mercado_pago
 msgid "Mercado Pago"
-msgstr ""
+msgstr "مرکادو پگو"
 
 #. module: payment
 #: model:payment.method,name:payment.payment_method_mercado_pago_wallet
@@ -1520,7 +1523,7 @@ msgstr ""
 #. module: payment
 #: model:payment.method,name:payment.payment_method_mobile
 msgid "Mobile"
-msgstr ""
+msgstr "موبایل"
 
 #. module: payment
 #: model:payment.method,name:payment.payment_method_mobile_wallet
@@ -1545,7 +1548,7 @@ msgstr ""
 #. module: payment
 #: model:payment.provider,name:payment.payment_provider_mollie
 msgid "Mollie"
-msgstr ""
+msgstr "مولی"
 
 #. module: payment
 #: model:payment.method,name:payment.payment_method_multibanco
@@ -1645,7 +1648,7 @@ msgstr ""
 #. module: payment
 #: model:payment.method,name:payment.payment_method_octopus
 msgid "Octopus"
-msgstr ""
+msgstr "اختاپوس"
 
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_provider__module_to_buy
@@ -1820,7 +1823,7 @@ msgstr ""
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.pay
 msgid "Payment"
-msgstr ""
+msgstr "پرداخت"
 
 #. module: payment
 #: model:ir.model,name:payment.model_payment_capture_wizard
@@ -1835,7 +1838,7 @@ msgstr ""
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_token__payment_details
 msgid "Payment Details"
-msgstr ""
+msgstr "جزئیات پرداخت"
 
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.payment_provider_form
@@ -1884,20 +1887,20 @@ msgstr "روشهای پرداخت"
 #. module: payment
 #: model:ir.model,name:payment.model_payment_provider
 msgid "Payment Provider"
-msgstr ""
+msgstr "سرویس دهنده پرداخت"
 
 #. module: payment
 #: model:ir.actions.act_window,name:payment.action_payment_provider
 #: model_terms:ir.ui.view,arch_db:payment.payment_provider_list
 msgid "Payment Providers"
-msgstr ""
+msgstr "سرویس دهندگان پرداخت"
 
 #. module: payment
 #. odoo-python
 #: code:addons/payment/controllers/post_processing.py:0
 #: model_terms:ir.ui.view,arch_db:payment.payment_status
 msgid "Payment Status"
-msgstr ""
+msgstr "وضعیت پرداخت"
 
 #. module: payment
 #: model:ir.model,name:payment.model_payment_token
@@ -1951,29 +1954,29 @@ msgstr ""
 #: model:payment.method,name:payment.payment_method_unknown
 #: model_terms:ir.ui.view,arch_db:payment.form
 msgid "Payment method"
-msgstr ""
+msgstr "روش پرداخت"
 
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.availability_report
 #: model_terms:ir.ui.view,arch_db:payment.portal_my_home_payment
 msgid "Payment methods"
-msgstr ""
+msgstr "روشهای پرداخت"
 
 #. module: payment
 #. odoo-javascript
 #: code:addons/payment/static/src/interactions/payment_form.js:0
 msgid "Payment processing failed"
-msgstr ""
+msgstr "پردازش پرداخت انجام نشد"
 
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.payment_provider_form
 msgid "Payment provider"
-msgstr ""
+msgstr "سرویس دهنده پرداخت"
 
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.availability_report
 msgid "Payment providers"
-msgstr ""
+msgstr "سرویس دهندگان پرداخت"
 
 #. module: payment
 #: model:ir.actions.server,name:payment.cron_post_process_payment_tx_ir_actions_server
@@ -1993,7 +1996,7 @@ msgstr ""
 #. module: payment
 #: model:payment.method,name:payment.payment_method_paypal
 msgid "Paypal"
-msgstr ""
+msgstr "پی پال"
 
 #. module: payment
 #: model:payment.method,name:payment.payment_method_paytm
@@ -2125,7 +2128,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:payment.field_payment_method__provider_ids
 #: model_terms:ir.ui.view,arch_db:payment.payment_method_form
 msgid "Providers"
-msgstr ""
+msgstr "ارائه‌دهندگان"
 
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_provider__is_published
@@ -2243,7 +2246,7 @@ msgstr ""
 #: model:payment.method,name:payment.payment_method_sepa_direct_debit
 #: model:payment.provider,name:payment.payment_provider_sepa_direct_debit
 msgid "SEPA Direct Debit"
-msgstr ""
+msgstr "برداشت مستقیم SEPA"
 
 #. module: payment
 #: model:payment.method,name:payment.payment_method_spei
@@ -2263,7 +2266,7 @@ msgstr ""
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.form
 msgid "Save"
-msgstr ""
+msgstr "ذخیره"
 
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.state_header
@@ -2372,7 +2375,7 @@ msgstr ""
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_provider__payment_method_ids
 msgid "Supported Payment Methods"
-msgstr ""
+msgstr "روش‌های پرداخت پشتیبانی ‌شده"
 
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.payment_method_form
@@ -2449,12 +2452,12 @@ msgstr "حالت آزمایشی"
 #: model_terms:ir.ui.view,arch_db:payment.method_form
 #: model_terms:ir.ui.view,arch_db:payment.token_form
 msgid "Test mode"
-msgstr ""
+msgstr "روش تست"
 
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.state_header
 msgid "Thank you!"
-msgstr ""
+msgstr "سپاسگزاریم!"
 
 #. module: payment
 #. odoo-python
@@ -2723,7 +2726,7 @@ msgstr ""
 #: model:ir.model.fields,help:payment.field_payment_token__provider_code
 #: model:ir.model.fields,help:payment.field_payment_transaction__provider_code
 msgid "The technical code of this payment provider."
-msgstr ""
+msgstr "کد فنی این ارائه دهنده پرداخت."
 
 #. module: payment
 #: model:ir.model.fields,help:payment.field_payment_provider__redirect_form_view_id
@@ -2775,7 +2778,7 @@ msgstr ""
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.pay
 msgid "There is nothing to pay."
-msgstr ""
+msgstr "هیچ موردی برای پرداخت وجود ندارد."
 
 #. module: payment
 #. odoo-python
@@ -2878,7 +2881,7 @@ msgstr ""
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_capture_wizard__transaction_ids
 msgid "Transaction"
-msgstr ""
+msgstr "تراکنش"
 
 #. module: payment
 #. odoo-python
@@ -3043,7 +3046,7 @@ msgstr "هشدار"
 #. module: payment
 #: model:ir.model.fields,field_description:payment.field_payment_link_wizard__warning_message
 msgid "Warning Message"
-msgstr ""
+msgstr "پیام هشدار"
 
 #. module: payment
 #. odoo-javascript
@@ -3358,7 +3361,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/payment/models/payment_provider.py:0
 msgid "id"
-msgstr ""
+msgstr "شناسه"
 
 #. module: payment
 #: model:payment.method,name:payment.payment_method_in3
@@ -3404,13 +3407,13 @@ msgstr ""
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.payment_provider_search
 msgid "payment method"
-msgstr ""
+msgstr "روش پرداخت"
 
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.payment_provider_kanban
 #: model_terms:ir.ui.view,arch_db:payment.payment_provider_search
 msgid "provider"
-msgstr ""
+msgstr "فراهم‌کننده"
 
 #. module: payment
 #: model_terms:ir.ui.view,arch_db:payment.company_mismatch_warning
@@ -3564,3 +3567,4 @@ msgstr ""
 
 #~ msgid "show more"
 #~ msgstr "نمایش بیشتر"
+

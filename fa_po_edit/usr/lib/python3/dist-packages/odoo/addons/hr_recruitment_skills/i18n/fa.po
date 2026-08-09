@@ -252,4 +252,5 @@ msgstr ""
 #. module: hr_recruitment_skills
 #: model_terms:ir.ui.view,arch_db:hr_recruitment_skills.hr_applicant_skill_view_form
 msgid "indefinite"
-msgstr ""
+msgstr "نامحدود"
+

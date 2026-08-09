@@ -49,7 +49,7 @@ msgstr "محول کردن سرنخ‌ها/فرصت‌ها به فروشنده"
 #. module: website_crm
 #: model:ir.model,website_form_label:website_crm.model_crm_lead
 msgid "Create an Opportunity"
-msgstr ""
+msgstr "ایجاد یک فرصت"
 
 #. module: website_crm
 #: model:ir.model.fields,help:website_crm.field_website__crm_default_team_id
@@ -77,19 +77,19 @@ msgstr "فروشنده پیشفرض برای سرنخ‌های جدید ایجا
 #: model:ir.model.fields,field_description:website_crm.field_website__display_name
 #: model:ir.model.fields,field_description:website_crm.field_website_visitor__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: website_crm
 #: model:ir.model.fields,field_description:website_crm.field_crm_lead__id
 #: model:ir.model.fields,field_description:website_crm.field_website__id
 #: model:ir.model.fields,field_description:website_crm.field_website_visitor__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: website_crm
 #: model:ir.model,name:website_crm.model_crm_lead
 msgid "Lead"
-msgstr ""
+msgstr "سرنخ"
 
 #. module: website_crm
 #: model:ir.actions.act_window,name:website_crm.crm_lead_action_from_visitor
@@ -118,7 +118,7 @@ msgstr "بازدیدهای صفحه"
 #. odoo-javascript
 #: code:addons/website_crm/static/src/js/website_crm_editor.js:0
 msgid "Phone Number"
-msgstr ""
+msgstr "شماره تلفن"
 
 #. module: website_crm
 #. odoo-javascript
@@ -136,7 +136,7 @@ msgstr "فروشنده"
 #. odoo-javascript
 #: code:addons/website_crm/static/src/js/website_crm_editor.js:0
 msgid "Subject"
-msgstr ""
+msgstr "موضوع"
 
 #. module: website_crm
 #: model:ir.model.fields,field_description:website_crm.field_crm_lead__visitor_ids
@@ -167,25 +167,26 @@ msgstr "بازدید کننده وبسایت"
 #. odoo-javascript
 #: code:addons/website_crm/static/src/js/website_crm_editor.js:0
 msgid "Your Company"
-msgstr ""
+msgstr "شرکت شما"
 
 #. module: website_crm
 #. odoo-javascript
 #: code:addons/website_crm/static/src/js/website_crm_editor.js:0
 msgid "Your Email"
-msgstr ""
+msgstr "ایمیل شما"
 
 #. module: website_crm
 #. odoo-javascript
 #: code:addons/website_crm/static/src/js/website_crm_editor.js:0
 msgid "Your Name"
-msgstr ""
+msgstr "نام"
 
 #. module: website_crm
 #. odoo-javascript
 #: code:addons/website_crm/static/src/js/website_crm_editor.js:0
 msgid "Your Question"
-msgstr ""
+msgstr "سوال شما"
 
 #~ msgid "Lead/Opportunity"
 #~ msgstr "سرنخ / فرصت"
+

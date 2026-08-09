@@ -69,7 +69,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/pos_hr/static/src/app/components/popups/closing_popup/closing_popup.xml:0
 msgid "Cash in/out"
-msgstr ""
+msgstr "پول نقد ورودی/خروجی"
 
 #. module: pos_hr
 #: model:ir.model.fields,field_description:pos_hr.field_pos_order__employee_id
@@ -384,3 +384,4 @@ msgid ""
 msgstr ""
 "نمی‌توانید کارمندی که ممکن است شیفت فعال داشته باشد حذف کنید ابتدا شیفت(ها) "
 "را ببندید: \n"
+

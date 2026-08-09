@@ -26,14 +26,14 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_sample_dashboard.json:0
 msgid "Article"
-msgstr ""
+msgstr "بند"
 
 #. module: spreadsheet_dashboard_website_sale_slides
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_sample_dashboard.json:0
 msgid "Attendees"
-msgstr ""
+msgstr "شرکت‌کنندگان"
 
 #. module: spreadsheet_dashboard_website_sale_slides
 #. odoo-javascript
@@ -53,21 +53,21 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_sample_dashboard.json:0
 msgid "Content"
-msgstr ""
+msgstr "محتوا"
 
 #. module: spreadsheet_dashboard_website_sale_slides
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_sample_dashboard.json:0
 msgid "Courses"
-msgstr ""
+msgstr "دوره ها"
 
 #. module: spreadsheet_dashboard_website_sale_slides
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_sample_dashboard.json:0
 msgid "Current"
-msgstr ""
+msgstr "جاری"
 
 #. module: spreadsheet_dashboard_website_sale_slides
 #. odoo-javascript
@@ -79,13 +79,13 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_sample_dashboard.json:0
 msgid "Document"
-msgstr ""
+msgstr "سند"
 
 #. module: spreadsheet_dashboard_website_sale_slides
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_sample_dashboard.json:0
 msgid "Image"
-msgstr ""
+msgstr "تصویر"
 
 #. module: spreadsheet_dashboard_website_sale_slides
 #. odoo-javascript
@@ -103,14 +103,14 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_dashboard.json:0
 msgid "Period"
-msgstr ""
+msgstr "دوره"
 
 #. module: spreadsheet_dashboard_website_sale_slides
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_sample_dashboard.json:0
 msgid "Previous"
-msgstr ""
+msgstr "قبلی"
 
 #. module: spreadsheet_dashboard_website_sale_slides
 #. odoo-javascript
@@ -122,34 +122,34 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_sample_dashboard.json:0
 msgid "Quiz"
-msgstr ""
+msgstr "آزمون"
 
 #. module: spreadsheet_dashboard_website_sale_slides
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_sample_dashboard.json:0
 msgid "Rating"
-msgstr ""
+msgstr "رتبه دهی"
 
 #. module: spreadsheet_dashboard_website_sale_slides
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_sample_dashboard.json:0
 msgid "Revenue"
-msgstr ""
+msgstr "درآمد"
 
 #. module: spreadsheet_dashboard_website_sale_slides
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_sample_dashboard.json:0
 msgid "Revenues"
-msgstr ""
+msgstr "درآمد ها"
 
 #. module: spreadsheet_dashboard_website_sale_slides
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_sample_dashboard.json:0
 msgid "Video"
-msgstr ""
+msgstr "ویدئو"
 
 #. module: spreadsheet_dashboard_website_sale_slides
 #. odoo-javascript
@@ -167,7 +167,7 @@ msgstr ""
 #. module: spreadsheet_dashboard_website_sale_slides
 #: model:spreadsheet.dashboard,name:spreadsheet_dashboard_website_sale_slides.spreadsheet_dashboard_elearning
 msgid "eLearning"
-msgstr ""
+msgstr "آموزش الکترونیکی"
 
 #. module: spreadsheet_dashboard_website_sale_slides
 #. odoo-javascript
@@ -175,3 +175,4 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_website_sale_slides/data/files/elearning_sample_dashboard.json:0
 msgid "since last period"
 msgstr ""
+

@@ -130,7 +130,7 @@ msgstr "فعالیت ها"
 #. module: fleet
 #: model_terms:ir.ui.view,arch_db:fleet.fleet_vehicle_log_contract_view_search
 msgid "Activities of"
-msgstr ""
+msgstr "فعالیت‌های"
 
 #. module: fleet
 #: model:ir.model.fields,field_description:fleet.field_fleet_vehicle__activity_exception_decoration
@@ -2236,7 +2236,7 @@ msgstr "تنظیمات"
 #: model_terms:ir.ui.view,arch_db:fleet.fleet_vehicle_log_contract_view_search
 #: model_terms:ir.ui.view,arch_db:fleet.fleet_vehicle_view_search
 msgid "Show all records whose next activity date is past"
-msgstr ""
+msgstr "نمایش تمام رکوردهایی که تاریخ فعالیت بعدی آن‌ها گذشته است"
 
 #. module: fleet
 #: model:fleet.service.type,name:fleet.type_service_service_6
@@ -2660,7 +2660,7 @@ msgstr "فروشندگان"
 #: model_terms:ir.ui.view,arch_db:fleet.fleet_vehicle_log_contract_view_form
 #: model_terms:ir.ui.view,arch_db:fleet.fleet_vehicle_view_form
 msgid "Visible to all"
-msgstr ""
+msgstr "قابل‌مشاهده برای همه"
 
 #. module: fleet
 #: model:fleet.vehicle.state,name:fleet.fleet_vehicle_state_waiting_list
@@ -2875,3 +2875,4 @@ msgstr "نمایش ثبت وقایع سرویسها برای این خودرو"
 
 #~ msgid "Start Contract"
 #~ msgstr "شروع قرارداد"
+

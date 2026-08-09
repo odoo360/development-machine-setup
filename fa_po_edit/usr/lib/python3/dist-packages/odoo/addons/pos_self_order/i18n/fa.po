@@ -1066,7 +1066,7 @@ msgstr ""
 #. module: pos_self_order
 #: model:ir.model.fields,field_description:pos_self_order.field_pos_self_order_custom_link__pos_config_ids
 msgid "Points of Sale"
-msgstr ""
+msgstr "نقاط فروش"
 
 #. module: pos_self_order
 #: model:ir.model.fields,field_description:pos_self_order.field_pos_self_order_custom_link__link_html
@@ -1157,7 +1157,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/pos_self_order/static/src/app/components/attribute_selection/attribute_selection.xml:0
 msgid "Required"
-msgstr ""
+msgstr "لازم"
 
 #. module: pos_self_order
 #: model_terms:ir.ui.view,arch_db:pos_self_order.res_config_settings_view_form_menu
@@ -1728,3 +1728,4 @@ msgstr ""
 #: code:addons/pos_self_order/static/src/app/pages/combo_page/combo_page.xml:0
 msgid "x"
 msgstr ""
+

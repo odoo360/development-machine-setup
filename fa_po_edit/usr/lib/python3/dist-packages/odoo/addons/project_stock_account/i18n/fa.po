@@ -32,17 +32,17 @@ msgstr ""
 #. module: project_stock_account
 #: model:ir.model,name:project_stock_account.model_account_analytic_line
 msgid "Analytic Line"
-msgstr ""
+msgstr "سطرتحلیلی"
 
 #. module: project_stock_account
 #: model:ir.model,name:project_stock_account.model_account_analytic_applicability
 msgid "Analytic Plan's Applicabilities"
-msgstr ""
+msgstr "کاربردهای طرح تحلیلی"
 
 #. module: project_stock_account
 #: model:ir.model.fields,field_description:project_stock_account.field_account_analytic_line__category
 msgid "Category"
-msgstr ""
+msgstr "دسته بندی"
 
 #. module: project_stock_account
 #: model:ir.model.fields,field_description:project_stock_account.field_account_analytic_applicability__display_name
@@ -51,12 +51,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:project_stock_account.field_stock_move__display_name
 #: model:ir.model.fields,field_description:project_stock_account.field_stock_picking_type__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: project_stock_account
 #: model:ir.model.fields,field_description:project_stock_account.field_account_analytic_applicability__business_domain
 msgid "Domain"
-msgstr ""
+msgstr "دامنه"
 
 #. module: project_stock_account
 #: model:ir.model.fields,field_description:project_stock_account.field_account_analytic_applicability__id
@@ -65,7 +65,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:project_stock_account.field_stock_move__id
 #: model:ir.model.fields,field_description:project_stock_account.field_stock_picking_type__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: project_stock_account
 #: model:ir.model.fields.selection,name:project_stock_account.selection__account_analytic_line__category__picking_entry
@@ -76,22 +76,22 @@ msgstr ""
 #. odoo-python
 #: code:addons/project_stock_account/models/project_project.py:0
 msgid "Materials"
-msgstr ""
+msgstr "مواد"
 
 #. module: project_stock_account
 #: model:ir.model,name:project_stock_account.model_stock_picking_type
 msgid "Picking Type"
-msgstr ""
+msgstr "نوع برداشت"
 
 #. module: project_stock_account
 #: model:ir.model,name:project_stock_account.model_project_project
 msgid "Project"
-msgstr ""
+msgstr "پروژه"
 
 #. module: project_stock_account
 #: model:ir.model,name:project_stock_account.model_stock_move
 msgid "Stock Move"
-msgstr ""
+msgstr "انتقال موجودی"
 
 #. module: project_stock_account
 #: model:ir.model.fields.selection,name:project_stock_account.selection__account_analytic_applicability__business_domain__stock_picking
@@ -104,3 +104,4 @@ msgid ""
 "Validating stock pickings will generate analytic entries for the selected "
 "project. Products set for re-invoicing will also be billed to the customer."
 msgstr ""
+

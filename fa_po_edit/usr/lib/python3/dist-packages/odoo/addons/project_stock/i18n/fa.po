@@ -20,7 +20,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:project_stock.field_project_project__display_name
 #: model:ir.model.fields,field_description:project_stock.field_stock_picking__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: project_stock
 #. odoo-python
@@ -34,13 +34,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:project_stock.field_project_project__id
 #: model:ir.model.fields,field_description:project_stock.field_stock_picking__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: project_stock
 #: model:ir.model,name:project_stock.model_project_project
 #: model:ir.model.fields,field_description:project_stock.field_stock_picking__project_id
 msgid "Project"
-msgstr ""
+msgstr "پروژه"
 
 #. module: project_stock
 #. odoo-python
@@ -48,7 +48,7 @@ msgstr ""
 #: model:ir.embedded.actions,name:project_stock.project_embedded_action_all_pickings
 #: model:ir.embedded.actions,name:project_stock.project_embedded_action_all_pickings_dashboard
 msgid "Stock Moves"
-msgstr ""
+msgstr "انتقالهای موجودی"
 
 #. module: project_stock
 #. odoo-python
@@ -61,4 +61,5 @@ msgstr ""
 #. module: project_stock
 #: model:ir.model,name:project_stock.model_stock_picking
 msgid "Transfer"
-msgstr ""
+msgstr "انتقال"
+

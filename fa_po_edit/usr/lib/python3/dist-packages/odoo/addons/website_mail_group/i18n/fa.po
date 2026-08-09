@@ -50,7 +50,7 @@ msgstr "شناسه"
 #. odoo-javascript
 #: code:addons/website_mail_group/static/src/website_builder/mail_group_option.xml:0
 msgid "List"
-msgstr ""
+msgstr "فهرست"
 
 #. module: website_mail_group
 #: model:ir.model,name:website_mail_group.model_mail_group
@@ -94,3 +94,4 @@ msgstr "لغو اشتراک"
 #: model_terms:ir.ui.view,arch_db:website_mail_group.s_group
 msgid "your email..."
 msgstr "ایمیل شما..."
+

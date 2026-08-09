@@ -19,14 +19,15 @@ msgstr ""
 #. module: website_crm_sms
 #: model:ir.model.fields,field_description:website_crm_sms.field_website_visitor__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: website_crm_sms
 #: model:ir.model.fields,field_description:website_crm_sms.field_website_visitor__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: website_crm_sms
 #: model:ir.model,name:website_crm_sms.model_website_visitor
 msgid "Website Visitor"
-msgstr ""
+msgstr "بازدید کننده وبسایت"
+

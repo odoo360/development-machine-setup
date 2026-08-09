@@ -142,7 +142,7 @@ msgstr "بلیط رویداد"
 #. odoo-javascript
 #: code:addons/pos_event/static/src/app/screens/product_screen/order_summary/order_summary.xml:0
 msgid "Event name"
-msgstr ""
+msgstr "نام رویداد"
 
 #. module: pos_event
 #: model:pos.category,name:pos_event.pos_category_event
@@ -316,3 +316,4 @@ msgstr "<span>اسلات</span>"
 #: code:addons/pos_event/static/src/app/components/product_card/product_card.xml:0
 msgid "slots"
 msgstr ""
+

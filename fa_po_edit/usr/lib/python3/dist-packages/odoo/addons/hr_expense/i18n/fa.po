@@ -157,7 +157,7 @@ msgstr "تاریخ حسابداری"
 #. module: hr_expense
 #: model_terms:ir.ui.view,arch_db:hr_expense.hr_expense_post_wizard_view
 msgid "Accounting date"
-msgstr ""
+msgstr "تاریخ حسابداری"
 
 #. module: hr_expense
 #: model:ir.model.fields,field_description:hr_expense.field_hr_expense__message_needaction
@@ -1454,7 +1454,7 @@ msgstr "همکار"
 #. module: hr_expense
 #: model:ir.model,name:hr_expense.model_account_payment_register
 msgid "Pay"
-msgstr ""
+msgstr "پرداخت"
 
 #. module: hr_expense
 #: model:ir.model.fields,field_description:hr_expense.field_hr_expense__payment_method_line_id
@@ -1763,7 +1763,7 @@ msgstr "تنظیمات"
 #. module: hr_expense
 #: model_terms:ir.ui.view,arch_db:hr_expense.hr_expense_view_search
 msgid "Show all records whose next activity date is past"
-msgstr ""
+msgstr "نمایش تمام رکوردهایی که تاریخ فعالیت بعدی آن‌ها گذشته است"
 
 #. module: hr_expense
 #: model_terms:ir.ui.view,arch_db:hr_expense.view_move_list_expense
@@ -2069,7 +2069,7 @@ msgstr "کل مالیات"
 #. module: hr_expense
 #: model:ir.model.fields,field_description:hr_expense.field_hr_expense__untaxed_amount
 msgid "Total Untaxed Amount"
-msgstr ""
+msgstr "مبلغ بدون مالیات"
 
 #. module: hr_expense
 #: model:ir.model.fields,field_description:hr_expense.field_hr_expense__untaxed_amount_currency
@@ -2373,7 +2373,7 @@ msgstr "برای مثال mycompany.com"
 #. module: hr_expense
 #: model_terms:ir.ui.view,arch_db:hr_expense.hr_expense_view_form
 msgid "expense"
-msgstr ""
+msgstr "هزینه"
 
 #. module: hr_expense
 #: model_terms:ir.ui.view,arch_db:hr_expense.hr_expense_template_refuse_reason
@@ -2383,7 +2383,7 @@ msgstr "رد شده است"
 #. module: hr_expense
 #: model_terms:ir.ui.view,arch_db:hr_expense.product_product_expense_form_view
 msgid "no taxes"
-msgstr ""
+msgstr "بدون مالیات"
 
 #. module: hr_expense
 #: model_terms:ir.ui.view,arch_db:hr_expense.product_product_expense_form_view
@@ -2702,3 +2702,4 @@ msgstr ""
 
 #~ msgid "under validation"
 #~ msgstr "تحت معتبرسازی"
+

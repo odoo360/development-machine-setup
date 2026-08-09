@@ -21,7 +21,7 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_sample_dashboard.json:0
 msgid "Abandoned Carts"
-msgstr ""
+msgstr "سبدهای رها شده"
 
 #. module: spreadsheet_dashboard_website_sale
 #. odoo-javascript
@@ -34,32 +34,32 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_sample_dashboard.json:0
 msgid "Categories"
-msgstr ""
+msgstr "دسته بندی ها"
 
 #. module: spreadsheet_dashboard_website_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_dashboard.json:0
 msgid "Category"
-msgstr ""
+msgstr "دسته بندی"
 
 #. module: spreadsheet_dashboard_website_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_dashboard.json:0
 msgid "Country"
-msgstr ""
+msgstr "کشور"
 
 #. module: spreadsheet_dashboard_website_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_sample_dashboard.json:0
 msgid "Current"
-msgstr ""
+msgstr "جاری"
 
 #. module: spreadsheet_dashboard_website_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_dashboard.json:0
 msgid "Customer"
-msgstr ""
+msgstr "مشتری"
 
 #. module: spreadsheet_dashboard_website_sale
 #. odoo-javascript
@@ -80,52 +80,52 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_sample_dashboard.json:0
 msgid "Orders"
-msgstr ""
+msgstr "سفارشات"
 
 #. module: spreadsheet_dashboard_website_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_dashboard.json:0
 msgid "Period"
-msgstr ""
+msgstr "دوره"
 
 #. module: spreadsheet_dashboard_website_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_sample_dashboard.json:0
 msgid "Previous"
-msgstr ""
+msgstr "قبلی"
 
 #. module: spreadsheet_dashboard_website_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_dashboard.json:0
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 #. module: spreadsheet_dashboard_website_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_sample_dashboard.json:0
 msgid "Products"
-msgstr ""
+msgstr "محصولات"
 
 #. module: spreadsheet_dashboard_website_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_sample_dashboard.json:0
 msgid "Revenue"
-msgstr ""
+msgstr "درآمد"
 
 #. module: spreadsheet_dashboard_website_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_sample_dashboard.json:0
 msgid "Top Categories"
-msgstr ""
+msgstr "دسته‌بندی‌های برتر"
 
 #. module: spreadsheet_dashboard_website_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_sample_dashboard.json:0
 msgid "Top Products"
-msgstr ""
+msgstr "برترین محصولات"
 
 #. module: spreadsheet_dashboard_website_sale
 #. odoo-javascript
@@ -138,18 +138,18 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_sample_dashboard.json:0
 msgid "Units"
-msgstr ""
+msgstr "عدد"
 
 #. module: spreadsheet_dashboard_website_sale
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_dashboard.json:0
 msgid "Website"
-msgstr ""
+msgstr "تارنما"
 
 #. module: spreadsheet_dashboard_website_sale
 #: model:spreadsheet.dashboard,name:spreadsheet_dashboard_website_sale.spreadsheet_dashboard_ecommerce
 msgid "eCommerce"
-msgstr ""
+msgstr "تجارت الکترونیکی"
 
 #. module: spreadsheet_dashboard_website_sale
 #. odoo-javascript
@@ -157,3 +157,4 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_website_sale/data/files/ecommerce_sample_dashboard.json:0
 msgid "since last period"
 msgstr ""
+

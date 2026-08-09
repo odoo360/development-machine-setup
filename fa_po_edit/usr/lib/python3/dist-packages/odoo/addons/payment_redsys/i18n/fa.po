@@ -27,19 +27,19 @@ msgstr ""
 #. module: payment_redsys
 #: model:ir.model.fields,field_description:payment_redsys.field_payment_provider__code
 msgid "Code"
-msgstr ""
+msgstr "کد"
 
 #. module: payment_redsys
 #: model:ir.model.fields,field_description:payment_redsys.field_payment_provider__display_name
 #: model:ir.model.fields,field_description:payment_redsys.field_payment_transaction__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: payment_redsys
 #: model:ir.model.fields,field_description:payment_redsys.field_payment_provider__id
 #: model:ir.model.fields,field_description:payment_redsys.field_payment_transaction__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: payment_redsys
 #: model_terms:ir.ui.view,arch_db:payment_redsys.payment_provider_form
@@ -54,12 +54,12 @@ msgstr ""
 #. module: payment_redsys
 #: model:ir.model,name:payment_redsys.model_payment_provider
 msgid "Payment Provider"
-msgstr ""
+msgstr "سرویس دهنده پرداخت"
 
 #. module: payment_redsys
 #: model:ir.model,name:payment_redsys.model_payment_transaction
 msgid "Payment Transaction"
-msgstr ""
+msgstr "تراکنش پرداخت"
 
 #. module: payment_redsys
 #: model:ir.model.fields.selection,name:payment_redsys.selection__payment_provider__code__redsys
@@ -84,15 +84,16 @@ msgstr ""
 #. module: payment_redsys
 #: model_terms:ir.ui.view,arch_db:payment_redsys.payment_provider_form
 msgid "Secret Key"
-msgstr ""
+msgstr "کلید محرمانه"
 
 #. module: payment_redsys
 #: model:ir.model.fields,help:payment_redsys.field_payment_provider__code
 msgid "The technical code of this payment provider."
-msgstr ""
+msgstr "کد فنی این ارائه دهنده پرداخت."
 
 #. module: payment_redsys
 #. odoo-python
 #: code:addons/payment_redsys/models/payment_transaction.py:0
 msgid "Unknown status code: %s"
 msgstr ""
+

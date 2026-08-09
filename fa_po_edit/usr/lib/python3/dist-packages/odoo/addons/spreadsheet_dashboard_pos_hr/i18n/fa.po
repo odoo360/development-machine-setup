@@ -28,26 +28,26 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_sample_dashboard.json:0
 msgid "Current"
-msgstr ""
+msgstr "جاری"
 
 #. module: spreadsheet_dashboard_pos_hr
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_sample_dashboard.json:0
 msgid "Customer"
-msgstr ""
+msgstr "مشتری"
 
 #. module: spreadsheet_dashboard_pos_hr
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_sample_dashboard.json:0
 msgid "Date"
-msgstr ""
+msgstr "تاریخ"
 
 #. module: spreadsheet_dashboard_pos_hr
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_sample_dashboard.json:0
 msgid "Employee"
-msgstr ""
+msgstr "کارمند"
 
 #. module: spreadsheet_dashboard_pos_hr
 #. odoo-javascript
@@ -61,7 +61,7 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_sample_dashboard.json:0
 msgid "Orders"
-msgstr ""
+msgstr "سفارشات"
 
 #. module: spreadsheet_dashboard_pos_hr
 #. odoo-javascript
@@ -74,7 +74,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_dashboard.json:0
 msgid "Period"
-msgstr ""
+msgstr "دوره"
 
 #. module: spreadsheet_dashboard_pos_hr
 #. odoo-javascript
@@ -82,49 +82,49 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_sample_dashboard.json:0
 #: model:spreadsheet.dashboard,name:spreadsheet_dashboard_pos_hr.spreadsheet_dashboard_pos
 msgid "Point of Sale"
-msgstr ""
+msgstr "پایانه فروش"
 
 #. module: spreadsheet_dashboard_pos_hr
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_sample_dashboard.json:0
 msgid "Previous"
-msgstr ""
+msgstr "قبلی"
 
 #. module: spreadsheet_dashboard_pos_hr
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_sample_dashboard.json:0
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 #. module: spreadsheet_dashboard_pos_hr
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_sample_dashboard.json:0
 msgid "Responsible"
-msgstr ""
+msgstr "پاسخگو"
 
 #. module: spreadsheet_dashboard_pos_hr
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_sample_dashboard.json:0
 msgid "Revenue"
-msgstr ""
+msgstr "درآمد"
 
 #. module: spreadsheet_dashboard_pos_hr
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_sample_dashboard.json:0
 msgid "Session"
-msgstr ""
+msgstr "جلسه"
 
 #. module: spreadsheet_dashboard_pos_hr
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_sample_dashboard.json:0
 msgid "Sessions"
-msgstr ""
+msgstr "جلسات"
 
 #. module: spreadsheet_dashboard_pos_hr
 #. odoo-javascript
@@ -144,7 +144,7 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_dashboard.json:0
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_sample_dashboard.json:0
 msgid "Top Products"
-msgstr ""
+msgstr "برترین محصولات"
 
 #. module: spreadsheet_dashboard_pos_hr
 #. odoo-javascript
@@ -164,7 +164,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_sample_dashboard.json:0
 msgid "Total"
-msgstr ""
+msgstr "جمع کل:"
 
 #. module: spreadsheet_dashboard_pos_hr
 #. odoo-javascript
@@ -172,3 +172,4 @@ msgstr ""
 #: code:addons/spreadsheet_dashboard_pos_hr/data/files/pos_sample_dashboard.json:0
 msgid "since last period"
 msgstr ""
+

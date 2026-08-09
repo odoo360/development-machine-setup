@@ -88,7 +88,7 @@ msgstr "آیکون نوع فعالیت"
 #: model:ir.model.fields,field_description:purchase_requisition.field_purchase_requisition__name
 #: model_terms:ir.ui.view,arch_db:purchase_requisition.purchase_order_search_inherit
 msgid "Agreement"
-msgstr ""
+msgstr "قرارداد"
 
 #. module: purchase_requisition
 #: model:ir.model.fields,field_description:purchase_requisition.field_purchase_order__requisition_type
@@ -834,7 +834,7 @@ msgstr "جستجوی توافقات خرید"
 #. module: purchase_requisition
 #: model_terms:ir.ui.view,arch_db:purchase_requisition.view_purchase_requisition_filter
 msgid "Show all records whose next activity date is past"
-msgstr ""
+msgstr "نمایش تمام رکوردهایی که تاریخ فعالیت بعدی آن‌ها گذشته است"
 
 #. module: purchase_requisition
 #. odoo-python
@@ -1183,3 +1183,4 @@ msgstr "مثلا PO0025"
 
 #~ msgid "Validate"
 #~ msgstr "تایید اعتبار"
+

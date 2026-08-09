@@ -543,7 +543,7 @@ msgstr ""
 #. module: pos_restaurant
 #: model:ir.model.fields,field_description:pos_restaurant.field_restaurant_table__floor_id
 msgid "Floor"
-msgstr ""
+msgstr "سطح"
 
 #. module: pos_restaurant
 #: model:ir.model.fields,field_description:pos_restaurant.field_restaurant_floor__floor_background_image
@@ -697,7 +697,7 @@ msgstr "پرش"
 #. odoo-javascript
 #: code:addons/pos_restaurant/static/src/app/screens/payment_screen/payment_screen.xml:0
 msgid "Keep Open"
-msgstr ""
+msgstr "باز بماند"
 
 #. module: pos_restaurant
 #: model:ir.model.fields,field_description:pos_restaurant.field_restaurant_floor__write_uid
@@ -796,7 +796,7 @@ msgstr ""
 #. module: pos_restaurant
 #: model:product.attribute.value,name:pos_restaurant.pav_extras_pizza_mushroom
 msgid "Mushroom"
-msgstr ""
+msgstr "قارچ"
 
 #. module: pos_restaurant
 #: model:product.template,name:pos_restaurant.product_negroni_product_template
@@ -1315,7 +1315,7 @@ msgstr "جداول"
 #. module: pos_restaurant
 #: model:pos.preset,name:pos_restaurant.pos_takeout_preset
 msgid "Takeout"
-msgstr ""
+msgstr "بیرون بردن"
 
 #. module: pos_restaurant
 #: model:product.template,description_sale:pos_restaurant.product_margarita_product_template
@@ -1418,7 +1418,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/pos_restaurant/static/src/app/screens/ticket_screen/ticket_screen.js:0
 msgid "Tipping"
-msgstr ""
+msgstr "کج ▁انعام‌دادن"
 
 #. module: pos_restaurant
 #: model:product.template,description_sale:pos_restaurant.pos_food_margherita_product_template
@@ -1503,7 +1503,7 @@ msgstr ""
 #. module: pos_restaurant
 #: model:product.template,name:pos_restaurant.water_product_template
 msgid "Water"
-msgstr ""
+msgstr "آب"
 
 #. module: pos_restaurant
 #: model:product.template,name:pos_restaurant.product_whiskey_sour_product_template
@@ -1534,7 +1534,7 @@ msgstr "عرض"
 #. odoo-javascript
 #: code:addons/pos_restaurant/static/src/app/screens/split_bill_screen/split_bill_screen.xml:0
 msgid "With"
-msgstr ""
+msgstr "با"
 
 #. module: pos_restaurant
 #. odoo-javascript
@@ -1691,3 +1691,4 @@ msgstr ""
 
 #~ msgid "discount"
 #~ msgstr "تخفیف"
+

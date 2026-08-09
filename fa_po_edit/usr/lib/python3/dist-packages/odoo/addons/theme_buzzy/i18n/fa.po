@@ -50,7 +50,7 @@ msgstr ""
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_empowerment
 msgid "About us"
-msgstr ""
+msgstr "درباره ما"
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_three_columns
@@ -133,7 +133,7 @@ msgstr ""
 #. module: theme_buzzy
 #: model:ir.model.fields,field_description:theme_buzzy.field_theme_utils__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_three_columns
@@ -231,12 +231,12 @@ msgstr ""
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_striped_center_top
 msgid "Get Started"
-msgstr ""
+msgstr "شروع کنید"
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_empowerment
 msgid "Get in touch"
-msgstr ""
+msgstr "ارتباط با ما"
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_image_text
@@ -251,7 +251,7 @@ msgstr ""
 #. module: theme_buzzy
 #: model:ir.model.fields,field_description:theme_buzzy.field_theme_utils__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
@@ -293,7 +293,7 @@ msgstr ""
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_cta_box
 msgid "Learn more"
-msgstr ""
+msgstr "اطلاعات بیشتر"
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_cta_box
@@ -405,7 +405,7 @@ msgstr ""
 #. module: theme_buzzy
 #: model:ir.model,name:theme_buzzy.model_theme_utils
 msgid "Theme Utils"
-msgstr ""
+msgstr "ابزارهای تم"
 
 #. module: theme_buzzy
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_text_image
@@ -467,3 +467,4 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_buzzy.s_pricelist_boxed
 msgid "✽  Technology Solutions"
 msgstr ""
+

@@ -43,7 +43,7 @@ msgstr "شناسه"
 #. odoo-python
 #: code:addons/mass_mailing_sale/models/mailing_mailing.py:0
 msgid "INVOICED"
-msgstr ""
+msgstr "فاکتور شده"
 
 #. module: mass_mailing_sale
 #: model_terms:ir.ui.view,arch_db:mass_mailing_sale.mailing_mailing_view_form
@@ -82,7 +82,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/mass_mailing_sale/models/mailing_mailing.py:0
 msgid "QUOTATIONS"
-msgstr ""
+msgstr "پیش‌فاکتور"
 
 #. module: mass_mailing_sale
 #: model:ir.model.fields,field_description:mass_mailing_sale.field_mailing_mailing__sale_quotation_count
@@ -139,3 +139,4 @@ msgstr "کمپین UTM"
 #: model:ir.model.fields,field_description:mass_mailing_sale.field_utm_campaign__ab_testing_winner_selection
 msgid "Winner Selection"
 msgstr ""
+

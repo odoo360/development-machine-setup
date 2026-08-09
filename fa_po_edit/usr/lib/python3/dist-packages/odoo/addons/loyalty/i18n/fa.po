@@ -267,7 +267,7 @@ msgstr ""
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_reward_view_form
 msgid "<span>on</span>"
-msgstr ""
+msgstr "<span>رو</span>"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_report
@@ -389,7 +389,7 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__message_needaction
 msgid "Action Needed"
-msgstr ""
+msgstr "اقدام مورد نیاز است"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__active
@@ -399,7 +399,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_rule__active
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_card_view_search
 msgid "Active"
-msgstr ""
+msgstr "فعال"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_res_partner__loyalty_card_count
@@ -411,7 +411,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/loyalty/static/src/xml/loyalty_templates.xml:0
 msgid "Add"
-msgstr ""
+msgstr "افزودن"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_form
@@ -421,7 +421,7 @@ msgstr ""
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_form
 msgid "Add a rule"
-msgstr ""
+msgstr "یک قانون اضافه کنید"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_reward__all_discount_product_ids
@@ -447,7 +447,7 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_rule__mode
 msgid "Application"
-msgstr ""
+msgstr "برنامه"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_reward_view_kanban
@@ -463,7 +463,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_form
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_search
 msgid "Archived"
-msgstr ""
+msgstr "بایگانی شده"
 
 #. module: loyalty
 #: model:ir.model.fields.selection,name:loyalty.selection__loyalty_mail__trigger__create
@@ -473,13 +473,13 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__message_attachment_count
 msgid "Attachment Count"
-msgstr ""
+msgstr "تعداد پیوست ها"
 
 #. module: loyalty
 #: model:ir.model.fields.selection,name:loyalty.selection__loyalty_program__trigger__auto
 #: model:ir.model.fields.selection,name:loyalty.selection__loyalty_rule__mode__auto
 msgid "Automatic"
-msgstr ""
+msgstr "خودکار"
 
 #. module: loyalty
 #. odoo-python
@@ -497,12 +497,12 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_card_view_form
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_card_view_tree
 msgid "Balance"
-msgstr ""
+msgstr "تعادل"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.gift_card_report
 msgid "Barcode"
-msgstr ""
+msgstr "بارکد"
 
 #. module: loyalty
 #. odoo-python
@@ -538,13 +538,13 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_card_update_balance_form
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_generate_wizard_view_form
 msgid "Cancel"
-msgstr ""
+msgstr "لغو"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card_update_balance__card_id
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_history__card_id
 msgid "Card"
-msgstr ""
+msgstr "کارت"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.gift_card_report
@@ -554,7 +554,7 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_rule__product_category_id
 msgid "Categories"
-msgstr ""
+msgstr "دسته بندی ها"
 
 #. module: loyalty
 #: model:ir.model.fields.selection,name:loyalty.selection__loyalty_reward__discount_applicability__cheapest
@@ -574,7 +574,7 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__code
 msgid "Code"
-msgstr ""
+msgstr "کد"
 
 #. module: loyalty
 #: model:loyalty.program,name:loyalty.10_percent_with_code
@@ -589,7 +589,7 @@ msgstr ""
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_form
 msgid "Communications"
-msgstr ""
+msgstr "ارتباطات"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__company_id
@@ -598,13 +598,13 @@ msgstr ""
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_reward__company_id
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_rule__company_id
 msgid "Company"
-msgstr ""
+msgstr "شرکت"
 
 #. module: loyalty
 #. odoo-python
 #: code:addons/loyalty/models/loyalty_card.py:0
 msgid "Compose Email"
-msgstr ""
+msgstr "نگارش ایمیل"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_program__rule_ids
@@ -614,17 +614,17 @@ msgstr ""
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_rule_view_form
 msgid "Conditions"
-msgstr ""
+msgstr "شرایط"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_card_update_balance_form
 msgid "Confirm"
-msgstr ""
+msgstr "تأیید"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_generate_wizard__confirmation_message
 msgid "Confirmation Message"
-msgstr ""
+msgstr "پیغام تایید"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_report
@@ -634,13 +634,13 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model,name:loyalty.model_res_partner
 msgid "Contact"
-msgstr ""
+msgstr "مخاطب"
 
 #. module: loyalty
 #. odoo-javascript
 #: code:addons/loyalty/static/src/xml/loyalty_templates.xml:0
 msgid "Control panel buttons"
-msgstr ""
+msgstr "دکمه‌های کنترل پنل"
 
 #. module: loyalty
 #. odoo-python
@@ -652,7 +652,7 @@ msgstr ""
 #. module: loyalty
 #: model:ir.actions.report,name:loyalty.report_loyalty_card
 msgid "Coupon Code"
-msgstr ""
+msgstr "کد کوپن"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_program__coupon_count
@@ -692,7 +692,7 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model,website_form_label:loyalty.model_res_partner
 msgid "Create a Customer"
-msgstr ""
+msgstr "ایجاد مشتری"
 
 #. module: loyalty
 #: model_terms:ir.actions.act_window,help:loyalty.loyalty_program_gift_ewallet_action
@@ -708,7 +708,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/loyalty/static/src/xml/loyalty_templates.xml:0
 msgid "Create record"
-msgstr ""
+msgstr "ایجاد رکورد"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__create_uid
@@ -720,7 +720,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_reward__create_uid
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_rule__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "ایجاد شده توسط"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__create_date
@@ -732,7 +732,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_reward__create_date
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_rule__create_date
 msgid "Created on"
-msgstr ""
+msgstr "ایجادشده در"
 
 #. module: loyalty
 #. odoo-python
@@ -747,12 +747,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_reward__currency_id
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_rule__currency_id
 msgid "Currency"
-msgstr ""
+msgstr "ارز"
 
 #. module: loyalty
 #: model:ir.model.fields,help:loyalty.field_loyalty_program__currency_symbol
 msgid "Currency sign, to be used when printing amounts."
-msgstr ""
+msgstr "علامت واحد پول، برای استفاده هنگام چاپ مبالغ."
 
 #. module: loyalty
 #: model:ir.model.fields.selection,name:loyalty.selection__loyalty_program__applies_on__both
@@ -772,7 +772,7 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_generate_wizard__customer_ids
 msgid "Customers"
-msgstr ""
+msgstr "مشتریان"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_report
@@ -790,7 +790,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_card_history_template
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_card_view_form
 msgid "Date"
-msgstr ""
+msgstr "تاریخ"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_form
@@ -809,7 +809,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_card_history_template
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_generate_wizard_view_form
 msgid "Description"
-msgstr ""
+msgstr "توصیف"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_reward_view_form
@@ -821,7 +821,7 @@ msgstr ""
 #: model:ir.model.fields.selection,name:loyalty.selection__loyalty_reward__reward_type__discount
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_reward_view_form
 msgid "Discount"
-msgstr ""
+msgstr "تخفیف"
 
 #. module: loyalty
 #: model:ir.actions.act_window,name:loyalty.loyalty_program_discount_loyalty_action
@@ -852,7 +852,7 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_program__payment_program_discount_product_id
 msgid "Discount Product"
-msgstr ""
+msgstr "تخفیف محصول"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_reward__discount_product_domain
@@ -877,7 +877,7 @@ msgstr ""
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_reward_view_form
 msgid "Discount product"
-msgstr ""
+msgstr "تخفیف محصول"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_reward__discount_product_category_id
@@ -898,7 +898,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/loyalty/models/loyalty_program.py:0
 msgid "Discounts"
-msgstr ""
+msgstr "تخفیف ها"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_base_partner_merge_automatic_wizard__display_name
@@ -915,12 +915,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:loyalty.field_product_template__display_name
 #: model:ir.model.fields,field_description:loyalty.field_res_partner__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_form
 msgid "Displayed as"
-msgstr ""
+msgstr "نمایش داده شده به صورت"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_form
@@ -939,17 +939,17 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_mail__mail_template_id
 msgid "Email Template"
-msgstr ""
+msgstr "قالب ایمیل"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_program__mail_template_id
 msgid "Email template"
-msgstr ""
+msgstr "قالب ایمیل"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_program__date_to
 msgid "End date"
-msgstr ""
+msgstr "تاریخ پایان"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_card_update_balance_form
@@ -960,7 +960,7 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__expiration_date
 msgid "Expiration Date"
-msgstr ""
+msgstr "تاریخ انقضا"
 
 #. module: loyalty
 #. odoo-python
@@ -989,17 +989,17 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__message_follower_ids
 msgid "Followers"
-msgstr ""
+msgstr "دنبال کنندگان"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__message_partner_ids
 msgid "Followers (Partners)"
-msgstr ""
+msgstr "پیروان (شرکاء)"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_generate_wizard__mode
 msgid "For"
-msgstr ""
+msgstr "برای"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_generate_wizard_view_form
@@ -1046,7 +1046,7 @@ msgstr ""
 #: model:ir.actions.act_window,name:loyalty.loyalty_generate_wizard_action
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_generate_wizard_view_form
 msgid "Generate"
-msgstr ""
+msgstr "ایجاد"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_form
@@ -1154,7 +1154,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_rule_view_form
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_rule_view_kanban
 msgid "Grant"
-msgstr ""
+msgstr "اعطا کردن"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_form
@@ -1166,7 +1166,7 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__has_message
 msgid "Has Message"
-msgstr ""
+msgstr "آیا دارای پیام است"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.gift_card_report
@@ -1181,7 +1181,7 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__history_ids
 msgid "History"
-msgstr ""
+msgstr "تاریخچه"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_card_view_form
@@ -1208,18 +1208,20 @@ msgstr ""
 #: model:ir.model.fields,field_description:loyalty.field_product_template__id
 #: model:ir.model.fields,field_description:loyalty.field_res_partner__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: loyalty
 #: model:ir.model.fields,help:loyalty.field_loyalty_card__message_needaction
 msgid "If checked, new messages require your attention."
 msgstr ""
+""
+"اگر این گزینه را انتخاب کنید، پیام‌های جدید به توجه شما نیاز خواهند داشت."
 
 #. module: loyalty
 #: model:ir.model.fields,help:loyalty.field_loyalty_card__message_has_error
 #: model:ir.model.fields,help:loyalty.field_loyalty_card__message_has_sms_error
 msgid "If checked, some messages have a delivery error."
-msgstr ""
+msgstr "اگر علامت زده شود، برخی از پیام ها دارای خطای تحویل هستند."
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_rule_view_kanban
@@ -1235,7 +1237,7 @@ msgstr ""
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_card_view_search
 msgid "Inactive"
-msgstr ""
+msgstr "غیرفعال"
 
 #. module: loyalty
 #. odoo-python
@@ -1246,7 +1248,7 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__message_is_follower
 msgid "Is Follower"
-msgstr ""
+msgstr "آیا دنبال می کند"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_reward__is_global_discount
@@ -1275,12 +1277,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_program__coupon_count_display
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_tree
 msgid "Items"
-msgstr ""
+msgstr "آیتم ها"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_report
 msgid "John Doe"
-msgstr ""
+msgstr "جان دو"
 
 #. module: loyalty
 #. odoo-javascript
@@ -1298,7 +1300,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_reward__write_uid
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_rule__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "آخرین تغییر توسط"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__write_date
@@ -1310,12 +1312,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_reward__write_date
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_rule__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "آخرین به روز رسانی در"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_mail_view_tree
 msgid "Limit"
-msgstr ""
+msgstr "محدودیت"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_program__limit_usage
@@ -1325,7 +1327,7 @@ msgstr ""
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_report
 msgid "Logo"
-msgstr ""
+msgstr "نشان"
 
 #. module: loyalty
 #. odoo-python
@@ -1400,17 +1402,17 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model,name:loyalty.model_base_partner_merge_automatic_wizard
 msgid "Merge Partner Wizard"
-msgstr ""
+msgstr "ویزارد ادغام شریک"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__message_has_error
 msgid "Message Delivery error"
-msgstr ""
+msgstr "خطای تحویل پیام"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__message_ids
 msgid "Messages"
-msgstr ""
+msgstr "پیام ها"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_rule__minimum_amount_tax_mode
@@ -1435,7 +1437,7 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card_update_balance__new_balance
 msgid "New Balance"
-msgstr ""
+msgstr "تراز جدید"
 
 #. module: loyalty
 #. odoo-python
@@ -1474,34 +1476,34 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__message_needaction_counter
 msgid "Number of Actions"
-msgstr ""
+msgstr "تعداد اقدامات"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__message_has_error_counter
 msgid "Number of errors"
-msgstr ""
+msgstr "تعداد خطاها"
 
 #. module: loyalty
 #: model:ir.model.fields,help:loyalty.field_loyalty_card__message_needaction_counter
 msgid "Number of messages requiring action"
-msgstr ""
+msgstr "تعداد پیام هایی که نیاز به اقدام دارند"
 
 #. module: loyalty
 #: model:ir.model.fields,help:loyalty.field_loyalty_card__message_has_error_counter
 msgid "Number of messages with delivery error"
-msgstr ""
+msgstr "تعداد پیامهای با خطای تحویل"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_report
 msgid "Odoo"
-msgstr ""
+msgstr "اودو"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_history__order_id
 #: model:ir.model.fields.selection,name:loyalty.selection__loyalty_reward__discount_applicability__order
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_card_history_template
 msgid "Order"
-msgstr ""
+msgstr "سفارش"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_history__order_model
@@ -1511,7 +1513,7 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__partner_id
 msgid "Partner"
-msgstr ""
+msgstr "همکار"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_rule_view_form
@@ -1524,7 +1526,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_mail__points
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_reward_view_form
 msgid "Points"
-msgstr ""
+msgstr "امتیازها"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__points_display
@@ -1559,13 +1561,13 @@ msgstr ""
 #: model:ir.model,name:loyalty.model_product_pricelist
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_program__pricelist_ids
 msgid "Pricelist"
-msgstr ""
+msgstr "لیست قیمت"
 
 #. module: loyalty
 #: model:ir.model,name:loyalty.model_product_template
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_reward__reward_product_id
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_rule__product_domain
@@ -1576,12 +1578,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_reward__reward_product_tag_id
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_rule__product_tag_id
 msgid "Product Tag"
-msgstr ""
+msgstr "برچسب محصول"
 
 #. module: loyalty
 #: model:ir.model,name:loyalty.model_product_product
 msgid "Product Variant"
-msgstr ""
+msgstr "گونه محصول"
 
 #. module: loyalty
 #: model:ir.model.fields,help:loyalty.field_loyalty_program__payment_program_discount_product_id
@@ -1599,7 +1601,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_program__trigger_product_ids
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_rule__product_ids
 msgid "Products"
-msgstr ""
+msgstr "محصولات"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__program_id
@@ -1608,7 +1610,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_reward__program_id
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_rule__program_id
 msgid "Program"
-msgstr ""
+msgstr "برنامه"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_program__name
@@ -1634,7 +1636,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/loyalty/models/loyalty_program.py:0
 msgid "Promo Code"
-msgstr ""
+msgstr "کد تخفیف"
 
 #. module: loyalty
 #. odoo-python
@@ -1657,12 +1659,12 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields.selection,name:loyalty.selection__loyalty_program__program_type__promotion
 msgid "Promotions"
-msgstr ""
+msgstr "تبلیغات"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_generate_wizard__coupon_qty
 msgid "Quantity"
-msgstr ""
+msgstr "تعداد"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_reward_view_form
@@ -1677,13 +1679,13 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__rating_ids
 msgid "Ratings"
-msgstr ""
+msgstr "رتبه‌ها"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_rule__reward_point_amount
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_reward_view_form
 msgid "Reward"
-msgstr ""
+msgstr "پاداش"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_rule__reward_point_mode
@@ -1719,7 +1721,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_program__reward_ids
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_form
 msgid "Rewards"
-msgstr ""
+msgstr "پاداش‌ها"
 
 #. module: loyalty
 #: model:ir.model.constraint,message:loyalty.constraint_loyalty_rule_reward_point_amount_positive
@@ -1734,7 +1736,7 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__message_has_sms_error
 msgid "SMS Delivery error"
-msgstr ""
+msgstr "خطای تحویل پیامک"
 
 #. module: loyalty
 #: model:ir.model.fields.selection,name:loyalty.selection__loyalty_generate_wizard__mode__selected
@@ -1750,7 +1752,7 @@ msgstr ""
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_card_view_tree
 msgid "Send"
-msgstr ""
+msgstr "ارسال"
 
 #. module: loyalty
 #. odoo-python
@@ -1771,7 +1773,7 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_program__sequence
 msgid "Sequence"
-msgstr ""
+msgstr "دنباله"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_form
@@ -1804,12 +1806,12 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_program__date_from
 msgid "Start Date"
-msgstr ""
+msgstr "تاریخ آغاز"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_program__currency_symbol
 msgid "Symbol"
-msgstr ""
+msgstr "نماد"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_report
@@ -1918,7 +1920,7 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_program__trigger
 msgid "Trigger"
-msgstr ""
+msgstr "راه اندازی"
 
 #. module: loyalty
 #. odoo-python
@@ -1958,7 +1960,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_history__used
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_card_history_template
 msgid "Used"
-msgstr ""
+msgstr "استفاده شده"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_reward__user_has_debug
@@ -1969,33 +1971,33 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_generate_wizard__valid_until
 msgid "Valid Until"
-msgstr ""
+msgstr "معتبر تا"
 
 #. module: loyalty
 #. odoo-javascript
 #: code:addons/loyalty/static/src/js/portal/loyalty_card_dialog/loyalty_card_dialog.xml:0
 msgid "Valid until"
-msgstr ""
+msgstr "معتبر تا"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_form
 msgid "Visible to all"
-msgstr ""
+msgstr "قابل‌مشاهده برای همه"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__website_message_ids
 msgid "Website Messages"
-msgstr ""
+msgstr "پیام های وب سایت"
 
 #. module: loyalty
 #: model:ir.model.fields,help:loyalty.field_loyalty_card__website_message_ids
 msgid "Website communication history"
-msgstr ""
+msgstr "تاریخچه ارتباط با وبسایت"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_mail__trigger
 msgid "When"
-msgstr ""
+msgstr "زمانی که"
 
 #. module: loyalty
 #: model:ir.model.fields.selection,name:loyalty.selection__loyalty_mail__trigger__points_reach
@@ -2080,12 +2082,12 @@ msgstr ""
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_reward_view_kanban
 msgid "all"
-msgstr ""
+msgstr "همه"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_reward_view_kanban
 msgid "discount"
-msgstr ""
+msgstr "تخفیف"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_form
@@ -2146,7 +2148,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/loyalty/models/loyalty_rule.py:0
 msgid "money"
-msgstr ""
+msgstr "پول"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_reward_view_kanban
@@ -2173,7 +2175,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/loyalty/models/loyalty_rule.py:0
 msgid "per order"
-msgstr ""
+msgstr "به ازای هر سفارش"
 
 #. module: loyalty
 #. odoo-python
@@ -2195,12 +2197,12 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields.selection,name:loyalty.selection__loyalty_rule__minimum_amount_tax_mode__excl
 msgid "tax excluded"
-msgstr ""
+msgstr "بدون مالیات"
 
 #. module: loyalty
 #: model:ir.model.fields.selection,name:loyalty.selection__loyalty_rule__minimum_amount_tax_mode__incl
 msgid "tax included"
-msgstr ""
+msgstr "مالیات شامل"
 
 #. module: loyalty
 #. odoo-python
@@ -2216,7 +2218,7 @@ msgstr ""
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_form
 msgid "to"
-msgstr ""
+msgstr "تا"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_form
@@ -2237,4 +2239,5 @@ msgstr ""
 #. odoo-python
 #: code:addons/loyalty/models/loyalty_reward.py:0
 msgid "your order"
-msgstr ""
+msgstr "سفارش شما"
+

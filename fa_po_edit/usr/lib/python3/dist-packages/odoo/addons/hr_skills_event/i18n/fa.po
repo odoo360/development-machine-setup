@@ -19,7 +19,7 @@ msgstr ""
 #. module: hr_skills_event
 #: model:ir.model.fields,field_description:hr_skills_event.field_hr_resume_line__course_type
 msgid "Course Type"
-msgstr ""
+msgstr "نوع دوره"
 
 #. module: hr_skills_event
 #: model_terms:ir.actions.act_window,help:hr_skills_event.event_training_onsite_action
@@ -29,12 +29,12 @@ msgstr ""
 #. module: hr_skills_event
 #: model:ir.model.fields,field_description:hr_skills_event.field_hr_resume_line__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: hr_skills_event
 #: model:ir.model.fields,field_description:hr_skills_event.field_hr_resume_line__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: hr_skills_event
 #: model:ir.model.fields.selection,name:hr_skills_event.selection__hr_resume_line__course_type__onsite
@@ -55,7 +55,7 @@ msgstr ""
 #. module: hr_skills_event
 #: model:ir.model,name:hr_skills_event.model_hr_resume_line
 msgid "Resume line of an employee"
-msgstr ""
+msgstr "خط رزومه یک کارمند"
 
 #. module: hr_skills_event
 #: model_terms:ir.actions.act_window,help:hr_skills_event.event_training_onsite_action
@@ -63,3 +63,4 @@ msgid ""
 "Schedule and organize your events: handle registrations, send automated "
 "confirmation emails, sell tickets, etc."
 msgstr ""
+

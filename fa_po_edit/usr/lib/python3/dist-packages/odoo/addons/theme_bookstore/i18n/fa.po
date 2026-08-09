@@ -328,7 +328,7 @@ msgstr ""
 #. module: theme_bookstore
 #: model:ir.model.fields,field_description:theme_bookstore.field_theme_utils__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_cards_grid
@@ -526,7 +526,7 @@ msgstr ""
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_text_cover
 msgid "Get started"
-msgstr ""
+msgstr "شروع کنید"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_numbers
@@ -554,7 +554,7 @@ msgstr ""
 #. module: theme_bookstore
 #: model:ir.model.fields,field_description:theme_bookstore.field_theme_utils__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_cover
@@ -796,7 +796,7 @@ msgstr ""
 #. module: theme_bookstore
 #: model:ir.model,name:theme_bookstore.model_theme_utils
 msgid "Theme Utils"
-msgstr ""
+msgstr "ابزارهای تم"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_showcase
@@ -959,7 +959,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/theme_bookstore/static/src/js/tour.js:0
 msgid "width"
-msgstr ""
+msgstr "عرض"
 
 #. module: theme_bookstore
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_title
@@ -975,3 +975,4 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_bookstore.s_pricelist_boxed
 msgid "✽  Non-Fiction"
 msgstr ""
+

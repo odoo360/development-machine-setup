@@ -409,7 +409,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/html_editor/static/src/main/movenode_plugin.js:0
 msgid "Click to select"
-msgstr ""
+msgstr "کلیک کنید برای انتخاب"
 
 #. module: html_editor
 #. odoo-javascript
@@ -614,7 +614,7 @@ msgstr "اسناد"
 #. odoo-javascript
 #: code:addons/html_editor/static/src/main/movenode_plugin.js:0
 msgid "Drag to move"
-msgstr ""
+msgstr "بکشید تا جابجا کنید"
 
 #. module: html_editor
 #. odoo-javascript
@@ -639,7 +639,7 @@ msgstr "ویرایش"
 #. odoo-javascript
 #: code:addons/html_editor/static/src/main/link/link_popover.xml:0
 msgid "Edit Link"
-msgstr ""
+msgstr "ویرایش پیوند"
 
 #. module: html_editor
 #. odoo-javascript
@@ -1216,7 +1216,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/html_editor/static/src/main/powerbox/powerbox_plugin.js:0
 msgid "Modules"
-msgstr ""
+msgstr "ماژول‌ها"
 
 #. module: html_editor
 #. odoo-javascript
@@ -1235,7 +1235,7 @@ msgstr ""
 #: code:addons/html_editor/static/src/main/powerbox/search_powerbox_plugin.js:0
 #: code:addons/html_editor/static/src/others/embedded_components/backend/video/video.xml:0
 msgid "More options"
-msgstr ""
+msgstr "گزینه‌های بیشتر"
 
 #. module: html_editor
 #. odoo-javascript
@@ -1554,7 +1554,7 @@ msgstr ""
 #: code:addons/html_editor/static/src/main/link/link_plugin.js:0
 #: code:addons/html_editor/static/src/main/link/link_popover.xml:0
 msgid "Remove Link"
-msgstr ""
+msgstr "حذف لینک"
 
 #. module: html_editor
 #. odoo-javascript
@@ -1860,7 +1860,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/html_editor/static/src/main/star_plugin.js:0
 msgid "Stars"
-msgstr ""
+msgstr "ستاره‌ها"
 
 #. module: html_editor
 #. odoo-javascript
@@ -2388,7 +2388,7 @@ msgstr "متن فایل:"
 #. odoo-javascript
 #: code:addons/html_editor/static/src/main/separator_plugin.js:0
 msgid "line"
-msgstr ""
+msgstr "سطر"
 
 #. module: html_editor
 #. odoo-javascript
@@ -2418,7 +2418,7 @@ msgstr "px"
 #. odoo-javascript
 #: code:addons/html_editor/static/src/main/font/font_plugin.js:0
 msgid "title"
-msgstr ""
+msgstr "عنوان"
 
 #. module: html_editor
 #. odoo-javascript
@@ -2442,3 +2442,4 @@ msgstr ""
 
 #~ msgid "Shape"
 #~ msgstr "شکل"
+

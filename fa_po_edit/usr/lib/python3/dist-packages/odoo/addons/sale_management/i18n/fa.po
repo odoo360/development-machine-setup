@@ -199,7 +199,7 @@ msgstr ""
 #. module: sale_management
 #: model:ir.model.fields,field_description:sale_management.field_sale_order_template__journal_id
 msgid "Invoicing Journal"
-msgstr ""
+msgstr "دفتر روزنامه صورتحساب"
 
 #. module: sale_management
 #: model:ir.model.fields,field_description:sale_management.field_digest_digest__kpi_all_sale_total_value
@@ -270,13 +270,13 @@ msgstr ""
 #. module: sale_management
 #: model:ir.model.fields,field_description:sale_management.field_sale_order_template__prepayment_percent
 msgid "Prepayment percentage"
-msgstr ""
+msgstr "درصد پیش پرداخت"
 
 #. module: sale_management
 #. odoo-python
 #: code:addons/sale_management/models/sale_order_template.py:0
 msgid "Prepayment percentage must be a valid percentage."
-msgstr ""
+msgstr "درصد پیش پرداخت باید یک درصد معتبر باشد."
 
 #. module: sale_management
 #: model:ir.model.fields,field_description:sale_management.field_sale_order_template_line__product_id
@@ -439,7 +439,7 @@ msgstr ""
 #. module: sale_management
 #: model:ir.model.fields,help:sale_management.field_sale_order_template__prepayment_percent
 msgid "The percentage of the amount needed to be paid to confirm quotations."
-msgstr ""
+msgstr "درصدی از مبلغی که باید برای تایید پیش فاکتورها پرداخت شود."
 
 #. module: sale_management
 #: model:ir.model.fields,help:sale_management.field_sale_order_template__mail_template_id
@@ -464,7 +464,7 @@ msgstr "نکته: فروش یا خرید محصولات به صورت عمده �
 #. module: sale_management
 #: model:ir.model.fields,field_description:sale_management.field_sale_order_template_line__product_uom_id
 msgid "Unit"
-msgstr ""
+msgstr "عدد"
 
 #. module: sale_management
 #. odoo-javascript
@@ -491,7 +491,7 @@ msgstr ""
 #. module: sale_management
 #: model_terms:ir.ui.view,arch_db:sale_management.sale_order_template_view_form
 msgid "Visible to all"
-msgstr ""
+msgstr "قابل‌مشاهده برای همه"
 
 #. module: sale_management
 #. odoo-python
@@ -660,3 +660,4 @@ msgstr ""
 #~ "استعلام قیمت شما متعلق به شرکت %(quote_company)s است.\n"
 #~ "  لطفا شرکت استعلام قیمت خود را تغییر دهید یا محصولات را از سایر شرکت ها "
 #~ "(%(bad_products)s) حذف کنید."
+

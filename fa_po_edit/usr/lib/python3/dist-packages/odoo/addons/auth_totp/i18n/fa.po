@@ -154,7 +154,7 @@ msgstr "فعال‌سازی 2FA"
 #. module: auth_totp
 #: model_terms:ir.ui.view,arch_db:auth_totp.view_totp_wizard
 msgid "Enable Two-Factor Authentication"
-msgstr ""
+msgstr "احراز هویت دو مرحله ای را فعال کنید"
 
 #. module: auth_totp
 #: model:ir.model.fields,field_description:auth_totp.field_auth_totp_device__expiration_date
@@ -335,7 +335,7 @@ msgstr "کد تاییدیه"
 #. module: auth_totp
 #: model_terms:ir.ui.view,arch_db:auth_totp.view_totp_wizard
 msgid "Verification code"
-msgstr ""
+msgstr "کد تاییدیه"
 
 #. module: auth_totp
 #. odoo-python
@@ -375,3 +375,4 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:auth_totp.auth_totp_form
 msgid "e.g. 123456"
 msgstr "به طور مثال 123456"
+

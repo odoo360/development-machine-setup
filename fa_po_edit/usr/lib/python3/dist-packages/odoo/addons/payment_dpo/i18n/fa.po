@@ -27,7 +27,7 @@ msgstr ""
 #. module: payment_dpo
 #: model:ir.model.fields,field_description:payment_dpo.field_payment_provider__code
 msgid "Code"
-msgstr ""
+msgstr "کد"
 
 #. module: payment_dpo
 #: model_terms:ir.ui.view,arch_db:payment_dpo.payment_provider_form
@@ -53,23 +53,23 @@ msgstr ""
 #: model:ir.model.fields,field_description:payment_dpo.field_payment_provider__display_name
 #: model:ir.model.fields,field_description:payment_dpo.field_payment_transaction__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: payment_dpo
 #: model:ir.model.fields,field_description:payment_dpo.field_payment_provider__id
 #: model:ir.model.fields,field_description:payment_dpo.field_payment_transaction__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: payment_dpo
 #: model:ir.model,name:payment_dpo.model_payment_provider
 msgid "Payment Provider"
-msgstr ""
+msgstr "سرویس دهنده پرداخت"
 
 #. module: payment_dpo
 #: model:ir.model,name:payment_dpo.model_payment_transaction
 msgid "Payment Transaction"
-msgstr ""
+msgstr "تراکنش پرداخت"
 
 #. module: payment_dpo
 #: model_terms:ir.ui.view,arch_db:payment_dpo.payment_provider_form
@@ -79,10 +79,11 @@ msgstr ""
 #. module: payment_dpo
 #: model:ir.model.fields,help:payment_dpo.field_payment_provider__code
 msgid "The technical code of this payment provider."
-msgstr ""
+msgstr "کد فنی این ارائه دهنده پرداخت."
 
 #. module: payment_dpo
 #. odoo-python
 #: code:addons/payment_dpo/models/payment_transaction.py:0
 msgid "Unknown status code: %s"
 msgstr ""
+

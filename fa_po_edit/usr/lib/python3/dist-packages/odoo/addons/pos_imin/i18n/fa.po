@@ -26,17 +26,17 @@ msgstr ""
 #. module: pos_imin
 #: model:ir.model,name:pos_imin.model_res_config_settings
 msgid "Config Settings"
-msgstr ""
+msgstr "تنظیمات پیکربندی"
 
 #. module: pos_imin
 #: model:ir.model.fields,field_description:pos_imin.field_res_config_settings__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: pos_imin
 #: model:ir.model.fields,field_description:pos_imin.field_res_config_settings__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: pos_imin
 #. odoo-javascript
@@ -60,10 +60,11 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/pos_imin/static/src/app/utils/imin_printer.js:0
 msgid "Printing failed"
-msgstr ""
+msgstr "چاپ شکست خورد"
 
 #. module: pos_imin
 #. odoo-javascript
 #: code:addons/pos_imin/static/src/app/utils/imin_printer.js:0
 msgid "The printer is not connected or not powered on"
 msgstr ""
+

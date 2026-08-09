@@ -618,7 +618,7 @@ msgstr "فعالیت ها"
 #: model_terms:ir.ui.view,arch_db:project.view_project_project_filter
 #: model_terms:ir.ui.view,arch_db:project.view_task_search_form_project_base
 msgid "Activities of"
-msgstr ""
+msgstr "فعالیت‌های"
 
 #. module: project
 #: model:ir.model.fields,field_description:project.field_project_project__activity_exception_decoration
@@ -3269,7 +3269,7 @@ msgstr ""
 #. module: project
 #: model:ir.model.fields.selection,name:project.selection__project_task_burndown_chart_report__is_closed__open
 msgid "Open tasks"
-msgstr ""
+msgstr "وظایف باز"
 
 #. module: project
 #: model:ir.model.fields,help:project.field_project_project__alias_force_thread_id
@@ -4314,7 +4314,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:project.view_project_project_filter
 #: model_terms:ir.ui.view,arch_db:project.view_task_search_form
 msgid "Show all records whose next activity date is past"
-msgstr ""
+msgstr "نمایش تمام رکوردهایی که تاریخ فعالیت بعدی آن‌ها گذشته است"
 
 #. module: project
 #. odoo-javascript
@@ -5495,7 +5495,7 @@ msgstr "قابلیت مشاهده"
 #: model_terms:ir.ui.view,arch_db:project.view_task_form2
 #: model_terms:ir.ui.view,arch_db:project.view_task_search_form_project_fsm_base
 msgid "Visible to all"
-msgstr ""
+msgstr "قابل‌مشاهده برای همه"
 
 #. module: project
 #. odoo-javascript
@@ -5766,7 +5766,7 @@ msgstr "نام مستعار"
 #. module: project
 #: model_terms:ir.ui.view,arch_db:project.edit_project
 msgid "analytic"
-msgstr ""
+msgstr "تحلیلی"
 
 #. module: project
 #. odoo-javascript
@@ -6307,3 +6307,4 @@ msgstr "خصوصی 🔒"
 
 #~ msgid "to post a comment."
 #~ msgstr "برای ارسال یک کامنت"
+

@@ -117,7 +117,7 @@ msgstr ""
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.new_page_template_about_map_s_text_block_h1
 msgid "About Us"
-msgstr ""
+msgstr "درباره ما"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_company_team_basic
@@ -170,7 +170,7 @@ msgstr ""
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_quadrant
 msgid "Contact Us"
-msgstr ""
+msgstr "تماس با ما"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.configurator_s_discovery
@@ -237,7 +237,7 @@ msgstr ""
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_three_columns
 msgid "Details"
-msgstr ""
+msgstr "جزییات"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_pricelist_boxed
@@ -252,7 +252,7 @@ msgstr ""
 #. module: theme_nano
 #: model:ir.model.fields,field_description:theme_nano.field_theme_utils__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_features
@@ -298,7 +298,7 @@ msgstr ""
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_discovery
 msgid "Get Started"
-msgstr ""
+msgstr "شروع کنید"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_empowerment
@@ -323,7 +323,7 @@ msgstr ""
 #. module: theme_nano
 #: model:ir.model.fields,field_description:theme_nano.field_theme_utils__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_pricelist_boxed
@@ -395,7 +395,7 @@ msgstr ""
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_references_social
 msgid "Mountain"
-msgstr ""
+msgstr "کوه"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_references_social
@@ -539,7 +539,7 @@ msgstr ""
 #. module: theme_nano
 #: model:ir.model,name:theme_nano.model_theme_utils
 msgid "Theme Utils"
-msgstr ""
+msgstr "ابزارهای تم"
 
 #. module: theme_nano
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_three_columns
@@ -612,3 +612,4 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_nano.s_pricelist_boxed
 msgid "✽  Technology Solutions"
 msgstr ""
+

@@ -1279,7 +1279,7 @@ msgstr "دکمه CL"
 #. odoo-javascript
 #: code:addons/web/static/src/search/search_panel/search_panel.xml:0
 msgid "CLEAR ALL"
-msgstr ""
+msgstr "پاک کردن همه"
 
 #. module: web
 #. odoo-javascript
@@ -2985,7 +2985,7 @@ msgstr ""
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.config_speedscope_index
 msgid "Frames"
-msgstr ""
+msgstr "فریم‌ها"
 
 #. module: web
 #: model_terms:ir.ui.view,arch_db:web.config_speedscope_index
@@ -3881,7 +3881,7 @@ msgstr "بزرگ"
 #. odoo-javascript
 #: code:addons/web/static/src/core/tree_editor/tree_editor_components.js:0
 msgid "Last 12 months"
-msgstr ""
+msgstr "12 ماه گذشته"
 
 #. module: web
 #. odoo-javascript
@@ -6962,7 +6962,7 @@ msgstr "زمان"
 #. odoo-javascript
 #: code:addons/web/static/src/webclient/debug/profiling/profiling_item.xml:0
 msgid "Time Limit (seconds)"
-msgstr ""
+msgstr "محدودیت زمانی (ثانیه)"
 
 #. module: web
 #. odoo-javascript
@@ -7752,7 +7752,7 @@ msgstr "سال"
 #. odoo-javascript
 #: code:addons/web/static/src/core/tree_editor/tree_editor_components.js:0
 msgid "Year to date"
-msgstr ""
+msgstr "سال تا به امروز"
 
 #. module: web
 #. odoo-javascript
@@ -8997,7 +8997,7 @@ msgstr "سوسک"
 #. odoo-javascript
 #: code:addons/web/static/src/core/tree_editor/tree_editor_operator_editor.js:0
 msgid "before"
-msgstr ""
+msgstr "قبل"
 
 #. module: web
 #. odoo-javascript
@@ -12635,7 +12635,7 @@ msgstr "امپانادا"
 #. odoo-javascript
 #: code:addons/web/static/src/webclient/actions/blank_component.xml:0
 msgid "empty"
-msgstr ""
+msgstr "خالی"
 
 #. module: web
 #. odoo-javascript
@@ -17678,7 +17678,7 @@ msgstr "ماژول /home/esmaeil/m_t/web از اودو"
 #. odoo-javascript
 #: code:addons/web/static/src/core/tree_editor/tree_editor_operator_editor.js:0
 msgid "match"
-msgstr ""
+msgstr "همخوانی"
 
 #. module: web
 #. odoo-javascript
@@ -18713,7 +18713,7 @@ msgstr "<p>عبور عابران پیاده ممنوع</p>"
 #. odoo-javascript
 #: code:addons/web/static/src/core/tree_editor/tree_editor.xml:0
 msgid "no records"
-msgstr ""
+msgstr "رکوردی نیست"
 
 #. module: web
 #. odoo-javascript
@@ -24854,7 +24854,7 @@ msgstr "تاکسیدو"
 #. odoo-javascript
 #: code:addons/web/static/src/core/emoji_picker/emoji_data.js:0
 msgid "tv"
-msgstr ""
+msgstr "تلویزیون"
 
 #. module: web
 #. odoo-javascript
@@ -27579,3 +27579,4 @@ msgstr ""
 
 #~ msgid "set (true)"
 #~ msgstr "تعیین (درست)"
+

@@ -154,7 +154,7 @@ msgstr ""
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_three_columns
 msgid "About me"
-msgstr ""
+msgstr "درباره من"
 
 #. module: theme_artists
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_pricelist_boxed
@@ -825,3 +825,4 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_artists.s_pricelist_boxed
 msgid "✽  Modern Art"
 msgstr ""
+

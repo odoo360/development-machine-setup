@@ -110,7 +110,7 @@ msgstr ""
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_cta_box
 msgid "Contact us"
-msgstr ""
+msgstr "تماس با ما"
 
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_pricelist_boxed
@@ -137,7 +137,7 @@ msgstr ""
 #. module: theme_paptic
 #: model:ir.model.fields,field_description:theme_paptic.field_theme_utils__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_key_images
@@ -237,7 +237,7 @@ msgstr ""
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_quadrant
 msgid "Get Started"
-msgstr ""
+msgstr "شروع کنید"
 
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_three_columns
@@ -265,7 +265,7 @@ msgstr ""
 #. module: theme_paptic
 #: model:ir.model.fields,field_description:theme_paptic.field_theme_utils__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_quadrant
@@ -331,7 +331,7 @@ msgstr ""
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_empowerment
 msgid "Our solutions"
-msgstr ""
+msgstr "راه‌حل‌های ما"
 
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_key_images
@@ -397,12 +397,12 @@ msgstr ""
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_three_columns
 msgid "Success Stories"
-msgstr ""
+msgstr "موفقیت‌ها"
 
 #. module: theme_paptic
 #: model:ir.model,name:theme_paptic.model_theme_utils
 msgid "Theme Utils"
-msgstr ""
+msgstr "ابزارهای تم"
 
 #. module: theme_paptic
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_image_text
@@ -453,3 +453,4 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_paptic.s_pricelist_boxed
 msgid "✽  Technology Solutions"
 msgstr ""
+

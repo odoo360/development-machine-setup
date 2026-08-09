@@ -89,17 +89,17 @@ msgstr ""
 #. module: payment_demo
 #: model_terms:ir.ui.view,arch_db:payment_demo.express_inline_form
 msgid "Belgium"
-msgstr ""
+msgstr "بلژیک"
 
 #. module: payment_demo
 #: model_terms:ir.ui.view,arch_db:payment_demo.payment_transaction_form
 msgid "Cancel"
-msgstr ""
+msgstr "لغو"
 
 #. module: payment_demo
 #: model:ir.model.fields.selection,name:payment_demo.selection__payment_token__demo_simulated_state__cancel
 msgid "Canceled"
-msgstr ""
+msgstr "لغو شده"
 
 #. module: payment_demo
 #: model:ir.model.fields,field_description:payment_demo.field_payment_transaction__capture_manually
@@ -117,28 +117,28 @@ msgstr ""
 #. module: payment_demo
 #: model_terms:ir.ui.view,arch_db:payment_demo.express_checkout_form
 msgid "Close"
-msgstr ""
+msgstr "بستن"
 
 #. module: payment_demo
 #: model:ir.model.fields,field_description:payment_demo.field_payment_provider__code
 msgid "Code"
-msgstr ""
+msgstr "کد"
 
 #. module: payment_demo
 #: model_terms:ir.ui.view,arch_db:payment_demo.payment_transaction_form
 msgid "Confirm"
-msgstr ""
+msgstr "تأیید"
 
 #. module: payment_demo
 #: model:ir.model.fields.selection,name:payment_demo.selection__payment_token__demo_simulated_state__done
 msgid "Confirmed"
-msgstr ""
+msgstr "تایید شده"
 
 #. module: payment_demo
 #: model:ir.model.fields.selection,name:payment_demo.selection__payment_provider__code__demo
 #: model:payment.method,name:payment_demo.payment_method_demo
 msgid "Demo"
-msgstr ""
+msgstr "آزمایشی"
 
 #. module: payment_demo
 #: model_terms:ir.ui.view,arch_db:payment_demo.express_checkout_form
@@ -156,19 +156,19 @@ msgstr ""
 #: model:ir.model.fields,field_description:payment_demo.field_payment_token__display_name
 #: model:ir.model.fields,field_description:payment_demo.field_payment_transaction__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: payment_demo
 #: model:ir.model.fields.selection,name:payment_demo.selection__payment_token__demo_simulated_state__error
 msgid "Error"
-msgstr ""
+msgstr "خطا"
 
 #. module: payment_demo
 #: model:ir.model.fields,field_description:payment_demo.field_payment_provider__id
 #: model:ir.model.fields,field_description:payment_demo.field_payment_token__id
 #: model:ir.model.fields,field_description:payment_demo.field_payment_transaction__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: payment_demo
 #. odoo-javascript
@@ -179,7 +179,7 @@ msgstr ""
 #. module: payment_demo
 #: model_terms:ir.ui.view,arch_db:payment_demo.express_checkout_form
 msgid "Pay"
-msgstr ""
+msgstr "پرداخت"
 
 #. module: payment_demo
 #: model_terms:ir.ui.view,arch_db:payment_demo.express_checkout_form
@@ -189,23 +189,23 @@ msgstr ""
 #. module: payment_demo
 #: model:ir.model,name:payment_demo.model_payment_provider
 msgid "Payment Provider"
-msgstr ""
+msgstr "سرویس دهنده پرداخت"
 
 #. module: payment_demo
 #: model:ir.model,name:payment_demo.model_payment_token
 msgid "Payment Token"
-msgstr ""
+msgstr "توکن پرداخت"
 
 #. module: payment_demo
 #: model:ir.model,name:payment_demo.model_payment_transaction
 msgid "Payment Transaction"
-msgstr ""
+msgstr "تراکنش پرداخت"
 
 #. module: payment_demo
 #. odoo-javascript
 #: code:addons/payment_demo/static/src/interactions/payment_demo_mixin.js:0
 msgid "Payment processing failed"
-msgstr ""
+msgstr "پردازش پرداخت انجام نشد"
 
 #. module: payment_demo
 #: model_terms:ir.ui.view,arch_db:payment_demo.token_inline_form
@@ -234,7 +234,7 @@ msgstr ""
 #. module: payment_demo
 #: model:ir.model.fields.selection,name:payment_demo.selection__payment_token__demo_simulated_state__pending
 msgid "Pending"
-msgstr ""
+msgstr "معلق"
 
 #. module: payment_demo
 #. odoo-python
@@ -255,7 +255,7 @@ msgstr ""
 #. module: payment_demo
 #: model_terms:ir.ui.view,arch_db:payment_demo.express_checkout_form
 msgid "Test Mode"
-msgstr ""
+msgstr "روش تست"
 
 #. module: payment_demo
 #: model:ir.model.fields,help:payment_demo.field_payment_token__demo_simulated_state
@@ -265,18 +265,18 @@ msgstr ""
 #. module: payment_demo
 #: model:ir.model.fields,help:payment_demo.field_payment_provider__code
 msgid "The technical code of this payment provider."
-msgstr ""
+msgstr "کد فنی این ارائه دهنده پرداخت."
 
 #. module: payment_demo
 #: model_terms:ir.ui.view,arch_db:payment_demo.express_checkout_form
 msgid "Unpublished"
-msgstr ""
+msgstr "منتشر نشده"
 
 #. module: payment_demo
 #. odoo-javascript
 #: code:addons/payment_demo/static/src/interactions/express_checkout.js:0
 msgid "Validation Error"
-msgstr ""
+msgstr "خطای اعتبارسنجی"
 
 #. module: payment_demo
 #: model_terms:ir.ui.view,arch_db:payment_demo.payment_details
@@ -288,3 +288,4 @@ msgstr ""
 #: code:addons/payment_demo/models/payment_transaction.py:0
 msgid "You selected the following demo payment status: %s"
 msgstr ""
+

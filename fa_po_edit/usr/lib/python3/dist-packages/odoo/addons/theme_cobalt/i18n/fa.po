@@ -144,7 +144,7 @@ msgstr ""
 #. module: theme_cobalt
 #: model:ir.model.fields,field_description:theme_cobalt.field_theme_utils__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: theme_cobalt
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_key_images
@@ -206,7 +206,7 @@ msgstr ""
 #. module: theme_cobalt
 #: model:ir.model.fields,field_description:theme_cobalt.field_theme_utils__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: theme_cobalt
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_pricelist_boxed
@@ -269,7 +269,7 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_image_text
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_text_image
 msgid "Marketing"
-msgstr ""
+msgstr "بازاریابی"
 
 #. module: theme_cobalt
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_cta_box
@@ -285,7 +285,7 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_cta_box
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_empowerment
 msgid "Our services"
-msgstr ""
+msgstr "خدمات ما"
 
 #. module: theme_cobalt
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_key_benefits
@@ -307,7 +307,7 @@ msgstr ""
 #. module: theme_cobalt
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_title
 msgid "Projects"
-msgstr ""
+msgstr "پروژه‌ها"
 
 #. module: theme_cobalt
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_key_images
@@ -324,7 +324,7 @@ msgstr ""
 #. module: theme_cobalt
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_call_to_action
 msgid "START NOW"
-msgstr ""
+msgstr "شروع اکنون"
 
 #. module: theme_cobalt
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_key_images
@@ -405,7 +405,7 @@ msgstr ""
 #. module: theme_cobalt
 #: model:ir.model,name:theme_cobalt.model_theme_utils
 msgid "Theme Utils"
-msgstr ""
+msgstr "ابزارهای تم"
 
 #. module: theme_cobalt
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_striped_center_top
@@ -448,3 +448,4 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_cobalt.s_pricelist_boxed
 msgid "✽  Technology Solutions"
 msgstr ""
+

@@ -66,7 +66,7 @@ msgstr ""
 #: model:ir.model,name:stock_fleet.model_stock_picking_batch
 #: model_terms:ir.ui.view,arch_db:stock_fleet.stock_picking_batch_pivot
 msgid "Batch Transfer"
-msgstr ""
+msgstr "انتقال دسته‌ای"
 
 #. module: stock_fleet
 #: model_terms:ir.ui.view,arch_db:stock_fleet.stock_picking_type_kanban_inherit_stock_fleet
@@ -76,12 +76,12 @@ msgstr ""
 #. module: stock_fleet
 #: model_terms:ir.ui.view,arch_db:stock_fleet.stock_picking_type_kanban_inherit_stock_fleet
 msgid "Calendar"
-msgstr ""
+msgstr "تقویم"
 
 #. module: stock_fleet
 #: model:ir.model,name:stock_fleet.model_fleet_vehicle_model_category
 msgid "Category of the model"
-msgstr ""
+msgstr "دسته‌بندی مدل"
 
 #. module: stock_fleet
 #: model:ir.model.fields,field_description:stock_fleet.field_stock_picking_batch__has_dispatch_management
@@ -96,7 +96,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_fleet.field_stock_picking_type__display_name
 #: model:ir.model.fields,field_description:stock_fleet.field_stock_warehouse__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: stock_fleet
 #: model:ir.model.fields,field_description:stock_fleet.field_stock_picking_batch__dock_id
@@ -122,7 +122,7 @@ msgstr ""
 #. module: stock_fleet
 #: model:ir.model.fields,field_description:stock_fleet.field_stock_picking_batch__driver_id
 msgid "Driver"
-msgstr ""
+msgstr "راننده"
 
 #. module: stock_fleet
 #: model:ir.model.fields,help:stock_fleet.field_stock_picking_batch__has_dispatch_management
@@ -135,7 +135,7 @@ msgstr ""
 #. module: stock_fleet
 #: model:ir.model.fields,field_description:stock_fleet.field_stock_picking_batch__end_date
 msgid "End Date"
-msgstr ""
+msgstr "تاریخ پایان"
 
 #. module: stock_fleet
 #: model_terms:ir.ui.view,arch_db:stock_fleet.stock_picking_batch_graph
@@ -149,7 +149,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_fleet.field_stock_picking_type__id
 #: model:ir.model.fields,field_description:stock_fleet.field_stock_warehouse__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: stock_fleet
 #: model_terms:ir.ui.view,arch_db:stock_fleet.stock_picking_type_kanban_inherit_stock_fleet
@@ -159,7 +159,7 @@ msgstr ""
 #. module: stock_fleet
 #: model:ir.model.fields,field_description:stock_fleet.field_fleet_vehicle_model_category__volume_capacity
 msgid "Max Volume"
-msgstr ""
+msgstr "حداکثر حجم"
 
 #. module: stock_fleet
 #: model:ir.model.fields,field_description:stock_fleet.field_stock_picking_batch__vehicle_volume_capacity
@@ -169,7 +169,7 @@ msgstr ""
 #. module: stock_fleet
 #: model:ir.model.fields,field_description:stock_fleet.field_fleet_vehicle_model_category__weight_capacity
 msgid "Max Weight"
-msgstr ""
+msgstr "حداکثر وزن"
 
 #. module: stock_fleet
 #: model_terms:ir.ui.view,arch_db:stock_fleet.stock_picking_batch_filter
@@ -179,7 +179,7 @@ msgstr ""
 #. module: stock_fleet
 #: model_terms:ir.ui.view,arch_db:stock_fleet.stock_picking_batch_filter
 msgid "Operation Type"
-msgstr ""
+msgstr "نوع عملیات"
 
 #. module: stock_fleet
 #: model_terms:ir.ui.view,arch_db:stock_fleet.stock_picking_batch_filter
@@ -189,17 +189,17 @@ msgstr ""
 #. module: stock_fleet
 #: model:ir.model,name:stock_fleet.model_stock_picking_type
 msgid "Picking Type"
-msgstr ""
+msgstr "نوع برداشت"
 
 #. module: stock_fleet
 #: model_terms:ir.ui.view,arch_db:stock_fleet.stock_picking_batch_filter
 msgid "Scheduled Date"
-msgstr ""
+msgstr "تاریخ برنامه ریزی شده"
 
 #. module: stock_fleet
 #: model_terms:ir.ui.view,arch_db:stock_fleet.report_picking_batch_inherit
 msgid "Sequence"
-msgstr ""
+msgstr "دنباله"
 
 #. module: stock_fleet
 #: model_terms:ir.ui.view,arch_db:stock_fleet.vpicktree
@@ -209,12 +209,12 @@ msgstr ""
 #. module: stock_fleet
 #: model_terms:ir.ui.view,arch_db:stock_fleet.vpicktree
 msgid "Shipping Weight"
-msgstr ""
+msgstr "وزن ارسال"
 
 #. module: stock_fleet
 #: model_terms:ir.ui.view,arch_db:stock_fleet.stock_picking_type_kanban_inherit_stock_fleet
 msgid "Statistics"
-msgstr ""
+msgstr "آمار"
 
 #. module: stock_fleet
 #: model_terms:ir.ui.view,arch_db:stock_fleet.stock_picking_batch_filter
@@ -229,12 +229,12 @@ msgstr ""
 #. module: stock_fleet
 #: model_terms:ir.ui.view,arch_db:stock_fleet.stock_picking_batch_filter
 msgid "Today"
-msgstr ""
+msgstr "امروز"
 
 #. module: stock_fleet
 #: model_terms:ir.ui.view,arch_db:stock_fleet.stock_picking_batch_filter
 msgid "Tomorrow"
-msgstr ""
+msgstr "فردا"
 
 #. module: stock_fleet
 #: model_terms:ir.ui.view,arch_db:stock_fleet.vpicktree
@@ -249,7 +249,7 @@ msgstr ""
 #. module: stock_fleet
 #: model:ir.model,name:stock_fleet.model_stock_picking
 msgid "Transfer"
-msgstr ""
+msgstr "انتقال"
 
 #. module: stock_fleet
 #: model:fleet.vehicle.tag,name:stock_fleet.vehicle_tag_transport
@@ -270,7 +270,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_fleet.field_stock_picking_batch__vehicle_id
 #: model_terms:ir.ui.view,arch_db:stock_fleet.stock_picking_batch_filter
 msgid "Vehicle"
-msgstr ""
+msgstr "وسیله نقلیه"
 
 #. module: stock_fleet
 #: model:ir.model.fields,field_description:stock_fleet.field_stock_picking_batch__vehicle_category_id
@@ -281,7 +281,7 @@ msgstr ""
 #. module: stock_fleet
 #: model_terms:ir.ui.view,arch_db:stock_fleet.stock_picking_batch_form
 msgid "Volume"
-msgstr ""
+msgstr "ارتفاع"
 
 #. module: stock_fleet
 #: model:ir.model.fields,field_description:stock_fleet.field_stock_picking_batch__used_volume_percentage
@@ -292,17 +292,17 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_fleet.field_fleet_vehicle_model_category__volume_capacity_uom_name
 #: model:ir.model.fields,field_description:stock_fleet.field_stock_picking_batch__volume_uom_name
 msgid "Volume unit of measure label"
-msgstr ""
+msgstr "برچسب واحد اندازه گیری حجم"
 
 #. module: stock_fleet
 #: model:ir.model,name:stock_fleet.model_stock_warehouse
 msgid "Warehouse"
-msgstr ""
+msgstr "انبار"
 
 #. module: stock_fleet
 #: model_terms:ir.ui.view,arch_db:stock_fleet.stock_picking_batch_form
 msgid "Weight"
-msgstr ""
+msgstr "وزن"
 
 #. module: stock_fleet
 #: model:ir.model.fields,field_description:stock_fleet.field_stock_picking_batch__used_weight_percentage
@@ -313,14 +313,15 @@ msgstr ""
 #: model:ir.model.fields,field_description:stock_fleet.field_fleet_vehicle_model_category__weight_capacity_uom_name
 #: model:ir.model.fields,field_description:stock_fleet.field_stock_picking_batch__weight_uom_name
 msgid "Weight unit of measure label"
-msgstr ""
+msgstr "برچسب واحد اندازه گیری وزن"
 
 #. module: stock_fleet
 #: model:ir.model.fields,field_description:stock_fleet.field_stock_picking__zip
 msgid "Zip"
-msgstr ""
+msgstr "کد پستی"
 
 #. module: stock_fleet
 #: model_terms:ir.ui.view,arch_db:stock_fleet.stock_picking_batch_form
 msgid "semi-truck"
 msgstr ""
+

@@ -891,7 +891,7 @@ msgstr "کاربر"
 #: model_terms:ir.ui.view,arch_db:resource.resource_calendar_form
 #: model_terms:ir.ui.view,arch_db:resource.resource_resource_form
 msgid "Visible to all"
-msgstr ""
+msgstr "قابل‌مشاهده برای همه"
 
 #. module: resource
 #: model:ir.model.fields.selection,name:resource.selection__resource_calendar_attendance__dayofweek__2
@@ -1067,3 +1067,4 @@ msgstr "این هفته"
 
 #~ msgid "second"
 #~ msgstr "ثانیه"
+

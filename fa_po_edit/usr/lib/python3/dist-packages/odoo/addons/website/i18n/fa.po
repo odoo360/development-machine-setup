@@ -3182,7 +3182,7 @@ msgstr ""
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippets
 msgid "Adventure"
-msgstr ""
+msgstr "ماجراجویی"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.cookie_policy
@@ -4459,7 +4459,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website/static/src/builder/plugins/floating_blocks/floating_blocks_option.xml:0
 msgid "Card Title"
-msgstr ""
+msgstr "کارت عنوان"
 
 #. module: website
 #. odoo-javascript
@@ -5390,7 +5390,7 @@ msgstr "متن محتوای مورد نظر برای ترجمه را قرار د
 #. odoo-javascript
 #: code:addons/website/static/src/builder/plugins/options/footer_option.xml:0
 msgid "Content width"
-msgstr ""
+msgstr "عرض محتوا"
 
 #. module: website
 #. odoo-javascript
@@ -5709,7 +5709,7 @@ msgstr ""
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_product_catalog
 msgid "Croissant"
-msgstr ""
+msgstr "کروسانت"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.new_page_template_landing_s_color_blocks_2
@@ -6427,7 +6427,7 @@ msgstr ""
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippets
 msgid "Discovery"
-msgstr ""
+msgstr "کشف"
 
 #. module: website
 #. odoo-javascript
@@ -6863,7 +6863,7 @@ msgstr "به‌راحتی بازدیدکننده خود را با Plausible پی
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_attributes_horizontal
 msgid "Easy returns"
-msgstr ""
+msgstr "بازگشت آسان"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_attributes_vertical
@@ -7721,7 +7721,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website/static/src/builder/plugins/form/utils.js:0
 msgid "Field"
-msgstr ""
+msgstr "فیلد"
 
 #. module: website
 #: model:ir.model.fields,field_description:website.field_website_snippet_filter__field_names
@@ -8320,7 +8320,7 @@ msgstr "تحویل بگیرید"
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_intro_pill
 msgid "Get Started"
-msgstr ""
+msgstr "شروع کنید"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.template_footer_descriptive
@@ -12540,7 +12540,7 @@ msgstr "ارزش‌های ما"
 #: model_terms:ir.ui.view,arch_db:website.template_footer_mega_columns
 #: model_terms:ir.ui.view,arch_db:website.template_footer_mega_links
 msgid "Our company"
-msgstr ""
+msgstr "شرکت ما"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_accordion
@@ -13144,7 +13144,7 @@ msgstr "پای"
 #. odoo-javascript
 #: code:addons/website/static/src/builder/plugins/options/header/header_navigation_option.xml:0
 msgid "Pill"
-msgstr ""
+msgstr "قرص"
 
 #. module: website
 #. odoo-javascript
@@ -13337,7 +13337,7 @@ msgstr "پیش‌نمایش"
 #. odoo-javascript
 #: code:addons/website/static/src/builder/builder_urlpicker.xml:0
 msgid "Preview this URL in a new tab"
-msgstr ""
+msgstr "پیش‌نمایش این نشانی وب در یک زبانه جدید"
 
 #. module: website
 #. odoo-javascript
@@ -14941,7 +14941,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/website/static/src/builder/plugins/options/ecomm_categories_showcase_option.xml:0
 msgid "Short"
-msgstr ""
+msgstr "کوتاه"
 
 #. module: website
 #: model:ir.model.fields,help:website.field_website__auto_redirect_lang
@@ -15205,7 +15205,7 @@ msgstr ""
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_carousel_cards
 msgid "Slide title"
-msgstr ""
+msgstr "عنوان اسلاید"
 
 #. module: website
 #. odoo-javascript
@@ -17769,7 +17769,7 @@ msgstr "هشدار"
 #: model:ir.model.fields,field_description:website.field_website_controller_page__warning_info
 #: model:ir.model.fields,field_description:website.field_website_page__warning_info
 msgid "Warning information"
-msgstr ""
+msgstr "اطلاعات هشدار"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_mega_menu_menus_logos
@@ -18492,7 +18492,7 @@ msgstr "واتس‌اَپ"
 #. odoo-javascript
 #: code:addons/website/static/src/builder/plugins/options/social_media_option_plugin.js:0
 msgid "Whatsapp"
-msgstr ""
+msgstr "واتس‌اَپ"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.s_masonry_block_alternation_image_text_template
@@ -19156,7 +19156,7 @@ msgstr "بستن"
 #. odoo-javascript
 #: code:addons/website/static/src/builder/plugins/highlight/highlight_configurator.xml:0
 msgid "color"
-msgstr ""
+msgstr "رنگ"
 
 #. module: website
 #: model_terms:ir.ui.view,arch_db:website.snippets
@@ -20534,3 +20534,4 @@ msgstr ""
 
 #~ msgid "Your description looks too short."
 #~ msgstr "توضیحات شما به نظر خیلی کوتاه است."
+

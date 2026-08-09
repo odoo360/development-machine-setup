@@ -24,20 +24,21 @@ msgstr ""
 #. module: hr_holidays_homeworking
 #: model:ir.model.fields,field_description:hr_holidays_homeworking.field_hr_employee__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: hr_holidays_homeworking
 #: model:ir.model,name:hr_holidays_homeworking.model_hr_employee
 msgid "Employee"
-msgstr ""
+msgstr "کارمند"
 
 #. module: hr_holidays_homeworking
 #: model:ir.model.fields,field_description:hr_holidays_homeworking.field_hr_employee__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: hr_holidays_homeworking
 #. odoo-javascript
 #: code:addons/hr_holidays_homeworking/static/src/components/hr_presence_status/hr_presence_status.js:0
 msgid "Unspecified"
-msgstr ""
+msgstr "نامشخص"
+

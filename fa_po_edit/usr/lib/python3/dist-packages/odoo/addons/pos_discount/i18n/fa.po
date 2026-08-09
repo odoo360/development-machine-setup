@@ -72,13 +72,13 @@ msgstr "تخفیف محصول"
 #: model:ir.model.fields,field_description:pos_discount.field_product_template__display_name
 #: model:ir.model.fields,field_description:pos_discount.field_res_config_settings__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: pos_discount
 #. odoo-javascript
 #: code:addons/pos_discount/static/src/app/screens/ticket_screen/ticket_screen.js:0
 msgid "Error"
-msgstr ""
+msgstr "خطا"
 
 #. module: pos_discount
 #: model:ir.model.fields,field_description:pos_discount.field_account_move_line__id
@@ -86,12 +86,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:pos_discount.field_product_template__id
 #: model:ir.model.fields,field_description:pos_discount.field_res_config_settings__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: pos_discount
 #: model:ir.model,name:pos_discount.model_account_move_line
 msgid "Journal Item"
-msgstr ""
+msgstr "آیتم روزنامه"
 
 #. module: pos_discount
 #. odoo-javascript
@@ -117,7 +117,7 @@ msgstr ""
 #. module: pos_discount
 #: model:ir.model,name:pos_discount.model_product_template
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 #. module: pos_discount
 #: model:ir.model.fields,help:pos_discount.field_pos_config__discount_pc
@@ -146,3 +146,4 @@ msgstr ""
 
 #~ msgid "Point of Sale Session"
 #~ msgstr "جلسه پایانه فروش"
+

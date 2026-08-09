@@ -40,24 +40,24 @@ msgstr ""
 #. module: payment_buckaroo
 #: model:ir.model.fields,field_description:payment_buckaroo.field_payment_provider__code
 msgid "Code"
-msgstr ""
+msgstr "کد"
 
 #. module: payment_buckaroo
 #: model:ir.model.fields,field_description:payment_buckaroo.field_payment_provider__display_name
 #: model:ir.model.fields,field_description:payment_buckaroo.field_payment_transaction__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: payment_buckaroo
 #: model:ir.model.fields,field_description:payment_buckaroo.field_payment_provider__id
 #: model:ir.model.fields,field_description:payment_buckaroo.field_payment_transaction__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: payment_buckaroo
 #: model:ir.model,name:payment_buckaroo.model_payment_provider
 msgid "Payment Provider"
-msgstr ""
+msgstr "سرویس دهنده پرداخت"
 
 #. module: payment_buckaroo
 #: model:ir.model,name:payment_buckaroo.model_payment_transaction
@@ -73,7 +73,7 @@ msgstr ""
 #. module: payment_buckaroo
 #: model_terms:ir.ui.view,arch_db:payment_buckaroo.payment_provider_form
 msgid "Secret Key"
-msgstr ""
+msgstr "کلید محرمانه"
 
 #. module: payment_buckaroo
 #: model:ir.model.fields,help:payment_buckaroo.field_payment_provider__buckaroo_website_key
@@ -83,7 +83,7 @@ msgstr ""
 #. module: payment_buckaroo
 #: model:ir.model.fields,help:payment_buckaroo.field_payment_provider__code
 msgid "The technical code of this payment provider."
-msgstr ""
+msgstr "کد فنی این ارائه دهنده پرداخت."
 
 #. module: payment_buckaroo
 #. odoo-python
@@ -107,3 +107,4 @@ msgstr ""
 
 #~ msgid "Provider"
 #~ msgstr "فراهم‌کننده"
+

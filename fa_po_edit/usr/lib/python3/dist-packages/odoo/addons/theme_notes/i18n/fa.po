@@ -322,7 +322,7 @@ msgstr ""
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_masonry_block_default_template
 msgid "Brussels"
-msgstr ""
+msgstr "بروکسل"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
@@ -441,7 +441,7 @@ msgstr ""
 #. module: theme_notes
 #: model:ir.model.fields,field_description:theme_notes.field_theme_utils__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel_intro
@@ -644,7 +644,7 @@ msgstr ""
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_text_cover
 msgid "Get started"
-msgstr ""
+msgstr "شروع کنید"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_three_columns
@@ -691,12 +691,12 @@ msgstr ""
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_list
 msgid "Hoodies"
-msgstr ""
+msgstr "هودی‌ها"
 
 #. module: theme_notes
 #: model:ir.model.fields,field_description:theme_notes.field_theme_utils__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_freegrid
@@ -864,12 +864,12 @@ msgstr ""
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_carousel
 msgid "More Info"
-msgstr ""
+msgstr "اطلاعات بیشتر"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_media_list
 msgid "More info"
-msgstr ""
+msgstr "اطلاعات بیشتر"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_quadrant
@@ -999,7 +999,7 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_basic
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_detail
 msgid "Singer"
-msgstr ""
+msgstr "خواننده"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_detail
@@ -1026,12 +1026,12 @@ msgstr ""
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_list
 msgid "Sunglasses"
-msgstr ""
+msgstr "عینک آفتابی"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_list
 msgid "T-shirts"
-msgstr ""
+msgstr "تی‌شرت‌ها"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_company_team_detail
@@ -1060,7 +1060,7 @@ msgstr ""
 #. module: theme_notes
 #: model:ir.model,name:theme_notes.model_theme_utils
 msgid "Theme Utils"
-msgstr ""
+msgstr "ابزارهای تم"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
@@ -1148,7 +1148,7 @@ msgstr ""
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
 msgid "Upcoming events"
-msgstr ""
+msgstr "رویدادهای آتی"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_product_catalog
@@ -1238,7 +1238,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/theme_notes/static/src/js/tour.js:0
 msgid "width"
-msgstr ""
+msgstr "عرض"
 
 #. module: theme_notes
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
@@ -1249,3 +1249,4 @@ msgstr ""
 #: model_terms:theme.ir.ui.view,arch:theme_notes.s_pricelist_boxed
 msgid "✽  Music Festivals"
 msgstr ""
+

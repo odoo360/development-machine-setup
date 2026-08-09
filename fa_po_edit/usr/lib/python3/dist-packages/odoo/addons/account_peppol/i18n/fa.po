@@ -383,7 +383,7 @@ msgstr ""
 #. module: account_peppol
 #: model_terms:ir.ui.view,arch_db:account_peppol.res_config_settings_view_form
 msgid "Allow sending and receiving invoices through the Peppol network"
-msgstr ""
+msgstr "امکان ارسال و دریافت فاکتورها از طریق شبکه‌ی PEPPOL"
 
 #. module: account_peppol
 #. odoo-python
@@ -1075,7 +1075,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/account_peppol/static/src/web/account_move_form_controller.js:0
 msgid "No, Keep It"
-msgstr ""
+msgstr "نه، نگهش دار"
 
 #. module: account_peppol
 #. odoo-python
@@ -1176,7 +1176,7 @@ msgstr ""
 #. module: account_peppol
 #: model:ir.model.fields,field_description:account_peppol.field_peppol_registration__parent_company_id
 msgid "Parent Company"
-msgstr ""
+msgstr "شرکت مادر"
 
 #. module: account_peppol
 #: model:ir.model.fields.selection,name:account_peppol.selection__res_partner__peppol_verification_state__not_valid_format
@@ -1343,7 +1343,7 @@ msgstr ""
 #. module: account_peppol
 #: model_terms:ir.ui.view,arch_db:account_peppol.portal_my_details
 msgid "Peppol e-Address (EAS)"
-msgstr ""
+msgstr "نشانی الکترونیک Peppol (EAS)"
 
 #. module: account_peppol
 #: model:ir.model.fields,field_description:account_peppol.field_peppol_registration__peppol_eas
@@ -1516,7 +1516,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/account_peppol/static/src/web/account_move_form_controller.js:0
 msgid "Reset to draft"
-msgstr ""
+msgstr "بازنشانی به پیش‌نویس"
 
 #. module: account_peppol
 #: model_terms:ir.ui.view,arch_db:account_peppol.peppol_config_wizard_form
@@ -2352,7 +2352,7 @@ msgstr ""
 #. module: account_peppol
 #: model_terms:ir.ui.view,arch_db:account_peppol.peppol_registration_form
 msgid "support"
-msgstr ""
+msgstr "پشتیبانی"
 
 #. module: account_peppol
 #: model_terms:ir.ui.view,arch_db:account_peppol.mail_notification_layout_with_responsible_signature_and_peppol
@@ -2387,3 +2387,4 @@ msgstr ""
 
 #~ msgid "Valid"
 #~ msgstr "معتبر"
+

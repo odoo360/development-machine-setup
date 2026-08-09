@@ -865,7 +865,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:hr_timesheet.project_sharing_kanban_inherit_project_task_view_kanban
 #: model_terms:ir.ui.view,arch_db:hr_timesheet.view_task_kanban_inherited_progress
 msgid "Remaining days"
-msgstr ""
+msgstr "روزهای باقی مانده"
 
 #. module: hr_timesheet
 #: model:ir.ui.menu,name:hr_timesheet.menu_timesheets_reports
@@ -1728,3 +1728,4 @@ msgstr ""
 
 #~ msgid "hours"
 #~ msgstr "ساعت"
+

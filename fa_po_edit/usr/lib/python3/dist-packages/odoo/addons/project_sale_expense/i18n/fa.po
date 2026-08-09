@@ -21,26 +21,27 @@ msgstr ""
 #: model:ir.model.fields,field_description:project_sale_expense.field_hr_expense__display_name
 #: model:ir.model.fields,field_description:project_sale_expense.field_project_project__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "نام نمایشی"
 
 #. module: project_sale_expense
 #: model:ir.model,name:project_sale_expense.model_hr_expense
 msgid "Expense"
-msgstr ""
+msgstr "هزینه"
 
 #. module: project_sale_expense
 #: model:ir.model.fields,field_description:project_sale_expense.field_account_move_line__id
 #: model:ir.model.fields,field_description:project_sale_expense.field_hr_expense__id
 #: model:ir.model.fields,field_description:project_sale_expense.field_project_project__id
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #. module: project_sale_expense
 #: model:ir.model,name:project_sale_expense.model_account_move_line
 msgid "Journal Item"
-msgstr ""
+msgstr "آیتم روزنامه"
 
 #. module: project_sale_expense
 #: model:ir.model,name:project_sale_expense.model_project_project
 msgid "Project"
-msgstr ""
+msgstr "پروژه"
+

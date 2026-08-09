@@ -481,7 +481,7 @@ msgstr ""
 #. module: mass_mailing_sms
 #: model_terms:ir.ui.view,arch_db:mass_mailing_sms.mailing_mailing_view_kanban_sms
 msgid "Insufficient credits"
-msgstr ""
+msgstr "اعتبار ناکافی"
 
 #. module: mass_mailing_sms
 #: model:ir.model.fields.selection,name:mass_mailing_sms.selection__mailing_trace__failure_type__sms_invalid_destination
@@ -789,7 +789,7 @@ msgstr ""
 #. module: mass_mailing_sms
 #: model_terms:ir.ui.view,arch_db:mass_mailing_sms.mailing_mailing_view_form_sms
 msgid "SMS Content"
-msgstr ""
+msgstr "محتوای پیامک"
 
 #. module: mass_mailing_sms
 #: model:ir.model.fields,field_description:mass_mailing_sms.field_mailing_contact__message_has_sms_error
@@ -874,7 +874,7 @@ msgstr "ارسال"
 #. module: mass_mailing_sms
 #: model:ir.model.fields,field_description:mass_mailing_sms.field_mailing_mailing__sms_force_send
 msgid "Send Directly"
-msgstr ""
+msgstr "ارسال مستقیم"
 
 #. module: mass_mailing_sms
 #: model_terms:ir.ui.view,arch_db:mass_mailing_sms.mailing_mailing_view_form_sms
@@ -1030,7 +1030,7 @@ msgstr ""
 #. module: mass_mailing_sms
 #: model_terms:ir.ui.view,arch_db:mass_mailing_sms.mailing_mailing_view_kanban_sms
 msgid "Unregistered account"
-msgstr ""
+msgstr "حساب ثبت‌نشده"
 
 #. module: mass_mailing_sms
 #: model_terms:ir.ui.view,arch_db:mass_mailing_sms.blacklist_main
@@ -1098,3 +1098,4 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:mass_mailing_sms.blacklist_number
 msgid "has been successfully removed from"
 msgstr ""
+

@@ -177,7 +177,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/mass_mailing/static/src/builder/options/image_tool_option.xml:0
 msgid "2X"
-msgstr ""
+msgstr "۲x"
 
 #. module: mass_mailing
 #. odoo-javascript
@@ -206,7 +206,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/mass_mailing/static/src/builder/options/image_tool_option.xml:0
 msgid "4X"
-msgstr ""
+msgstr "۴x"
 
 #. module: mass_mailing
 #. odoo-javascript
@@ -1849,7 +1849,7 @@ msgstr "برچسب دکمه"
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_text_left_cta
 msgid "Buy Now"
-msgstr ""
+msgstr "اکنون خرید کنید"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_blog_title
@@ -1875,7 +1875,7 @@ msgstr ""
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.email_designer_snippets
 msgid "Call To Action"
-msgstr ""
+msgstr "فراخوان به اقدام"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.email_designer_snippets
@@ -2099,7 +2099,7 @@ msgstr "توصیه‌های مشتریان"
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_text_contact
 msgid "Closed"
-msgstr ""
+msgstr "بسته شد"
 
 #. module: mass_mailing
 #. odoo-javascript
@@ -2239,7 +2239,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_mail_block_header_logo_and_stacked_menu
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_mail_block_header_name_and_inline_menu
 msgid "Contact Us"
-msgstr ""
+msgstr "تماس با ما"
 
 #. module: mass_mailing
 #: model:ir.model.fields,help:mass_mailing.field_mailing_contact_import__contact_list
@@ -2288,7 +2288,7 @@ msgstr ""
 #. odoo-javascript
 #: code:addons/mass_mailing/static/src/builder/options/company_team_options.xml:0
 msgid "Content Width"
-msgstr ""
+msgstr "عرض محتوا"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_media_list
@@ -3407,7 +3407,7 @@ msgstr ""
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.email_designer_snippets
 msgid "Inner Content"
-msgstr ""
+msgstr "محتوای داخلی"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.social_links
@@ -3526,7 +3526,7 @@ msgstr ""
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.theme_default_template
 msgid "LOGIN"
-msgstr ""
+msgstr "ورود"
 
 #. module: mass_mailing
 #: model:ir.model.fields,field_description:mass_mailing.field_mailing_mailing__lang
@@ -3593,7 +3593,7 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_membership_advertisement
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_text_card
 msgid "Learn More"
-msgstr ""
+msgstr "اطلاعات بیشتر"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_text_image
@@ -4114,7 +4114,7 @@ msgstr ""
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.email_designer_snippets
 msgid "Menu"
-msgstr ""
+msgstr "منو"
 
 #. module: mass_mailing
 #: model:ir.actions.act_window,name:mass_mailing.mailing_list_merge_action
@@ -4152,7 +4152,7 @@ msgstr "خطای تحویل پیام"
 #. module: mass_mailing
 #: model:ir.model.fields,field_description:mass_mailing.field_mailing_trace__message_id
 msgid "Message-ID"
-msgstr ""
+msgstr "شناسه پیام"
 
 #. module: mass_mailing
 #: model:ir.model.fields,field_description:mass_mailing.field_mailing_contact__message_ids
@@ -4221,7 +4221,7 @@ msgstr "موعد نهای فعالیت من"
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.mailing_filter_view_search
 msgid "My Filters"
-msgstr ""
+msgstr "فیلترهای من"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.view_mail_mass_mailing_search
@@ -4259,12 +4259,12 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:mass_mailing.email_designer_snippets
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_text_need_help
 msgid "Need help?"
-msgstr ""
+msgstr "به کمک نیاز دارید؟"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_blog_post_card
 msgid "New Blog post"
-msgstr ""
+msgstr "پست بلاگ جدید"
 
 #. module: mass_mailing
 #: model:ir.model.fields,field_description:mass_mailing.field_mailing_list_merge__new_list_name
@@ -4512,7 +4512,7 @@ msgstr ""
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_section_mobile
 msgid "Odoo Mobile"
-msgstr ""
+msgstr "Odoo موبایل"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.ab_testing_description
@@ -4751,7 +4751,7 @@ msgstr ""
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_features_column
 msgid "Performance"
-msgstr ""
+msgstr "کارایی"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.res_config_settings_view_form
@@ -4772,7 +4772,7 @@ msgstr "عکس"
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.email_designer_themes
 msgid "Plain Text"
-msgstr ""
+msgstr "متن ساده"
 
 #. module: mass_mailing
 #. odoo-javascript
@@ -4823,7 +4823,7 @@ msgstr "پیش‌نمایش"
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.view_mail_mass_mailing_form
 msgid "Preview Text"
-msgstr ""
+msgstr "متن پیش‌نمایش"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.email_designer_snippets
@@ -4851,7 +4851,7 @@ msgstr "درحال پردازش"
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.email_designer_snippets
 msgid "Product Description"
-msgstr ""
+msgstr "شرح محصول"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.email_designer_snippets
@@ -4921,7 +4921,7 @@ msgstr "رتبه‌ها"
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_text_product_showcase
 msgid "Read More"
-msgstr ""
+msgstr "بیشتر بخوانید"
 
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_blog_post_card
@@ -5226,7 +5226,7 @@ msgstr ""
 #. module: mass_mailing
 #: model:ir.model.fields,field_description:mass_mailing.field_mailing_mailing__next_departure
 msgid "Scheduled date"
-msgstr ""
+msgstr "تاریخ برنامه ریزی شده"
 
 #. module: mass_mailing
 #: model:ir.model.fields,field_description:mass_mailing.field_mailing_mailing__schedule_date
@@ -5356,7 +5356,7 @@ msgstr ""
 #. module: mass_mailing
 #: model:ir.model.fields.selection,name:mass_mailing.selection__mailing_mailing__schedule_type__now
 msgid "Send now"
-msgstr ""
+msgstr "هم اکنون ارسال شود"
 
 #. module: mass_mailing
 #: model:ir.model.fields.selection,name:mass_mailing.selection__mailing_mailing__schedule_type__scheduled
@@ -5393,7 +5393,7 @@ msgstr "ارسال"
 #: model_terms:ir.ui.view,arch_db:mass_mailing.mailing_trace_report_view_search
 #: model_terms:ir.ui.view,arch_db:mass_mailing.view_mail_mass_mailing_search
 msgid "Sent By"
-msgstr ""
+msgstr "ارسال شده توسط"
 
 #. module: mass_mailing
 #: model:ir.model.fields,field_description:mass_mailing.field_mailing_mailing__sent_date
@@ -5664,7 +5664,7 @@ msgstr "موضوع"
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_content_card_7
 #: model_terms:ir.ui.view,arch_db:mass_mailing.s_mailing_list_advertisement
 msgid "Subscribe"
-msgstr ""
+msgstr "عضویت"
 
 #. module: mass_mailing
 #: model:ir.model,website_form_label:mass_mailing.model_mailing_contact
@@ -6307,7 +6307,7 @@ msgstr ""
 #. module: mass_mailing
 #: model_terms:ir.ui.view,arch_db:mass_mailing.email_designer_snippets
 msgid "Website"
-msgstr ""
+msgstr "تارنما"
 
 #. module: mass_mailing
 #: model:ir.model.fields,field_description:mass_mailing.field_mailing_contact__website_message_ids
@@ -6663,7 +6663,7 @@ msgstr ""
 #. odoo-python
 #: code:addons/mass_mailing/models/mailing_subscription.py:0
 msgid "id"
-msgstr ""
+msgstr "شناسه"
 
 #. module: mass_mailing
 #. odoo-javascript
@@ -6883,3 +6883,4 @@ msgstr ""
 
 #~ msgid "Your changes have been saved."
 #~ msgstr "تغییرات شما ثبت گردید"
+
